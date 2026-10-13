@@ -162,6 +162,15 @@
       "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
       "uid": "17d461f55a0e7a21f0780a93@unirsr-calendar"
     },
+    "192c8f72b8d37ff415de8974@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T13:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "11:30-13:30 | Lezione: Molecular cell biology (docente: FERRARI SAMUELE) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-20T11:30",
+      "subject": "Lezione: Molecular cell biology (docente: FERRARI SAMUELE)",
+      "uid": "192c8f72b8d37ff415de8974@unirsr-calendar"
+    },
     "19aa1ae64e4529adc747fab2@unirsr-calendar": {
       "date": "2026-11-13",
       "end": "2026-11-13T13:30",
@@ -1277,15 +1286,6 @@
       "start": "2026-11-20T11:30",
       "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
       "uid": "e95f87e34d5a991bc2ff03f7@unirsr-calendar"
-    },
-    "ec47b82d677a2e099b4b4efe@unirsr-calendar": {
-      "date": "2026-10-21",
-      "end": "2026-10-21T11:30",
-      "location": "VASARI Aula VA402 (4 piano)",
-      "raw": "09:30-11:30 | Lezione: Molecular cell biology (docente: FERRARI SAMUELE) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-21T09:30",
-      "subject": "Lezione: Molecular cell biology (docente: FERRARI SAMUELE)",
-      "uid": "ec47b82d677a2e099b4b4efe@unirsr-calendar"
     },
     "ece6a16c4c2a82a741e513b0@unirsr-calendar": {
       "date": "2026-11-17",

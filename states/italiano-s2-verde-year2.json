@@ -1406,10 +1406,10 @@
     },
     "f7acb35226a2a7c003f267f6@unirsr-calendar": {
       "date": "2026-10-16",
-      "end": "2026-10-16T17:30",
+      "end": "2026-10-16T12:30",
       "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Istologia (LINEA VERDE) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-16T15:30",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA VERDE) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-16T10:30",
       "subject": "Lezione: Istologia (LINEA VERDE) (docente: OSTUNI RENATO)",
       "uid": "f7acb35226a2a7c003f267f6@unirsr-calendar"
     },
