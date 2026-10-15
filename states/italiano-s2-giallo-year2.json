@@ -812,10 +812,10 @@
     },
     "9dd49dc26b8cd229aba0012f@unirsr-calendar": {
       "date": "2026-10-20",
-      "end": "2026-10-20T17:30",
+      "end": "2026-10-20T12:30",
       "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-20T15:30",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-20T10:30",
       "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA)",
       "uid": "9dd49dc26b8cd229aba0012f@unirsr-calendar"
     },
