@@ -128,10 +128,10 @@
     },
     "19c297631b16f2342b6f5d4a@unirsr-calendar": {
       "date": "2026-10-28",
-      "end": "2026-10-28T15:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
-      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-28T13:30",
+      "end": "2026-10-28T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-28T08:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
       "uid": "19c297631b16f2342b6f5d4a@unirsr-calendar"
     },
@@ -1026,6 +1026,15 @@
       "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
       "uid": "9d28642c14b9b11603405e5b@unirsr-calendar"
     },
+    "9d9082e2b88a2095954049c6@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T15:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-28T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
+      "uid": "9d9082e2b88a2095954049c6@unirsr-calendar"
+    },
     "9e1bc9981c1f87a1e96127ca@unirsr-calendar": {
       "date": "2026-11-02",
       "end": "2026-11-02T17:30",
@@ -1430,15 +1439,6 @@
       "start": "2026-10-07T17:30",
       "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
       "uid": "e2686808753c01a5ff69ac07@unirsr-calendar"
-    },
-    "e4027ad0bddeb8319ae045cf@unirsr-calendar": {
-      "date": "2026-10-29",
-      "end": "2026-10-29T12:30",
-      "location": "VASARI Aula VA301 (3 piano)",
-      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-29T10:30",
-      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
-      "uid": "e4027ad0bddeb8319ae045cf@unirsr-calendar"
     },
     "e45632908a57f92cba7107ed@unirsr-calendar": {
       "date": "2026-12-16",

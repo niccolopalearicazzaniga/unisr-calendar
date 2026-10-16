@@ -776,10 +776,10 @@
     },
     "75163f8cccc73b83c4890fe4@unirsr-calendar": {
       "date": "2026-10-28",
-      "end": "2026-10-28T17:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-28T15:30",
+      "end": "2026-10-28T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-28T08:30",
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: VITALE MARCO)",
       "uid": "75163f8cccc73b83c4890fe4@unirsr-calendar"
     },
@@ -980,15 +980,6 @@
       "start": "2026-11-11T13:30",
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: FALLETTA PAOLA)",
       "uid": "98cca285d94c75fdb32ebe8d@unirsr-calendar"
-    },
-    "9f2c6fcc5f8a49eeae3a12ea@unirsr-calendar": {
-      "date": "2026-10-29",
-      "end": "2026-10-29T12:30",
-      "location": "VASARI Aula VA301 (3 piano)",
-      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-29T10:30",
-      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: VITALE MARCO)",
-      "uid": "9f2c6fcc5f8a49eeae3a12ea@unirsr-calendar"
     },
     "a0bb89290f5e48d6147ce2fb@unirsr-calendar": {
       "date": "2026-11-04",
@@ -1349,6 +1340,15 @@
       "start": "2026-11-24T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CORTESE KATIA)",
       "uid": "d3dee22f313dc31900fc8ae2@unirsr-calendar"
+    },
+    "d3f7bdc5e616c0ccc8b670b5@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T17:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-28T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: VITALE MARCO)",
+      "uid": "d3f7bdc5e616c0ccc8b670b5@unirsr-calendar"
     },
     "d42b913abc1401f96760d8e6@unirsr-calendar": {
       "date": "2027-01-07",

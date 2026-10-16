@@ -279,15 +279,6 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI)",
       "uid": "3ff21bcf4701aa4c0572f2c3@unirsr-calendar"
     },
-    "425b3c3431a1f5f217670344@unirsr-calendar": {
-      "date": "2026-10-21",
-      "end": "2026-10-21T16:30",
-      "location": "VERROCCHIO Aula VE201 (2 piano)",
-      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-21T14:30",
-      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
-      "uid": "425b3c3431a1f5f217670344@unirsr-calendar"
-    },
     "48bf69796a7f16359df50148@unirsr-calendar": {
       "date": "2026-11-09",
       "end": "2026-11-09T13:30",
@@ -728,6 +719,15 @@
       "start": "2026-12-09T09:30",
       "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
       "uid": "8b98a9d1778ff210bb4cd37f@unirsr-calendar"
+    },
+    "8cb7b187aba367f3ff1e0aa6@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-22T09:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
+      "uid": "8cb7b187aba367f3ff1e0aa6@unirsr-calendar"
     },
     "8ec25e08bee93102e7cd886e@unirsr-calendar": {
       "date": "2026-11-17",
