@@ -1,16 +1,17 @@
+
 name: Update calendars
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 19 * * *"
+    - cron: "23 7,19 * * *"
     
 permissions:
   contents: write
 
 jobs:
   update-calendars:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
 
     steps:
       - name: Checkout repository
