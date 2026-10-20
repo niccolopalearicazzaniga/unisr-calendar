@@ -663,6 +663,35 @@ def process_calendar(
         )
     )
 
+    def event_details(lesson):
+        return (
+            lesson["date"],
+            lesson["start"],
+            lesson["end"],
+            lesson["subject"],
+            lesson.get("location", ""),
+        )
+
+    old_by_uid = {
+        lesson["uid"]: event_details(lesson)
+        for lesson in old_lessons
+        if lesson.get("uid")
+    }
+    new_by_uid = {
+        lesson["uid"]: event_details(lesson)
+        for lesson in all_lessons
+        if lesson.get("uid")
+    }
+    old_uids = set(old_by_uid)
+    new_uids = set(new_by_uid)
+    added = len(new_uids - old_uids)
+    removed = len(old_uids - new_uids)
+    updated = sum(
+        old_by_uid[uid] != new_by_uid[uid]
+        for uid in old_uids & new_uids
+    )
+    changed = added + updated + removed
+
     ics = generate_ics(
         all_lessons,
         today - timedelta(days=DAYS_BACK),
@@ -683,6 +712,9 @@ def process_calendar(
     print(
         f"  {calendar_key}: "
         f"{len(all_lessons)} active"
+        f"{len(all_lessons)} active, "
+        f"{changed} changed since last run "
+        f"({added} added, {updated} updated, {removed} removed)"
     )
 
 
