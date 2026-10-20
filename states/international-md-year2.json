@@ -207,15 +207,6 @@
       "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: GUARNERI GIOVANNI)",
       "uid": "1d74e0a4b1b09c0f50dc609c@unirsr-calendar"
     },
-    "1daf9fb3018ea95bffa3ec1c@unirsr-calendar": {
-      "date": "2026-11-04",
-      "end": "2026-11-04T10:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
-      "raw": "08:30-10:30 | Lezione: Human Histology (docente: NALDINI LUIGI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-04T08:30",
-      "subject": "Lezione: Human Histology (docente: NALDINI LUIGI)",
-      "uid": "1daf9fb3018ea95bffa3ec1c@unirsr-calendar"
-    },
     "1e75fe325104af9d6c31f883@unirsr-calendar": {
       "date": "2026-12-02",
       "end": "2026-12-02T12:30",
@@ -800,6 +791,15 @@
       "start": "2026-10-15T15:30",
       "subject": "Lezione: Basic medical maneuvers (docente: TOMAJER VALENTINA)",
       "uid": "66ad944259f7f78e6c19cccb@unirsr-calendar"
+    },
+    "66ffcfefce2c80938c4e487e@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T10:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Human Histology (docente: NALDINI LUIGI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-03T08:30",
+      "subject": "Lezione: Human Histology (docente: NALDINI LUIGI)",
+      "uid": "66ffcfefce2c80938c4e487e@unirsr-calendar"
     },
     "67106ccc891f998f526c97bc@unirsr-calendar": {
       "date": "2026-11-03",
