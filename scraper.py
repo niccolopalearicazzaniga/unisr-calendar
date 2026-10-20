@@ -711,7 +711,6 @@ def process_calendar(
 
     print(
         f"  {calendar_key}: "
-        f"{len(all_lessons)} active"
         f"{len(all_lessons)} active, "
         f"{changed} changed since last run "
         f"({added} added, {updated} updated, {removed} removed)"
