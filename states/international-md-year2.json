@@ -1233,6 +1233,15 @@
       "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
       "uid": "a1bdbc24fee7d8c5931b34ab@unirsr-calendar"
     },
+    "a337a5355e9c3ac8846b51ca@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T15:30",
+      "location": "BORROMINI Aula BO401 (4 piano)",
+      "raw": "13:30-15:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-25T13:30",
+      "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO)",
+      "uid": "a337a5355e9c3ac8846b51ca@unirsr-calendar"
+    },
     "a3687c6d972da49e4763314d@unirsr-calendar": {
       "date": "2026-11-18",
       "end": "2026-11-18T15:30",
@@ -1484,15 +1493,6 @@
       "start": "2026-10-13T08:30",
       "subject": "Lezione: Human Anatomy (docente: CONSALEZ GIANGIACOMO GERMANO)",
       "uid": "c08e7113030ce09865eb5215@unirsr-calendar"
-    },
-    "c0b0c0b617285475348efe85@unirsr-calendar": {
-      "date": "2026-10-21",
-      "end": "2026-10-21T15:30",
-      "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "13:30-15:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-21T13:30",
-      "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO)",
-      "uid": "c0b0c0b617285475348efe85@unirsr-calendar"
     },
     "c26a17b26f557c4fdebeccf0@unirsr-calendar": {
       "date": "2026-11-11",

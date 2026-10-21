@@ -810,6 +810,15 @@
       "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO)",
       "uid": "7fa369ef1526bc1c2454af68@unirsr-calendar"
     },
+    "8062da23529bb347c11431fc@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T12:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-09T10:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCO)",
+      "uid": "8062da23529bb347c11431fc@unirsr-calendar"
+    },
     "809f6d4dc919336ee0dbcebc@unirsr-calendar": {
       "date": "2026-11-05",
       "end": "2026-11-05T17:30",
@@ -1592,15 +1601,6 @@
       "start": "2026-10-28T10:30",
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
       "uid": "f54fe0a34f54d0533ec787b0@unirsr-calendar"
-    },
-    "f559e42ef6dc3f233c983047@unirsr-calendar": {
-      "date": "2026-10-21",
-      "end": "2026-10-21T12:30",
-      "location": "CANOVA Aula CA201 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-21T10:30",
-      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
-      "uid": "f559e42ef6dc3f233c983047@unirsr-calendar"
     },
     "f5b5c8e67bcfe844ad0782d0@unirsr-calendar": {
       "date": "2026-11-18",
