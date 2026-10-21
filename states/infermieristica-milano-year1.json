@@ -1,0 +1,1183 @@
+{
+  "lessons": {
+    "02923af8f15e9a5ab5383690@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-16T14:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "02923af8f15e9a5ab5383690@unirsr-calendar"
+    },
+    "03f6d26d0468ae2752dce083@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-02T14:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "03f6d26d0468ae2752dce083@unirsr-calendar"
+    },
+    "044dcc5f4acd2dd3ffbbd1ab@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-30T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "044dcc5f4acd2dd3ffbbd1ab@unirsr-calendar"
+    },
+    "0582473c32b9d13ec7866ca6@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T17:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-17:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-18T14:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "0582473c32b9d13ec7866ca6@unirsr-calendar"
+    },
+    "0e15f098ef7fcb1dc999c290@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-27T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO)",
+      "uid": "0e15f098ef7fcb1dc999c290@unirsr-calendar"
+    },
+    "0e74223ca5c9b82ca10e2f23@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-21T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "0e74223ca5c9b82ca10e2f23@unirsr-calendar"
+    },
+    "0efc3ec9806f7ad4c7de3a86@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-26T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "0efc3ec9806f7ad4c7de3a86@unirsr-calendar"
+    },
+    "13ff88da785d0728acfe06d6@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-20T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "13ff88da785d0728acfe06d6@unirsr-calendar"
+    },
+    "15fd396d62ed886b4bdf4a6b@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-23T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "15fd396d62ed886b4bdf4a6b@unirsr-calendar"
+    },
+    "19d1d8f8fbb8140ce68d0f3d@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-04T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
+      "uid": "19d1d8f8fbb8140ce68d0f3d@unirsr-calendar"
+    },
+    "1f77d104d9a026ebb95d0b92@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-18T16:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "1f77d104d9a026ebb95d0b92@unirsr-calendar"
+    },
+    "224d7208e2ef43a036899d60@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-22T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
+      "uid": "224d7208e2ef43a036899d60@unirsr-calendar"
+    },
+    "23866b10abb87f8257d2fc36@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-02T16:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "23866b10abb87f8257d2fc36@unirsr-calendar"
+    },
+    "24d0baf38cc7f71ac22c866e@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-29T09:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "24d0baf38cc7f71ac22c866e@unirsr-calendar"
+    },
+    "260e4884f5618559e3e856b2@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-19T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "260e4884f5618559e3e856b2@unirsr-calendar"
+    },
+    "2d3e3ca564d5f1badc52d29d@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-09T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
+      "uid": "2d3e3ca564d5f1badc52d29d@unirsr-calendar"
+    },
+    "2d67d3032812b1c080308527@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-10T11:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "2d67d3032812b1c080308527@unirsr-calendar"
+    },
+    "3030e7b8d26f0a15b7783481@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-14T14:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA)",
+      "uid": "3030e7b8d26f0a15b7783481@unirsr-calendar"
+    },
+    "31e5ee45bee642960ee3387f@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-05T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
+      "uid": "31e5ee45bee642960ee3387f@unirsr-calendar"
+    },
+    "32fc0d42414979b7cfa6c7bc@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-29T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA)",
+      "uid": "32fc0d42414979b7cfa6c7bc@unirsr-calendar"
+    },
+    "330388ed130a09c57b8e21ef@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-23T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
+      "uid": "330388ed130a09c57b8e21ef@unirsr-calendar"
+    },
+    "385a1ee5008c2e5ceaaccfbd@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-05T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
+      "uid": "385a1ee5008c2e5ceaaccfbd@unirsr-calendar"
+    },
+    "39c6ea92a9a4dc5106a06f4c@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-18T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
+      "uid": "39c6ea92a9a4dc5106a06f4c@unirsr-calendar"
+    },
+    "3a8457577820cd2219f8cc7a@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-22T11:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
+      "uid": "3a8457577820cd2219f8cc7a@unirsr-calendar"
+    },
+    "3afecb92c68c42f92f809a60@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-21T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "3afecb92c68c42f92f809a60@unirsr-calendar"
+    },
+    "3b2e014c581d9ae3d77c8d78@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-21T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "3b2e014c581d9ae3d77c8d78@unirsr-calendar"
+    },
+    "3c0aacddbe2fab70ffa8953e@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-16T09:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO)",
+      "uid": "3c0aacddbe2fab70ffa8953e@unirsr-calendar"
+    },
+    "3c37909b504c6b1fe65b0359@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-13T09:00",
+      "subject": "Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA)",
+      "uid": "3c37909b504c6b1fe65b0359@unirsr-calendar"
+    },
+    "400a8a64b5b5e11401a09c4e@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-14T11:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "400a8a64b5b5e11401a09c4e@unirsr-calendar"
+    },
+    "4266d1665abe188ed25fc235@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-20T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "4266d1665abe188ed25fc235@unirsr-calendar"
+    },
+    "446c88bf1cb5d030883a5f67@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-01T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "446c88bf1cb5d030883a5f67@unirsr-calendar"
+    },
+    "457eed8bbca29873194b812c@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-22T14:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO)",
+      "uid": "457eed8bbca29873194b812c@unirsr-calendar"
+    },
+    "465bd7dcb59c0437895ea441@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-17T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA)",
+      "uid": "465bd7dcb59c0437895ea441@unirsr-calendar"
+    },
+    "4e9a98f232fa0a54946d3a91@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-11T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
+      "uid": "4e9a98f232fa0a54946d3a91@unirsr-calendar"
+    },
+    "509a55319d5c59f5d52e4a8e@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-01T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "509a55319d5c59f5d52e4a8e@unirsr-calendar"
+    },
+    "5115520e552707499ffabab3@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-09T09:00",
+      "subject": "Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA)",
+      "uid": "5115520e552707499ffabab3@unirsr-calendar"
+    },
+    "5229dbfd6e6a1eccaf273b61@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-10T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA)",
+      "uid": "5229dbfd6e6a1eccaf273b61@unirsr-calendar"
+    },
+    "52e77ab7eedb360c0253b4bc@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-01T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA)",
+      "uid": "52e77ab7eedb360c0253b4bc@unirsr-calendar"
+    },
+    "56685726e61af1fd4bd5d0ca@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-09T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "56685726e61af1fd4bd5d0ca@unirsr-calendar"
+    },
+    "59c88c425fe8d015d3b2e693@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-04T14:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
+      "uid": "59c88c425fe8d015d3b2e693@unirsr-calendar"
+    },
+    "5decc1ba36b061a16c3d309e@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-02T16:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "5decc1ba36b061a16c3d309e@unirsr-calendar"
+    },
+    "5e8264309333e551c9f607e0@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-18T14:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO)",
+      "uid": "5e8264309333e551c9f607e0@unirsr-calendar"
+    },
+    "5eee0b6a8751d51068a23f66@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-21T09:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO)",
+      "uid": "5eee0b6a8751d51068a23f66@unirsr-calendar"
+    },
+    "5f0453e047b0e66f7810d0af@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-11T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "5f0453e047b0e66f7810d0af@unirsr-calendar"
+    },
+    "5f1d2b7bccb4ea7aec3c30b4@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-23T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO)",
+      "uid": "5f1d2b7bccb4ea7aec3c30b4@unirsr-calendar"
+    },
+    "6080c4c4aaa0526328a5d9da@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-10T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "6080c4c4aaa0526328a5d9da@unirsr-calendar"
+    },
+    "60e3dffb6d7b393ae3d3aa51@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-15T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "60e3dffb6d7b393ae3d3aa51@unirsr-calendar"
+    },
+    "650e1de0adfa8d6f3ff9a045@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T10:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-10:00 | Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-01T09:00",
+      "subject": "Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA)",
+      "uid": "650e1de0adfa8d6f3ff9a045@unirsr-calendar"
+    },
+    "657bbcadb8bad43330bb50b9@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-16T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "657bbcadb8bad43330bb50b9@unirsr-calendar"
+    },
+    "66aeb8c81c5038bbdbe013ff@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-17T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "66aeb8c81c5038bbdbe013ff@unirsr-calendar"
+    },
+    "67d753a6087115f8d7c791b0@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-18T09:00",
+      "subject": "Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA)",
+      "uid": "67d753a6087115f8d7c791b0@unirsr-calendar"
+    },
+    "6911323ae5e73f88ed951982@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-02T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
+      "uid": "6911323ae5e73f88ed951982@unirsr-calendar"
+    },
+    "6a9d54612a666c5a9164c547@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-11T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
+      "uid": "6a9d54612a666c5a9164c547@unirsr-calendar"
+    },
+    "6b9663c202a5a52d891ee8f7@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-10T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA)",
+      "uid": "6b9663c202a5a52d891ee8f7@unirsr-calendar"
+    },
+    "6d5d82a15aae5e553a49e45b@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-11T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "6d5d82a15aae5e553a49e45b@unirsr-calendar"
+    },
+    "714d6468f1d14f5c57c6191d@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-03T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "714d6468f1d14f5c57c6191d@unirsr-calendar"
+    },
+    "7183d09e246b7b287775f8b1@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-09T16:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "7183d09e246b7b287775f8b1@unirsr-calendar"
+    },
+    "72855e79282dd640aa875513@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-23T09:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA)",
+      "uid": "72855e79282dd640aa875513@unirsr-calendar"
+    },
+    "743b4ce126e7d1a8f2d87b7d@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-15T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
+      "uid": "743b4ce126e7d1a8f2d87b7d@unirsr-calendar"
+    },
+    "7610d51d6554b99f5c873bd8@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-14T09:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA)",
+      "uid": "7610d51d6554b99f5c873bd8@unirsr-calendar"
+    },
+    "76472c6bff537f305105f7c3@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-04T11:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO)",
+      "uid": "76472c6bff537f305105f7c3@unirsr-calendar"
+    },
+    "77959dff3734c737bacb0d21@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-16T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "77959dff3734c737bacb0d21@unirsr-calendar"
+    },
+    "77cb39b5e6083a3fb9992f18@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-13T14:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "77cb39b5e6083a3fb9992f18@unirsr-calendar"
+    },
+    "79c184c4cdba934cc9f82045@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-16T11:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA)",
+      "uid": "79c184c4cdba934cc9f82045@unirsr-calendar"
+    },
+    "7a8a8526c63cecd006d2e92a@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T17:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-17:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-16T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
+      "uid": "7a8a8526c63cecd006d2e92a@unirsr-calendar"
+    },
+    "7ad6ee30b360742af5806e26@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-02T09:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
+      "uid": "7ad6ee30b360742af5806e26@unirsr-calendar"
+    },
+    "7d4f6236b8d541f33528bf32@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-28T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
+      "uid": "7d4f6236b8d541f33528bf32@unirsr-calendar"
+    },
+    "80c04da316f94844704c9c29@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-23T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "80c04da316f94844704c9c29@unirsr-calendar"
+    },
+    "813ba1e68c20a1eb396d40fc@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-28T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA)",
+      "uid": "813ba1e68c20a1eb396d40fc@unirsr-calendar"
+    },
+    "81d76429245254abd05bb2cb@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-24T09:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO)",
+      "uid": "81d76429245254abd05bb2cb@unirsr-calendar"
+    },
+    "8638228050ade203c849b402@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-09T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
+      "uid": "8638228050ade203c849b402@unirsr-calendar"
+    },
+    "884ec6f30fabf1c471df5bd5@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-12T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
+      "uid": "884ec6f30fabf1c471df5bd5@unirsr-calendar"
+    },
+    "8c2ad6097caa5809d8e8350f@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-16T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "8c2ad6097caa5809d8e8350f@unirsr-calendar"
+    },
+    "8d7c8ae5edca0b4374e41361@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-21T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "8d7c8ae5edca0b4374e41361@unirsr-calendar"
+    },
+    "8e7908cf24080625445a9c8b@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-21T09:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA)",
+      "uid": "8e7908cf24080625445a9c8b@unirsr-calendar"
+    },
+    "8e9e2624b8fe5530254b3113@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-22T14:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "8e9e2624b8fe5530254b3113@unirsr-calendar"
+    },
+    "908fc86fedb8c290d28fca03@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-11T16:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "908fc86fedb8c290d28fca03@unirsr-calendar"
+    },
+    "916cdf62262358a065948266@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-11T09:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "916cdf62262358a065948266@unirsr-calendar"
+    },
+    "9492a68966a99d9dcff2489a@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T12:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-12:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-27T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
+      "uid": "9492a68966a99d9dcff2489a@unirsr-calendar"
+    },
+    "98fe9bac688ef509b238c847@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-09T16:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
+      "uid": "98fe9bac688ef509b238c847@unirsr-calendar"
+    },
+    "9e3bedc8c5d96f6138704bcc@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T17:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-17:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-03T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA)",
+      "uid": "9e3bedc8c5d96f6138704bcc@unirsr-calendar"
+    },
+    "9e9b479ec38ef631eab89d9e@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-30T09:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "9e9b479ec38ef631eab89d9e@unirsr-calendar"
+    },
+    "a02b71e1b51716e9adb4fa0f@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-15T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "a02b71e1b51716e9adb4fa0f@unirsr-calendar"
+    },
+    "a03ad423b38f06e48ba524d0@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-22T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "a03ad423b38f06e48ba524d0@unirsr-calendar"
+    },
+    "a083d1c144f89dd4b919c710@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-17T16:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "a083d1c144f89dd4b919c710@unirsr-calendar"
+    },
+    "a18a849ee79803a75ecc96c1@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-17T09:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA)",
+      "uid": "a18a849ee79803a75ecc96c1@unirsr-calendar"
+    },
+    "a42bff8036fcae5e4227faa4@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "10:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-02T10:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "a42bff8036fcae5e4227faa4@unirsr-calendar"
+    },
+    "a51eda2937ae888fdd56282d@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-14T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "a51eda2937ae888fdd56282d@unirsr-calendar"
+    },
+    "a5c1e2ce2313abf11f5edf0e@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-23T09:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "a5c1e2ce2313abf11f5edf0e@unirsr-calendar"
+    },
+    "a609367d92ec89cc7c0c028c@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-03T09:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SIGNORELLI CARLO/BLANDI LORENZO)",
+      "uid": "a609367d92ec89cc7c0c028c@unirsr-calendar"
+    },
+    "a695827322d3bea078889b9c@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-03T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "a695827322d3bea078889b9c@unirsr-calendar"
+    },
+    "a6b02ef63c95f9a072ff57bc@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-26T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
+      "uid": "a6b02ef63c95f9a072ff57bc@unirsr-calendar"
+    },
+    "a7bdef7f15f5df57d0af2fb3@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-29T16:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA)",
+      "uid": "a7bdef7f15f5df57d0af2fb3@unirsr-calendar"
+    },
+    "ab5c949c56b942fc489d2bc4@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-28T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "ab5c949c56b942fc489d2bc4@unirsr-calendar"
+    },
+    "ab82027e033b4c76c3ae0ce5@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "10:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-03T10:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "ab82027e033b4c76c3ae0ce5@unirsr-calendar"
+    },
+    "ad15d34bed2b6f75dd440cf5@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-26T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO)",
+      "uid": "ad15d34bed2b6f75dd440cf5@unirsr-calendar"
+    },
+    "af03b6a590abc6f4364a2813@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-04T16:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "af03b6a590abc6f4364a2813@unirsr-calendar"
+    },
+    "af477607872efcbadcc611de@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-12T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "af477607872efcbadcc611de@unirsr-calendar"
+    },
+    "b10c067a30bc37db8ad8981e@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-21T11:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "b10c067a30bc37db8ad8981e@unirsr-calendar"
+    },
+    "b29720a035fca2aefa7c422e@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-10T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO)",
+      "uid": "b29720a035fca2aefa7c422e@unirsr-calendar"
+    },
+    "b5179cc8cf17fc2526ee475d@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-24T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO)",
+      "uid": "b5179cc8cf17fc2526ee475d@unirsr-calendar"
+    },
+    "bee716856672f48b9688d9f4@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-03T11:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "bee716856672f48b9688d9f4@unirsr-calendar"
+    },
+    "c1383bc86b4cec8ae84635eb@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-09T11:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO)",
+      "uid": "c1383bc86b4cec8ae84635eb@unirsr-calendar"
+    },
+    "c25c9f9de475efbafffab2e6@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-19T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "c25c9f9de475efbafffab2e6@unirsr-calendar"
+    },
+    "c2d2112a8d506d8e61a8e70a@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-20T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "c2d2112a8d506d8e61a8e70a@unirsr-calendar"
+    },
+    "c3ca9d86314f2164c3b64b9f@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-26T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
+      "uid": "c3ca9d86314f2164c3b64b9f@unirsr-calendar"
+    },
+    "c48aecbba41416c77733d3f0@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-19T09:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
+      "uid": "c48aecbba41416c77733d3f0@unirsr-calendar"
+    },
+    "c74cb9bd917cec7a10d4160a@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-17T09:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO)",
+      "uid": "c74cb9bd917cec7a10d4160a@unirsr-calendar"
+    },
+    "c7dce8408d16c9f2a67a294f@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-10T14:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA)",
+      "uid": "c7dce8408d16c9f2a67a294f@unirsr-calendar"
+    },
+    "c7e32316ccc4d61fb98e1fbb@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-18T11:00",
+      "subject": "Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA)",
+      "uid": "c7e32316ccc4d61fb98e1fbb@unirsr-calendar"
+    },
+    "c85537916975990e14b794a5@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-04T09:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO)",
+      "uid": "c85537916975990e14b794a5@unirsr-calendar"
+    },
+    "cbbc61e17ad42a9664a8c0f2@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-13T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "cbbc61e17ad42a9664a8c0f2@unirsr-calendar"
+    },
+    "cc1984003d486c57cbb30a74@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RAMELLA MARTINA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-02T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RAMELLA MARTINA)",
+      "uid": "cc1984003d486c57cbb30a74@unirsr-calendar"
+    },
+    "cf3008b385861e48a7fe3860@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-29T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "cf3008b385861e48a7fe3860@unirsr-calendar"
+    },
+    "d3ce596b6fa16d24bef7da29@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-05T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
+      "uid": "d3ce596b6fa16d24bef7da29@unirsr-calendar"
+    },
+    "ddd820da3cab0fc7c333c03d@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-18T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "ddd820da3cab0fc7c333c03d@unirsr-calendar"
+    },
+    "e2a1d0977b92155306fc31c5@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-10T09:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "e2a1d0977b92155306fc31c5@unirsr-calendar"
+    },
+    "e3d842828ab1b48b21247e0b@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T17:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-17:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-17T14:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO)",
+      "uid": "e3d842828ab1b48b21247e0b@unirsr-calendar"
+    },
+    "e4575f8ff7628e3b09dad154@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-27T09:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "e4575f8ff7628e3b09dad154@unirsr-calendar"
+    },
+    "e45d5214080e906af9789bed@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-19T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CAREMOLI FILIPPO)",
+      "uid": "e45d5214080e906af9789bed@unirsr-calendar"
+    },
+    "e4828ec18ada274638c0816f@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-24T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "e4828ec18ada274638c0816f@unirsr-calendar"
+    },
+    "e4cbabc7c43ca234a45fbeb3@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-12T16:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "e4cbabc7c43ca234a45fbeb3@unirsr-calendar"
+    },
+    "e9cdd542f9a5308207d3e4c1@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-04T11:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "e9cdd542f9a5308207d3e4c1@unirsr-calendar"
+    },
+    "ee1685d82c993b7372e0a0a8@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-27T14:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "ee1685d82c993b7372e0a0a8@unirsr-calendar"
+    },
+    "ef650adb7ed46ad4a83e76cb@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-28T16:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: CITTERIO GIOVANNI)",
+      "uid": "ef650adb7ed46ad4a83e76cb@unirsr-calendar"
+    },
+    "ef77dd9748dda3c0b100afb1@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-04T09:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "ef77dd9748dda3c0b100afb1@unirsr-calendar"
+    },
+    "f06cbf882c3b5bbfb772f7b7@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T18:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "16:00-18:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-22T16:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO)",
+      "uid": "f06cbf882c3b5bbfb772f7b7@unirsr-calendar"
+    },
+    "f4d1d356ff25e5cc3e5a2bbb@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-17T11:00",
+      "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
+      "uid": "f4d1d356ff25e5cc3e5a2bbb@unirsr-calendar"
+    },
+    "fc7e49ed7da185bb78faed20@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-12T09:00",
+      "subject": "Lezione: Attività formative professionalizzanti - 1 anno (docente: POZZI CHIARA)",
+      "uid": "fc7e49ed7da185bb78faed20@unirsr-calendar"
+    },
+    "fd4794c0f36a80de1d686073@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-09T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "fd4794c0f36a80de1d686073@unirsr-calendar"
+    },
+    "fefcb39937ea4b3a96b5c23c@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-24T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA)",
+      "uid": "fefcb39937ea4b3a96b5c23c@unirsr-calendar"
+    }
+  }
+}
