@@ -2217,6 +2217,8 @@ const actionButtons = [
 
       secondYearOption.hidden = course === "odontoiatria";
       secondYearOption.disabled = course === "odontoiatria";
+      secondYearOption.hidden = course === "odontoiatria" || course === "infermieristica";
+      secondYearOption.disabled = course === "odontoiatria" || course === "infermieristica";
 
       yearSelect.value = "";
 
