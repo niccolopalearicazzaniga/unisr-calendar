@@ -1285,6 +1285,10 @@ actually works!</span>
               Odontoiatria e protesi dentale
             </option>
 
+            <option value="infermieristica">
+              Infermieristica (Milano)
+            </option>
+
           </select>
 
         </div>
@@ -1765,6 +1769,13 @@ const actionButtons = [
 
       },
 
+      infermieristica: {
+
+        1:
+          "infermieristica-milano.ics"
+
+      },
+
 
       italian: {
 
@@ -1828,7 +1839,10 @@ const actionButtons = [
         "Medicina e Chirurgia",
 
       odontoiatria:
-        "Odontoiatria e protesi dentale"
+        "Odontoiatria e protesi dentale",
+
+      infermieristica:
+        "Infermieristica (Milano)"
 
     };
 
@@ -1874,6 +1888,7 @@ const actionButtons = [
       return (
         courseSelect.value === "international" ||
         courseSelect.value === "odontoiatria" ||
+        courseSelect.value === "infermieristica" ||
         !!lineSelect.value
       );
 
@@ -2038,6 +2053,12 @@ const actionButtons = [
 
       }
 
+      if (course === "infermieristica") {
+
+        return calendars.infermieristica[year] || null;
+
+      }
+
       if (!line) {
         return null;
       }
@@ -2111,7 +2132,8 @@ const actionButtons = [
 
       if (
         course === "international" ||
-        course === "odontoiatria"
+        course === "odontoiatria" ||
+        course === "infermieristica"
       ) {
 
         selectedName.textContent =
@@ -2223,7 +2245,7 @@ const actionButtons = [
         false;
 
 
-      if (course === "international" || course === "odontoiatria") {
+      if (course === "international" || course === "odontoiatria" || course === "infermieristica") {
 
         lineSelect.value = "";
 
