@@ -1278,15 +1278,6 @@
       "subject": "Lezione: Statistica medica ed epidemiologia (docente: AMBROSI ALESSANDRO)",
       "uid": "d0d0c3c6ae7569cc6e65069c@unirsr-calendar"
     },
-    "d24d7f46bb80d22d567feffa@unirsr-calendar": {
-      "date": "2026-10-23",
-      "end": "2026-10-23T11:30",
-      "location": "DIBIT1 Aula AVICENNA (piano terra)",
-      "raw": "09:30-11:30 | Lezione: Fisica (docente: MAZZA DAVIDE) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
-      "start": "2026-10-23T09:30",
-      "subject": "Lezione: Fisica (docente: MAZZA DAVIDE)",
-      "uid": "d24d7f46bb80d22d567feffa@unirsr-calendar"
-    },
     "d81b4f2da5379eb2d9b0c596@unirsr-calendar": {
       "date": "2026-11-20",
       "end": "2026-11-20T11:30",
@@ -1415,10 +1406,10 @@
     },
     "f03e4393808258c2895389dc@unirsr-calendar": {
       "date": "2026-10-27",
-      "end": "2026-10-27T11:30",
+      "end": "2026-10-27T13:30",
       "location": "DIBIT1 Aula AVICENNA (piano terra)",
-      "raw": "09:30-11:30 | Lezione: Fisica (docente: MAZZA DAVIDE) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
-      "start": "2026-10-27T09:30",
+      "raw": "11:30-13:30 | Lezione: Fisica (docente: MAZZA DAVIDE) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-10-27T11:30",
       "subject": "Lezione: Fisica (docente: MAZZA DAVIDE)",
       "uid": "f03e4393808258c2895389dc@unirsr-calendar"
     },
