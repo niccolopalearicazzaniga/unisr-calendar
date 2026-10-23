@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://orario.unisr.it/default.asp"
 DAYS_BACK = 0
-DAYS_FORWARD = 150
+DAYS_FORWARD = 100
 TEACHING_SUSPENSIONS = [
     (date(2026, 12, 7), date(2026, 12, 8)),
     (date(2026, 12, 23), date(2027, 1, 6)),
