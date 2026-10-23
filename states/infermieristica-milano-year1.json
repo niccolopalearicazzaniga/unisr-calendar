@@ -821,10 +821,10 @@
     },
     "a6b02ef63c95f9a072ff57bc@unirsr-calendar": {
       "date": "2026-10-26",
-      "end": "2026-10-26T11:00",
+      "end": "2026-10-26T13:00",
       "location": "DIBIT2 Aula ERACLITO (1 piano)",
-      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
-      "start": "2026-10-26T09:00",
+      "raw": "11:00-13:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-10-26T11:00",
       "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
       "uid": "a6b02ef63c95f9a072ff57bc@unirsr-calendar"
     },
@@ -945,15 +945,6 @@
       "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
       "uid": "c2d2112a8d506d8e61a8e70a@unirsr-calendar"
     },
-    "c3ca9d86314f2164c3b64b9f@unirsr-calendar": {
-      "date": "2026-10-26",
-      "end": "2026-10-26T13:00",
-      "location": "DIBIT2 Aula ERACLITO (1 piano)",
-      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
-      "start": "2026-10-26T11:00",
-      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
-      "uid": "c3ca9d86314f2164c3b64b9f@unirsr-calendar"
-    },
     "c48aecbba41416c77733d3f0@unirsr-calendar": {
       "date": "2026-11-19",
       "end": "2026-11-19T11:00",
@@ -1025,6 +1016,15 @@
       "start": "2026-10-29T11:00",
       "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
       "uid": "cf3008b385861e48a7fe3860@unirsr-calendar"
+    },
+    "d090fd8aa694a44c91b55a32@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T16:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "14:00-16:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-15T14:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
+      "uid": "d090fd8aa694a44c91b55a32@unirsr-calendar"
     },
     "d3ce596b6fa16d24bef7da29@unirsr-calendar": {
       "date": "2026-11-05",
