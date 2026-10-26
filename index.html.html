@@ -1,0 +1,2569 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#f5f5f7">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta property="og:title" content="UniSR Calendar">
+  <meta property="og:description" content="Subscribe to your UniSR timetable and keep your own calendar automatically up to date.">
+  <meta property="og:image" content="https://niccolopalearicazzaniga.github.io/unisr-calendar/preview.png">
+  <meta property="og:url" content="https://niccolopalearicazzaniga.github.io/unisr-calendar/">
+  <meta property="og:type" content="website">
+
+<!-- Optional: Twitter/X preview -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="UniSR Calendar">
+  <meta name="twitter:description" content="Subscribe to your UniSR timetable and keep your own calendar automatically up to date.">
+  <meta name="twitter:image" content="https://niccolopalearicazzaniga.github.io/unisr-calendar/preview.png">
+
+  <title>UniSR Calendar</title>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJR4835VMX"></script>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'G-WJR4835VMX');
+  </script>
+
+  <style>
+
+    @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&display=swap");
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+    }
+
+    body {
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "SF Pro Display",
+        "SF Pro Text",
+        Inter,
+        Helvetica,
+        Arial,
+        sans-serif;
+
+      color: #1d1d1f;
+
+      background:
+        radial-gradient(
+          circle at 20% 0%,
+          rgba(0, 122, 255, .12),
+          transparent 30%
+        ),
+        radial-gradient(
+          circle at 90% 85%,
+          rgba(175, 82, 222, .10),
+          transparent 32%
+        ),
+        #f5f5f7;
+
+      display: flex;
+      justify-content: center;
+
+      padding: 42px 20px 36px;
+    }
+
+    main {
+      width: min(680px, 100%);
+    }
+
+    .language-switcher {
+      display: flex;
+      justify-content: flex-end;
+      gap: 8px;
+      margin-bottom: -38px;
+      position: relative;
+      z-index: 5;
+    }
+
+    .language-button {
+      display: grid;
+      place-items: center;
+      width: 36px;
+      height: 36px;
+      padding: 0;
+      border: 1px solid rgba(0, 0, 0, .10);
+      border-radius: 50%;
+      background: rgba(255, 255, 255, .82);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, .07);
+      font-size: 19px;
+      cursor: pointer;
+      transition: transform .18s, box-shadow .18s, border-color .18s;
+    }
+
+    .language-button:hover {
+      transform: translateY(-1px);
+    }
+
+    .language-button[aria-pressed="true"] {
+      border-color: rgba(0, 122, 255, .55);
+      box-shadow: 0 0 0 3px rgba(0, 122, 255, .12);
+    }
+
+    .language-button:focus-visible {
+      outline: 3px solid rgba(0, 122, 255, .35);
+      outline-offset: 2px;
+    }
+
+
+    /* =========================
+       HERO
+    ========================= */
+
+    .hero {
+      text-align: center;
+      padding: 22px 0 28px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+
+      padding: 8px 13px;
+
+      border: 1px solid rgba(0, 0, 0, .07);
+      border-radius: 999px;
+
+      background: rgba(255, 255, 255, .72);
+
+      box-shadow:
+        0 8px 30px rgba(0, 0, 0, .05);
+
+      backdrop-filter: blur(18px);
+      -webkit-backdrop-filter: blur(18px);
+
+      color: #6e6e73;
+
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .dot {
+      width: 7px;
+      height: 7px;
+
+      border-radius: 50%;
+
+      background: #007aff;
+
+      box-shadow:
+        0 0 0 4px rgba(0, 122, 255, .10);
+    }
+
+    h1 {
+      margin: 24px 0 12px;
+
+      font-size: clamp(44px, 10vw, 68px);
+      line-height: .94;
+
+      letter-spacing: -.06em;
+
+      font-weight: 750;
+    }
+
+    .subtitle {
+      max-width: 520px;
+
+      margin: 0 auto;
+
+      color: #6e6e73;
+
+      font-size: 17px;
+      line-height: 1.55;
+    }
+
+
+    /* =========================
+       CALENDAR PREVIEW
+    ========================= */
+
+    .calendar-preview {
+      position: relative;
+      margin: 28px auto 26px;
+
+      padding: 16px;
+
+      border: 1px solid rgba(0, 0, 0, .07);
+      border-radius: 24px;
+
+      background: rgba(255, 255, 255, .72);
+
+      box-shadow:
+        0 18px 50px rgba(0, 0, 0, .07),
+        inset 0 1px 0 rgba(255, 255, 255, .85);
+
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+
+      overflow: visible;
+
+      text-align: left;
+    }
+
+    .preview-callout {
+      position: absolute;
+      z-index: 2;
+      top: -45px;
+      right: 8px;
+      width: 170px;
+      height: 78px;
+      pointer-events: none;
+      color: #45454a;
+    }
+
+    .preview-callout-text {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 132px;
+      transform: rotate(-4deg);
+      color: #45454a;
+      font-family: "Caveat", "Bradley Hand", cursive;
+      font-size: 17px;
+      font-weight: 700;
+      line-height: .95;
+      text-align: center;
+      white-space: pre-line;
+    }
+
+    html[lang="it"] .preview-callout {
+      top: -38px;
+    }
+
+    html[lang="it"] .preview-callout-text {
+      width: 150px;
+      font-size: 14px;
+    }
+
+    .preview-callout svg {
+      position: absolute;
+      top: 29px;
+      left: -2px;
+      width: 64px;
+      height: 45px;
+      overflow: visible;
+    }
+
+    .preview-callout path {
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+
+    .preview-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      padding: 2px 4px 13px;
+    }
+
+    .preview-month {
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .preview-calendar-icon {
+      display: grid;
+      place-items: center;
+
+      width: 29px;
+      height: 29px;
+
+      border-radius: 9px;
+
+      background: #f1f1f3;
+
+      font-size: 14px;
+    }
+
+    .preview-days {
+      display: grid;
+
+      grid-template-columns:
+        repeat(7, 1fr);
+
+      gap: 4px;
+
+      margin-bottom: 7px;
+    }
+
+    .preview-day {
+      text-align: center;
+
+      color: #98989d;
+
+      font-size: 9px;
+      font-weight: 650;
+    }
+
+    .preview-dates {
+      display: grid;
+
+      grid-template-columns:
+        repeat(7, 1fr);
+
+      gap: 4px;
+
+      margin-bottom: 10px;
+    }
+
+    .preview-date {
+      display: grid;
+      place-items: center;
+      width: 27px;
+      height: 27px;
+      margin: 0 auto;
+      padding: 0;
+      border: 0;
+      border-radius: 50%;
+      background: transparent;
+      color: #6e6e73;
+      font: inherit;
+      font-size: 11px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background .18s, color .18s, transform .18s;
+    }
+
+    .preview-date:hover {
+      background: rgba(0, 122, 255, .10);
+      color: #007aff;
+    }
+
+    .preview-date:focus-visible {
+      outline: 3px solid rgba(0, 122, 255, .35);
+      outline-offset: 2px;
+    }
+
+    .preview-date.active {
+      border-radius: 50%;
+
+      background: #1d1d1f;
+
+      color: white;
+    }
+
+    .preview-timeline {
+      position: relative;
+
+      height: 180px;
+    }
+
+    .preview-gridline {
+      position: absolute;
+      left: 0;
+      right: 0;
+      display: grid;
+      grid-template-columns: 45px 1fr;
+      align-items: start;
+      height: 12px;
+      pointer-events: none;
+    }
+
+    .preview-time {
+      color: #aaaab0;
+      font-size: 8px;
+      font-weight: 600;
+      line-height: 10px;
+    }
+
+    .preview-rule {
+      margin-top: 5px;
+      border-top: 1px solid rgba(0, 0, 0, .075);
+    }
+
+    .preview-event {
+      position: absolute;
+
+      left: 45px;
+      right: 5px;
+
+      padding: 5px 8px;
+
+      border-radius: 9px;
+
+      background: #ead9f2;
+
+      border-left:
+        3px solid #af52de;
+
+      color: #653274;
+    }
+
+    .preview-empty {
+      position: absolute;
+      top: 68px;
+      left: 45px;
+      color: #98989d;
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .preview-event.one {
+      top: 8px;
+    }
+
+    .preview-event.two {
+      top: 92px;
+    }
+
+    .preview-event-title {
+      font-size: 10px;
+      font-weight: 700;
+
+      line-height: 1.1;
+    }
+
+    .preview-event-time {
+      margin-top: 2px;
+
+      font-size: 7px;
+
+      opacity: .7;
+    }
+
+    .preview-caption {
+      display: flex;
+
+      align-items: center;
+      justify-content: center;
+
+      gap: 6px;
+
+      margin-top: 12px;
+
+      color: #6e6e73;
+
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .preview-caption-dot {
+      width: 5px;
+      height: 5px;
+
+      border-radius: 50%;
+
+      background: #34c759;
+
+      box-shadow:
+        0 0 0 3px rgba(52, 199, 89, .10);
+    }
+
+
+    /* =========================
+       MAIN PANEL
+    ========================= */
+
+    .panel {
+      padding: 18px;
+
+      border:
+        1px solid rgba(0, 0, 0, .08);
+
+      border-radius: 26px;
+
+      background:
+        rgba(255, 255, 255, .78);
+
+      box-shadow:
+        0 24px 70px rgba(0, 0, 0, .09);
+
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+    }
+
+    .section-label {
+      display: block;
+
+      margin: 2px 5px 9px;
+
+      color: #6e6e73;
+
+      font-size: 12px;
+      font-weight: 650;
+    }
+
+    .select-group {
+      margin-bottom: 12px;
+    }
+
+    .select-group:last-of-type {
+      margin-bottom: 0;
+    }
+
+    .select-wrap {
+      position: relative;
+    }
+
+    select {
+      width: 100%;
+
+      appearance: none;
+      -webkit-appearance: none;
+
+      padding: 16px 48px 16px 16px;
+
+      border:
+        1px solid rgba(0, 0, 0, .10);
+
+      border-radius: 16px;
+
+      outline: none;
+
+      background:
+        rgba(255, 255, 255, .94)
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24' fill='none' stroke='%236e6e73' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E")
+        no-repeat right 16px center;
+
+      color: #1d1d1f;
+
+      font: inherit;
+      font-size: 15px;
+      font-weight: 600;
+
+      cursor: pointer;
+
+      transition:
+        border-color .2s,
+        box-shadow .2s,
+        opacity .2s;
+    }
+
+    select:focus {
+      border-color:
+        rgba(0, 122, 255, .45);
+
+      box-shadow:
+        0 0 0 4px rgba(0, 122, 255, .10);
+    }
+
+    select:disabled {
+      color: #b5b5ba;
+
+      background-color:
+        rgba(245, 245, 247, .75);
+
+      cursor: not-allowed;
+
+      opacity: .7;
+    }
+
+
+    /* =========================
+       SELECTED COURSE
+    ========================= */
+
+    .selected {
+      display: flex;
+
+      align-items: center;
+
+      gap: 9px;
+
+      margin: 16px 5px 17px;
+
+      color: #48484a;
+
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .selected-icon {
+      display: grid;
+
+      place-items: center;
+
+      width: 27px;
+      height: 27px;
+
+      border-radius: 8px;
+
+      background: #f0f0f2;
+
+      font-size: 14px;
+    }
+
+
+    /* =========================
+       CALENDAR BUTTONS
+    ========================= */
+
+    .calendar-actions {
+      display: flex;
+
+      flex-direction: column;
+
+      gap: 12px;
+    }
+
+    .calendar-button {
+      display: flex;
+
+      align-items: center;
+
+      gap: 13px;
+
+      width: 100%;
+
+      min-height: 64px;
+
+      padding: 11px 14px;
+
+      border: 0;
+
+      border-radius: 17px;
+
+      font: inherit;
+
+      text-align: left;
+
+      cursor: pointer;
+
+      transition:
+        transform .18s ease,
+        box-shadow .18s ease,
+        background .18s ease;
+    }
+
+    .calendar-button:hover {
+      transform: translateY(-1px);
+    }
+
+    .calendar-button:active {
+      transform: scale(.99);
+    }
+
+    .calendar-button.is-muted,
+    .copy-button.is-muted {
+      opacity: .48;
+
+      filter: grayscale(.35);
+
+      cursor: not-allowed;
+    }
+
+    .calendar-button.is-muted:hover {
+      transform: none;
+    }
+
+
+    /* =========================
+       ANIMATIONS
+    ========================= */
+
+    .select-wrap.needs-attention select {
+      border-color: #ff3b30;
+
+      box-shadow:
+        0 0 0 3px rgba(255, 59, 48, .14);
+
+      animation:
+        fieldPulse .22s ease-in-out;
+    }
+
+    @keyframes fieldPulse {
+
+      0%,
+      100% {
+        transform: translateX(0);
+      }
+
+      25% {
+        transform: translateX(-3px);
+      }
+
+      75% {
+        transform: translateX(3px);
+      }
+    }
+
+    .is-shaking {
+      animation:
+        buttonShake .34s ease-in-out;
+    }
+
+    @keyframes buttonShake {
+
+      0%,
+      100% {
+        transform: translateX(0);
+      }
+
+      20% {
+        transform: translateX(-6px);
+      }
+
+      40% {
+        transform: translateX(6px);
+      }
+
+      60% {
+        transform: translateX(-5px);
+      }
+
+      80% {
+        transform: translateX(5px);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+
+      .select-wrap.needs-attention select,
+      .is-shaking {
+        animation: none;
+      }
+    }
+
+
+    /* =========================
+       BUTTON CONTENT
+    ========================= */
+
+    .calendar-icon {
+      flex:
+        0 0 42px;
+
+      width: 42px;
+      height: 42px;
+
+      display: grid;
+
+      place-items: center;
+
+      border-radius: 12px;
+
+      font-size: 22px;
+    }
+
+    .button-text {
+      flex: 1;
+
+      min-width: 0;
+    }
+
+    .button-title {
+      display: block;
+
+      font-size: 14px;
+      font-weight: 700;
+
+      line-height: 1.2;
+    }
+
+    .button-subtitle {
+      display: block;
+
+      margin-top: 3px;
+
+      font-size: 12px;
+      font-weight: 500;
+
+      line-height: 1.3;
+
+      opacity: .68;
+    }
+
+    .button-arrow {
+      font-size: 20px;
+
+      opacity: .45;
+    }
+
+
+    /* =========================
+       APPLE BUTTON
+    ========================= */
+
+    .apple-button {
+      background: #1d1d1f;
+
+      color: #fff;
+
+      box-shadow:
+        0 8px 22px rgba(0, 0, 0, .13);
+    }
+
+    .apple-button:hover {
+      background: #2c2c2e;
+
+      box-shadow:
+        0 11px 27px rgba(0, 0, 0, .16);
+    }
+
+    .apple-button .calendar-icon {
+      background:
+        rgba(255, 255, 255, .12);
+    }
+
+
+
+    /* =========================
+       SUBSCRIPTION COPY
+    ========================= */
+
+    .copy-button {
+      display: flex;
+
+      align-items: center;
+      justify-content: center;
+
+      width: 100%;
+
+      margin-top: 10px;
+
+      min-height: 45px;
+
+      border: 0;
+
+      border-radius: 14px;
+
+      background: transparent;
+
+      color: #6e6e73;
+
+      font: inherit;
+
+      font-size: 13px;
+      font-weight: 600;
+
+      cursor: pointer;
+
+      transition:
+        background .18s,
+        color .18s;
+    }
+
+    .copy-button:hover {
+      background: #f1f1f3;
+
+      color: #1d1d1f;
+    }
+
+    .url {
+      margin-top: 3px;
+
+      padding: 9px 11px;
+
+      border-radius: 10px;
+
+      background: #f8f8fa;
+
+      color: #98989d;
+
+      font-size: 10px;
+
+      white-space: nowrap;
+
+      overflow: hidden;
+
+      text-overflow: ellipsis;
+    }
+
+
+    /* =========================
+       SHARE BOX
+    ========================= */
+
+    .share-box {
+      margin-top: 12px;
+
+      padding: 18px;
+
+      border:
+        1px solid rgba(0, 0, 0, .06);
+
+      border-radius: 22px;
+
+      background:
+        rgba(255, 255, 255, .68);
+
+      box-shadow:
+        0 14px 40px rgba(0, 0, 0, .06);
+
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+    }
+
+    .share-title {
+      font-size: 14px;
+
+      font-weight: 700;
+
+      color: #1d1d1f;
+    }
+
+    .share-text {
+      margin-top: 4px;
+
+      color: #6e6e73;
+
+      font-size: 12px;
+
+      line-height: 1.45;
+    }
+
+    .share-url {
+      margin-top: 13px;
+
+      padding: 11px 12px;
+
+      border-radius: 12px;
+
+      background: #f1f1f3;
+
+      color: #6e6e73;
+
+      font-size: 11px;
+
+      line-height: 1.4;
+
+      white-space: nowrap;
+
+      overflow: hidden;
+
+      text-overflow: ellipsis;
+
+      user-select: all;
+    }
+
+    .share-copy-button {
+      display: flex;
+
+      align-items: center;
+      justify-content: center;
+
+      width: 100%;
+
+      min-height: 44px;
+
+      margin-top: 9px;
+
+      border: 0;
+
+      border-radius: 13px;
+
+      background: #1d1d1f;
+
+      color: #fff;
+
+      font: inherit;
+
+      font-size: 13px;
+
+      font-weight: 600;
+
+      cursor: pointer;
+
+      box-shadow:
+        0 7px 18px rgba(0, 0, 0, .11);
+
+      transition:
+        transform .18s ease,
+        background .18s ease,
+        box-shadow .18s ease;
+    }
+
+    .share-copy-button:hover {
+      background: #2c2c2e;
+
+      transform: translateY(-1px);
+
+      box-shadow:
+        0 9px 22px rgba(0, 0, 0, .14);
+    }
+
+    .share-copy-button:active {
+      transform: scale(.99);
+    }
+
+    .share-note {
+      margin-top: 9px;
+
+      text-align: center;
+
+      color: #98989d;
+
+      font-size: 10px;
+
+      line-height: 1.4;
+    }
+
+
+    /* =========================
+       FOOTER
+    ========================= */
+
+    .footer {
+      padding: 22px 0 0;
+
+      text-align: center;
+
+      color: #98989d;
+
+      font-size: 11px;
+
+      line-height: 1.5;
+    }
+
+    .footer a {
+      color: inherit;
+
+      text-decoration: none;
+    }
+
+
+    /* =========================
+       MOBILE
+    ========================= */
+
+    @media (max-width: 520px) {
+
+      body {
+        padding:
+          20px 14px 26px;
+      }
+
+      .hero {
+        padding:
+          15px 0 22px;
+      }
+
+      h1 {
+        margin-top: 20px;
+
+        font-size:
+          clamp(42px, 14vw, 56px);
+      }
+
+      .subtitle {
+        font-size: 15px;
+
+        line-height: 1.45;
+      }
+
+      .calendar-preview {
+        margin-top: 80px;
+
+        margin-bottom: 22px;
+
+        padding: 13px;
+
+        border-radius: 21px;
+      }
+
+      .preview-callout {
+        top: -55px;
+        right: 2px;
+        transform: scale(.84);
+        transform-origin: top right;
+      }
+
+      .preview-timeline {
+        height: 180px;
+      }
+
+      .preview-event {
+        left: 39px;
+      }
+
+      .preview-event-title {
+        font-size: 9px;
+      }
+
+      .preview-event-time {
+        font-size: 7px;
+      }
+
+      .panel {
+        padding: 13px;
+
+        border-radius: 21px;
+      }
+
+      select {
+        padding:
+          15px 45px 15px 14px;
+      }
+
+      .url {
+        display: none;
+      }
+
+      .share-box {
+        padding: 16px;
+
+        border-radius: 20px;
+      }
+
+      .share-url {
+        font-size: 10px;
+      }
+    }
+
+  </style>
+</head>
+
+
+<body>
+
+  <main>
+
+    <nav class="language-switcher" aria-label="Language / Lingua">
+      <button class="language-button" type="button" data-language="en" aria-label="English" aria-pressed="true">🇬🇧</button>
+      <button class="language-button" type="button" data-language="it" aria-label="Italiano" aria-pressed="false">🇮🇹</button>
+    </nav>
+
+
+    <!-- =========================
+         HERO
+    ========================= -->
+
+    <section class="hero">
+
+      <div class="badge">
+        <span class="dot"></span>
+        <span id="badgeText">UniSR · Calendar</span>
+      </div>
+
+
+      <h1>
+        <span id="headingText">UniSR Calendar</span>
+      </h1>
+
+
+      <p class="subtitle" id="subtitleText">
+        Subscribe below to your UniSR timetable and keep your calendar automatically up to date.
+      </p>
+
+
+      <!-- =========================
+           CALENDAR PREVIEW
+      ========================= -->
+
+      <div class="calendar-preview">
+
+        <div class="preview-callout" aria-hidden="true">
+          <span class="preview-callout-text" id="previewCalloutText">This calendar
+actually works!</span>
+          <svg viewBox="0 0 72 48" aria-hidden="true">
+            <path d="M66 2 C60 17, 47 27, 31 30 C23 32, 17 32, 11 31" />
+            <path d="M20 23 L11 31 L21 37" />
+          </svg>
+        </div>
+
+        <div class="preview-top">
+
+          <span class="preview-month">
+            October 2026
+          </span>
+
+          <span class="preview-calendar-icon">
+
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="14"
+              height="14"
+              fill="currentColor"
+              viewBox="0 0 16 16"
+              aria-hidden="true"
+            >
+
+              <path d="M11.182.008C11.148-.03 9.923.023 8.857 1.18c-1.066 1.156-.902 2.482-.878 2.516s1.52.087 2.475-1.258.762-2.391.728-2.43m3.314 11.733c-.048-.096-2.325-1.234-2.113-3.422s1.675-2.789 1.698-2.854-.597-.79-1.254-.434a3.7 3.7 0 0 0-1.563-.434c-.108-.003-.483-.095-1.254.116-.508.139-1.653.589-1.968.607-.316.018-1.256-.522-2.267-.665-.647-.125-1.333.131-1.824.328-.49.196-1.422.754-2.074 2.237-.652 1.482-.311 3.83-.067 4.56s.625 1.924 1.273 2.796c.576.984 1.34 1.667 1.659 1.899s1.219.386 1.843.067c.502-.308 1.408-.485 1.766-.472.357.013 1.061.154 1.782.539.571.197 1.111.115 1.652-.105.541-.221 1.324-1.059 2.238-2.758q.52-1.185.473-1.282"/>
+
+            </svg>
+            
+          </span>
+
+        </div>
+
+
+        <div class="preview-days">
+
+          <span class="preview-day">M</span>
+          <span class="preview-day">T</span>
+          <span class="preview-day">W</span>
+          <span class="preview-day">T</span>
+          <span class="preview-day">F</span>
+          <span class="preview-day">S</span>
+          <span class="preview-day">S</span>
+
+        </div>
+
+
+        <div class="preview-dates" role="group" aria-label="Choose a day in October 2026">
+          <button class="preview-date" type="button" data-day="5" aria-pressed="false">5</button>
+          <button class="preview-date active" type="button" data-day="6" aria-pressed="true">6</button>
+          <button class="preview-date" type="button" data-day="7" aria-pressed="false">7</button>
+          <button class="preview-date" type="button" data-day="8" aria-pressed="false">8</button>
+          <button class="preview-date" type="button" data-day="9" aria-pressed="false">9</button>
+          <button class="preview-date" type="button" data-day="10" aria-pressed="false">10</button>
+          <button class="preview-date" type="button" data-day="11" aria-pressed="false">11</button>
+        </div>
+
+
+        <div class="preview-timeline">
+
+          <div class="preview-gridline" style="top: 0">
+            <span class="preview-time">09:00</span><span class="preview-rule"></span>
+          </div>
+          <div class="preview-gridline" style="top: 45px">
+            <span class="preview-time">11:00</span><span class="preview-rule"></span>
+          </div>
+          <div class="preview-gridline" style="top: 90px">
+            <span class="preview-time">13:00</span><span class="preview-rule"></span>
+          </div>
+          <div class="preview-gridline" style="top: 135px">
+            <span class="preview-time">15:00</span><span class="preview-rule"></span>
+          </div>
+
+
+          <div id="previewEvents" aria-live="polite"></div>
+
+        </div>
+
+
+        <div class="preview-caption" id="previewCaption">
+          Timetable automatically updated in your calendar up to date with offical UniSR wesbite
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section class="panel">
+
+
+      <div class="select-group">
+
+        <label
+          class="section-label"
+          id="courseLabel"
+          for="courseSelect"
+        >
+          Choose your course
+        </label>
+
+
+        <div class="select-wrap">
+
+          <select id="courseSelect">
+
+            <option value="" id="coursePlaceholder">
+              Select a course
+            </option>
+
+            <option value="international">
+              International MDP
+            </option>
+
+            <option value="italian">
+              Medicina e Chirurgia
+            </option>
+
+            <option value="odontoiatria">
+              Odontoiatria e protesi dentale
+            </option>
+
+            <option value="infermieristica">
+              Infermieristica (Milano)
+            </option>
+
+            <option value="psicologia">
+              Scienze e Tecniche Psicologiche
+            </option>
+
+          </select>
+
+        </div>
+
+      </div>
+
+
+
+      <div class="select-group">
+
+        <label
+          class="section-label"
+          id="yearLabel"
+          for="yearSelect"
+        >
+          Choose your year
+        </label>
+
+
+        <div class="select-wrap">
+
+          <select
+            id="yearSelect"
+            disabled
+          >
+
+            <option value="" id="yearPlaceholder">
+              Select a year
+            </option>
+
+            <option value="1">
+              1st Year
+            </option>
+
+            <option value="2" id="secondYearOption">
+              2nd Year
+            </option>
+
+            <option value="3" id="thirdYearOption" hidden disabled>
+              3rd Year
+            </option>
+
+          </select>
+
+        </div>
+
+      </div>
+
+
+
+      <div
+        class="select-group"
+        id="lineGroup"
+        style="display:none;"
+      >
+
+        <label
+          class="section-label"
+          id="lineLabel"
+          for="lineSelect"
+        >
+          Choose your line
+        </label>
+
+
+        <div class="select-wrap">
+
+          <select id="lineSelect">
+
+            <option value="" id="linePlaceholder">
+              Select a line
+            </option>
+
+            <option value="azzurro">
+              LINEA AZZURRA
+            </option>
+
+            <option value="bianco">
+              LINEA BIANCA
+            </option>
+
+            <option value="giallo">
+              LINEA GIALLA
+            </option>
+
+            <option value="verde">
+              LINEA VERDE
+            </option>
+
+            <option value="rosso">
+              LINEA ROSSA
+            </option>
+
+            <option value="viola">
+              LINEA VIOLA
+            </option>
+
+          </select>
+
+        </div>
+
+      </div>
+
+
+
+      <div class="selected">
+
+        <span class="selected-icon">
+          📅
+        </span>
+
+        <span id="selectedName">
+          Select your course
+        </span>
+
+      </div>
+
+
+
+      <!-- =========================
+           CALENDAR ACTIONS
+      ========================= -->
+
+      <div class="calendar-actions">
+
+
+        <!-- APPLE -->
+
+        <button
+          class="calendar-button apple-button"
+          id="appleButton"
+          onclick="addToAppleCalendar()"
+        >
+
+          <span class="calendar-icon">
+
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="21"
+              height="21"
+              fill="currentColor"
+              viewBox="0 0 16 16"
+              aria-hidden="true"
+            >
+
+              <path d="M11.182.008C11.148-.03 9.923.023 8.857 1.18c-1.066 1.156-.902 2.482-.878 2.516s1.52.087 2.475-1.258.762-2.391.728-2.43m3.314 11.733c-.048-.096-2.325-1.234-2.113-3.422s1.675-2.789 1.698-2.854-.597-.79-1.254-.434a3.7 3.7 0 0 0-1.563-.434c-.108-.003-.483-.095-1.254.116-.508.139-1.653.589-1.968.607-.316.018-1.256-.522-2.267-.665-.647-.125-1.333.131-1.824.328-.49.196-1.422.754-2.074 2.237-.652 1.482-.311 3.83-.067 4.56s.625 1.924 1.273 2.796c.576.984 1.34 1.667 1.659 1.899s1.219.386 1.843.067c.502-.308 1.408-.485 1.766-.472.357.013 1.061.154 1.782.539.571.197 1.111.115 1.652-.105.541-.221 1.324-1.059 2.238-2.758q.52-1.185.473-1.282"/>
+
+            </svg>
+
+          </span>
+
+
+          <span class="button-text">
+
+            <span class="button-title" id="appleTitle">
+              Add to Apple Calendar
+            </span>
+
+            <span class="button-subtitle" id="appleSubtitle">
+              Subscribe on iPhone, Mac or iPad
+            </span>
+
+          </span>
+
+
+          <span class="button-arrow">
+            ›
+          </span>
+
+        </button>
+</div>
+
+
+
+      <!-- SUBSCRIPTION LINK -->
+
+      <button
+        class="copy-button"
+        id="copyButton"
+        onclick="copyCalendarUrl()"
+      >
+        <span id="copyCalendarText">Copy subscription link</span>
+      </button>
+
+
+      <div
+        class="url"
+        id="calendarUrl"
+      ></div>
+
+
+    </section>
+
+
+
+    <!-- =========================
+         SHARE WEBSITE
+    ========================= -->
+
+    <section class="share-box">
+
+      <div class="share-title" id="shareTitle">
+        Wanna share the calendar with your friends?
+      </div>
+
+
+      <div class="share-text" id="shareText">
+        Copy this link and send it to them.
+      </div>
+
+
+      <div
+        class="share-url"
+        id="shareUrl"
+      >
+        https://niccolopalearicazzaniga.github.io/unisr-calendar/
+      </div>
+
+
+      <button
+        class="share-copy-button"
+        id="shareCopyButton"
+        onclick="copyShareUrl()"
+      >
+        <span id="shareCopyText">Copy link</span>
+      </button>
+
+
+      <div class="share-note" id="shareNote">
+        You can also find this link in the description of the lessons.
+      </div>
+
+    </section>
+
+
+
+    <!-- =========================
+         FOOTER
+    ========================= -->
+
+    <div class="footer">
+
+      <span id="footerText">UniSR timetable calendar · Created by</span>
+
+      <a
+        href="https://www.instagram.com/fil_genna"
+        target="_blank"
+        rel="noopener"
+      >
+        @fil_genna
+      </a>
+
+    </div>
+
+
+  </main>
+
+
+
+  <!-- =========================
+       JAVASCRIPT
+  ========================= -->
+
+  <script>
+
+    // Preview timetable using the supplied subjects and room names.
+    const previewLessons = {
+      5: [
+        { start: "10:00", end: "12:00", title: "Medicine as a Human Endeavour", place: "BO101 - Borromini (1 piano)" },
+        { start: "12:00", end: "14:00", title: "Basic Medical Statistics", place: "CA201 - Canova (2 piano)" }
+      ],
+      6: [
+        { start: "09:00", end: "11:00", title: "Medical Chemistry & Biochemistry", place: "VA301 - Vasari (3 piano)" },
+        { start: "13:00", end: "15:00", title: "Molecular Cell Biology", place: "BO201 - Borromini (2 piano)" }
+      ],
+      7: [
+        { start: "11:00", end: "13:00", title: "Medical Physics", place: "CA301 - Canova (3 piano)" },
+        { start: "15:00", end: "17:00", title: "Medicine as a Human Endeavour", place: "BO101 - Borromini (1 piano)" }
+      ],
+      8: [
+        { start: "11:00", end: "13:00", title: "Basic Medical Statistics", place: "VA201 - Vasari (2 piano)" },
+        { start: "13:00", end: "15:00", title: "Medical Chemistry & Biochemistry", place: "CA101 - Canova (1 piano)" }
+      ],
+      9: [
+        { start: "09:00", end: "11:00", title: "Molecular Cell Biology", place: "BO301 - Borromini (3 piano)" },
+        { start: "11:00", end: "13:00", title: "Medical Physics", place: "VA101 - Vasari (1 piano)" }
+      ],
+      10: [],
+      11: []
+    };
+
+    const previewDateButtons = document.querySelectorAll(".preview-date");
+    const previewEvents = document.getElementById("previewEvents");
+    const previewMonth = document.querySelector(".preview-month");
+
+    function renderPreviewDay(day) {
+      previewDateButtons.forEach(button => {
+        const selected = Number(button.dataset.day) === day;
+        button.classList.toggle("active", selected);
+        button.setAttribute("aria-pressed", String(selected));
+      });
+
+      const date = new Date(2026, 9, day);
+      const weekday = new Intl.DateTimeFormat("en", { weekday: "long" }).format(date);
+      previewMonth.textContent = `${weekday}, October ${day}, 2026`;
+      previewEvents.replaceChildren();
+
+      const lessons = previewLessons[day] || [];
+
+      lessons.forEach(lesson => {
+        const [startHour, startMinute] = lesson.start.split(":").map(Number);
+        const [endHour, endMinute] = lesson.end.split(":").map(Number);
+        const slotTop = ((startHour - 9) * 60 + startMinute) * .375;
+        const slotHeight = ((endHour - startHour) * 60 + endMinute - startMinute) * .375;
+        const height = Math.max(30, slotHeight - 12);
+        const top = slotTop + 5 + (slotHeight - height) / 2;
+        const card = document.createElement("div");
+        card.className = "preview-event";
+        card.style.top = `${top}px`;
+        card.style.height = `${height}px`;
+        const title = document.createElement("div");
+        title.className = "preview-event-title";
+        title.textContent = lesson.title;
+        const time = document.createElement("div");
+        time.className = "preview-event-time";
+        time.textContent = `${lesson.start} — ${lesson.end} · ${lesson.place}`;
+        card.append(title, time);
+        previewEvents.append(card);
+      });
+    }
+
+    previewDateButtons.forEach(button => {
+      button.addEventListener("click", () => renderPreviewDay(Number(button.dataset.day)));
+    });
+    renderPreviewDay(6);
+
+    const baseUrl =
+      "https://niccolopalearicazzaniga.github.io/unisr-calendar/";
+
+
+    const courseSelect =
+      document.getElementById("courseSelect");
+
+    const yearSelect =
+      document.getElementById("yearSelect");
+
+    const lineSelect =
+      document.getElementById("lineSelect");
+
+    const lineGroup =
+      document.getElementById("lineGroup");
+
+    const calendarUrl =
+      document.getElementById("calendarUrl");
+
+    const selectedName =
+      document.getElementById("selectedName");
+
+    const copyButton =
+      document.getElementById("copyButton");
+
+    const appleButton =
+      document.getElementById("appleButton");
+const actionButtons = [
+      appleButton,
+      copyButton
+    ];
+
+    const copyCalendarText = document.getElementById("copyCalendarText");
+    const shareCopyText = document.getElementById("shareCopyText");
+    const languageButtons = document.querySelectorAll(".language-button");
+    let currentLanguage = "en";
+
+    const interfaceText = {
+      en: {
+        badge: "UniSR · Calendar",
+        heading: "UniSR Calendar",
+        subtitle: "Subscribe below to your UniSR timetable and keep your calendar automatically up to date.",
+        appleTitle: "Add to Apple Calendar",
+        appleSubtitle: "Subscribe on iPhone, Mac or iPad",
+        copyCalendar: "Copy subscription link (for non-apple calendars, like Google or Microsoft)",
+        copied: "✓ Link copied",
+        selectCourse: "Select your course",
+        courseLabel: "Choose your course",
+        coursePlaceholder: "Select a course",
+        yearLabel: "Choose your year",
+        yearPlaceholder: "Select a year",
+        lineLabel: "Choose your line",
+        linePlaceholder: "Select a line",
+        previewCallout: "Try it!\nIt'll be like this",
+        previewCaption: "Timetable automatically updated in your calendar up to date with offical UniSR wesbite",
+        shareTitle: "Wanna share the calendar with your friends?",
+        shareText: "Copy this link and send it to them.",
+        copyLink: "Copy link",
+        shareNote: "You can also find this link in the description of the lessons.",
+        footer: "UniSR timetable calendar · Created by",
+        pageTitle: "UniSR Calendar"
+      },
+      it: {
+        badge: "UniSR · Calendario",
+        heading: "Calendario UniSR",
+        subtitle: "Iscriviti al calendario delle lezioni in UniSR e tieniti sempre aggiornato sul tuo calendario personale.",
+        appleTitle: "Aggiungi a Calendario Apple",
+        appleSubtitle: "Iscriviti da iPhone, Mac o iPad",
+        copyCalendar: "Copia link di iscrizione (per calendari non-apple, come Google o Microsoft)",
+        copied: "✓ Link copiato",
+        selectCourse: "Seleziona il tuo corso",
+        courseLabel: "Scegli il tuo corso",
+        coursePlaceholder: "Seleziona un corso",
+        yearLabel: "Scegli il tuo anno",
+        yearPlaceholder: "Seleziona un anno",
+        lineLabel: "Scegli la tua linea",
+        linePlaceholder: "Seleziona una linea",
+        previewCallout: "Provalo!\nSul tuo telefono appare così",
+        previewCaption: "Trovi l'orario aggiornato automaticamente nel tuo calendario in base alle informazioni ufficiali del sito UniSR",
+        shareTitle: "Vuoi condividere il calendario con i tuoi amici?",
+        shareText: "Copia questo link e invialo ai tuoi amici.",
+        copyLink: "Copia link",
+        shareNote: "Trovi questo link anche nella descrizione delle lezioni.",
+        footer: "Calendario lezioni UniSR · Creato da",
+        pageTitle: "Calendario UniSR"
+      }
+    };
+
+    function setLanguage(language) {
+      currentLanguage = language;
+      const text = interfaceText[language];
+      document.documentElement.lang = language;
+      document.title = text.pageTitle;
+      document.getElementById("badgeText").textContent = text.badge;
+      document.getElementById("headingText").textContent = text.heading;
+      document.getElementById("subtitleText").textContent = text.subtitle;
+      document.getElementById("appleTitle").textContent = text.appleTitle;
+      document.getElementById("appleSubtitle").textContent = text.appleSubtitle;
+      document.getElementById("courseLabel").textContent = text.courseLabel;
+      document.getElementById("coursePlaceholder").textContent = text.coursePlaceholder;
+      document.getElementById("yearLabel").textContent = text.yearLabel;
+      document.getElementById("yearPlaceholder").textContent = text.yearPlaceholder;
+      document.getElementById("lineLabel").textContent = text.lineLabel;
+      document.getElementById("linePlaceholder").textContent = text.linePlaceholder;
+      document.getElementById("previewCalloutText").textContent = text.previewCallout;
+      document.getElementById("previewCaption").textContent = text.previewCaption;
+      copyCalendarText.textContent = text.copyCalendar;
+      document.getElementById("shareTitle").textContent = text.shareTitle;
+      document.getElementById("shareText").textContent = text.shareText;
+      shareCopyText.textContent = text.copyLink;
+      document.getElementById("shareNote").textContent = text.shareNote;
+      document.getElementById("footerText").textContent = text.footer;
+      languageButtons.forEach(button => {
+        button.setAttribute("aria-pressed", String(button.dataset.language === language));
+      });
+      if (courseSelect.value) updateCalendar();
+      else selectedName.textContent = text.selectCourse;
+    }
+
+    languageButtons.forEach(button => {
+      button.addEventListener("click", () => setLanguage(button.dataset.language));
+    });
+
+
+
+    /* =========================
+       CALENDAR DATA
+    ========================= */
+
+    const calendars = {
+
+      international: {
+
+        1:
+          "calendario-unisr.ics",
+
+        2:
+          "calendario-unisr-2anno.ics"
+
+      },
+
+      odontoiatria: {
+
+        1:
+          "odontoiatria-protesi-dentale.ics"
+
+      },
+
+      infermieristica: {
+
+        1:
+          "infermieristica-milano.ics"
+
+      },
+
+      psicologia: {
+        1: "psicologia-1anno.ics",
+        2: "psicologia-2anno.ics",
+        3: "psicologia-3anno.ics"
+      },
+
+
+      italian: {
+
+        1: {
+
+          azzurro:
+            "italiano-sezione1-azzurro.ics",
+
+          bianco:
+            "italiano-sezione1-bianco.ics",
+
+          giallo:
+            "italiano-sezione2-giallo.ics",
+
+          verde:
+            "italiano-sezione2-verde.ics",
+
+          rosso:
+            "italiano-sezione3-rosso.ics",
+
+          viola:
+            "italiano-sezione3-viola.ics"
+
+        },
+
+
+        2: {
+
+          azzurro:
+            "italiano-sezione1-azzurro-2anno.ics",
+
+          bianco:
+            "italiano-sezione1-bianco-2anno.ics",
+
+          giallo:
+            "italiano-sezione2-giallo-2anno.ics",
+
+          verde:
+            "italiano-sezione2-verde-2anno.ics",
+
+          rosso:
+            "italiano-sezione3-rosso-2anno.ics",
+
+          viola:
+            "italiano-sezione3-viola-2anno.ics"
+
+        }
+
+      }
+
+    };
+
+
+
+    const courseNames = {
+
+      international:
+        "International MD",
+
+      italian:
+        "Medicina e Chirurgia",
+
+      odontoiatria:
+        "Odontoiatria e protesi dentale",
+
+      infermieristica:
+        "Infermieristica (Milano)",
+
+      psicologia:
+        "Scienze e Tecniche Psicologiche"
+
+    };
+
+
+
+    const lineNames = {
+
+      azzurro:
+        "LINEA AZZURRA",
+
+      bianco:
+        "LINEA BIANCA",
+
+      giallo:
+        "LINEA GIALLA",
+
+      verde:
+        "LINEA VERDE",
+
+      rosso:
+        "LINEA ROSSA",
+
+      viola:
+        "LINEA VIOLA"
+
+    };
+
+
+
+    /* =========================
+       VALIDATION
+    ========================= */
+
+    function isSelectionComplete() {
+
+      if (
+        !courseSelect.value ||
+        !yearSelect.value
+      ) {
+        return false;
+      }
+
+      return (
+        courseSelect.value === "international" ||
+        courseSelect.value === "odontoiatria" ||
+        courseSelect.value === "infermieristica" ||
+        courseSelect.value === "psicologia" ||
+        !!lineSelect.value
+      );
+
+    }
+
+
+
+    function getMissingFields() {
+
+      const missing = [];
+
+
+      if (!courseSelect.value) {
+
+        missing.push(courseSelect);
+
+      }
+
+      else if (!yearSelect.value) {
+
+        missing.push(yearSelect);
+
+      }
+
+      else if (
+        courseSelect.value === "italian" &&
+        !lineSelect.value
+      ) {
+
+        missing.push(lineSelect);
+
+      }
+
+
+      return missing;
+
+    }
+
+
+
+    function refreshActionState() {
+
+      const muted =
+        !isSelectionComplete();
+
+
+      actionButtons.forEach(button => {
+
+        button.classList.toggle(
+          "is-muted",
+          muted
+        );
+
+        button.setAttribute(
+          "aria-disabled",
+          String(muted)
+        );
+
+      });
+
+    }
+
+
+
+    function shakeAndHighlightMissing(button) {
+
+      actionButtons.forEach(action => {
+
+        action.classList.remove(
+          "is-shaking"
+        );
+
+      });
+
+
+      void button.offsetWidth;
+
+
+      button.classList.add(
+        "is-shaking"
+      );
+
+
+      setTimeout(() => {
+
+        button.classList.remove(
+          "is-shaking"
+        );
+
+      }, 380);
+
+
+      getMissingFields().forEach(field => {
+
+        const wrap =
+          field.closest(".select-wrap");
+
+
+        if (!wrap) return;
+
+
+        wrap.classList.remove(
+          "needs-attention"
+        );
+
+
+        void wrap.offsetWidth;
+
+
+        wrap.classList.add(
+          "needs-attention"
+        );
+
+
+        setTimeout(() => {
+
+          wrap.classList.remove(
+            "needs-attention"
+          );
+
+        }, 900);
+
+      });
+
+    }
+
+
+
+    /* =========================
+       CALENDAR FILE
+    ========================= */
+
+    function getCalendarFile() {
+
+      const course =
+        courseSelect.value;
+
+      const year =
+        yearSelect.value;
+
+      const line =
+        lineSelect.value;
+
+
+      if (!course || !year) {
+        return null;
+      }
+
+
+      if (course === "international") {
+
+        return (
+          calendars.international[year] ||
+          null
+        );
+
+      }
+
+      if (course === "odontoiatria") {
+
+        return calendars.odontoiatria[year] || null;
+
+      }
+
+      if (course === "infermieristica") {
+
+        return calendars.infermieristica[year] || null;
+
+      }
+
+      if (course === "psicologia") {
+
+        return calendars.psicologia[year] || null;
+
+      }
+
+      if (!line) {
+        return null;
+      }
+
+
+      return (
+        calendars.italian[year]?.[line] ||
+        null
+      );
+
+    }
+
+
+
+    function getCalendarUrl() {
+
+      const file =
+        getCalendarFile();
+
+
+      return file
+        ? baseUrl + file
+        : null;
+
+    }
+
+
+
+    /* =========================
+       UPDATE DISPLAY
+    ========================= */
+
+    function updateCalendar() {
+
+      const course =
+        courseSelect.value;
+
+      const year =
+        yearSelect.value;
+
+      const line =
+        lineSelect.value;
+
+      const url =
+        getCalendarUrl();
+
+
+      if (!course) {
+
+        selectedName.textContent =
+          interfaceText[currentLanguage].selectCourse;
+
+        calendarUrl.textContent = "";
+
+        return;
+
+      }
+
+
+      if (!year) {
+
+        selectedName.textContent =
+          courseNames[course];
+
+        calendarUrl.textContent = "";
+
+        return;
+
+      }
+
+
+      if (
+        course === "international" ||
+        course === "odontoiatria" ||
+        course === "infermieristica" ||
+        course === "psicologia"
+      ) {
+
+        selectedName.textContent =
+          courseNames[course] +
+          " · " +
+          (
+            currentLanguage === "it"
+              ? `${year}° anno`
+              : `${year}${year === "1" ? "st" : year === "2" ? "nd" : "rd"} Year`
+          );
+
+
+        calendarUrl.textContent =
+          url || "";
+
+
+        copyCalendarText.textContent =
+          interfaceText[currentLanguage].copyCalendar;
+
+
+        refreshActionState();
+
+        return;
+
+      }
+
+
+      if (!line) {
+
+        selectedName.textContent =
+          courseNames[course] +
+          " · " +
+          (
+            currentLanguage === "it"
+              ? `${year}° anno`
+              : `${year}${year === "1" ? "st" : year === "2" ? "nd" : "rd"} Year`
+          );
+
+
+        calendarUrl.textContent = "";
+
+        return;
+
+      }
+
+
+      selectedName.textContent =
+        courseNames[course] +
+        " · " +
+        (
+          currentLanguage === "it"
+            ? `${year}° anno`
+            : `${year}${year === "1" ? "st" : year === "2" ? "nd" : "rd"} Year`
+        ) +
+        " · " +
+        lineNames[line];
+
+
+      calendarUrl.textContent =
+        url || "";
+
+
+      copyCalendarText.textContent =
+        interfaceText[currentLanguage].copyCalendar;
+
+    }
+
+
+
+    /* =========================
+       YEAR OPTIONS
+    ========================= */
+
+    function updateYearOptions() {
+
+      const course =
+        courseSelect.value;
+
+      const secondYearOption =
+        document.getElementById("secondYearOption");
+
+      secondYearOption.hidden = course === "odontoiatria" || course === "infermieristica";
+      secondYearOption.disabled = course === "odontoiatria" || course === "infermieristica";
+
+      const thirdYearOption = document.getElementById("thirdYearOption");
+      thirdYearOption.hidden = course !== "psicologia";
+      thirdYearOption.disabled = course !== "psicologia";
+
+      yearSelect.value = "";
+
+      lineSelect.value = "";
+
+      lineGroup.style.display =
+        "none";
+
+
+      if (!course) {
+
+        yearSelect.disabled =
+          true;
+
+        selectedName.textContent =
+          interfaceText[currentLanguage].selectCourse;
+
+        calendarUrl.textContent = "";
+
+        return;
+
+      }
+
+
+      yearSelect.disabled =
+        false;
+
+
+      if (course === "international" || course === "odontoiatria" || course === "infermieristica" || course === "psicologia") {
+
+        lineSelect.value = "";
+
+        lineGroup.style.display =
+          "none";
+
+      }
+
+      else {
+
+        lineGroup.style.display =
+          "block";
+
+      }
+
+
+      selectedName.textContent =
+        courseNames[course];
+
+      calendarUrl.textContent = "";
+
+    }
+
+
+
+    /* =========================
+       LINE VISIBILITY
+    ========================= */
+
+    function updateLineVisibility() {
+
+      if (
+        courseSelect.value === "italian" &&
+        yearSelect.value
+      ) {
+
+        lineGroup.style.display =
+          "block";
+
+      }
+
+      else {
+
+        lineGroup.style.display =
+          "none";
+
+        lineSelect.value = "";
+
+      }
+
+
+      updateCalendar();
+
+    }
+
+
+
+    /* =========================
+       APPLE CALENDAR
+    ========================= */
+
+    function addToAppleCalendar() {
+
+      if (!isSelectionComplete()) {
+
+        shakeAndHighlightMissing(
+          appleButton
+        );
+
+        return;
+
+      }
+
+
+      const url =
+        getCalendarUrl();
+
+
+      if (!url) return;
+
+
+      const webcalUrl =
+        url.replace(
+          /^https?:\/\//,
+          "webcal://"
+        );
+
+
+      window.location.href =
+        webcalUrl;
+
+    }
+
+
+
+
+    /* =========================
+       COPY SUBSCRIPTION URL
+    ========================= */
+
+    async function copyCalendarUrl() {
+
+      if (!isSelectionComplete()) {
+
+        shakeAndHighlightMissing(
+          copyButton
+        );
+
+        return;
+
+      }
+
+
+      const url =
+        getCalendarUrl();
+
+
+      if (!url) return;
+
+
+      try {
+
+        await navigator.clipboard.writeText(
+          url
+        );
+
+      }
+
+      catch {
+
+        const input =
+          document.createElement("input");
+
+
+        input.value = url;
+
+
+        document.body.appendChild(
+          input
+        );
+
+
+        input.select();
+
+
+        document.execCommand(
+          "copy"
+        );
+
+
+        input.remove();
+
+      }
+
+
+      copyCalendarText.textContent =
+        interfaceText[currentLanguage].copied;
+
+
+      setTimeout(() => {
+
+        copyCalendarText.textContent =
+          interfaceText[currentLanguage].copyCalendar;
+
+      }, 1800);
+
+    }
+
+
+
+    /* =========================
+       COPY WEBSITE LINK
+    ========================= */
+
+    const shareUrl =
+      "https://niccolopalearicazzaniga.github.io/unisr-calendar/";
+
+
+    const shareCopyButton =
+      document.getElementById(
+        "shareCopyButton"
+      );
+
+
+    async function copyShareUrl() {
+
+      try {
+
+        await navigator.clipboard.writeText(
+          shareUrl
+        );
+
+      }
+
+      catch {
+
+        const input =
+          document.createElement("input");
+
+
+        input.value =
+          shareUrl;
+
+
+        document.body.appendChild(
+          input
+        );
+
+
+        input.select();
+
+
+        document.execCommand(
+          "copy"
+        );
+
+
+        input.remove();
+
+      }
+
+
+      shareCopyText.textContent =
+        interfaceText[currentLanguage].copied;
+
+
+      setTimeout(() => {
+
+        shareCopyText.textContent =
+          interfaceText[currentLanguage].copyLink;
+
+      }, 1800);
+
+    }
+
+
+
+    /* =========================
+       EVENT LISTENERS
+    ========================= */
+
+    courseSelect.addEventListener(
+      "change",
+      () => {
+
+        updateYearOptions();
+
+        refreshActionState();
+
+      }
+    );
+
+
+    yearSelect.addEventListener(
+      "change",
+      () => {
+
+        updateLineVisibility();
+
+        refreshActionState();
+
+      }
+    );
+
+
+    lineSelect.addEventListener(
+      "change",
+      () => {
+
+        updateCalendar();
+
+        refreshActionState();
+
+      }
+    );
+
+
+
+    /* =========================
+       INITIAL STATE
+    ========================= */
+
+    updateYearOptions();
+
+    refreshActionState();
+
+    setLanguage("en");
+
+  </script>
+
+</body>
+</html>
