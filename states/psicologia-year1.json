@@ -1,0 +1,877 @@
+{
+  "lessons": {
+    "01ad191a3885e0149aa49140@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-29T09:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "01ad191a3885e0149aa49140@unirsr-calendar"
+    },
+    "05e227a58ca2ca97ca4255de@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-27T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "05e227a58ca2ca97ca4255de@unirsr-calendar"
+    },
+    "060309e40cb7c9a1d5d384df@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-09T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "060309e40cb7c9a1d5d384df@unirsr-calendar"
+    },
+    "079e817e45098f38f19838fc@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-10T16:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "079e817e45098f38f19838fc@unirsr-calendar"
+    },
+    "07a5264a796e55d405bd029b@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-26T14:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "07a5264a796e55d405bd029b@unirsr-calendar"
+    },
+    "07c904db67bfa76f398bae99@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-24T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "07c904db67bfa76f398bae99@unirsr-calendar"
+    },
+    "0897d69dfb525c5425f8570b@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-18T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "0897d69dfb525c5425f8570b@unirsr-calendar"
+    },
+    "09fe533afa38452ea74415b1@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-23T16:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "09fe533afa38452ea74415b1@unirsr-calendar"
+    },
+    "0ebb0141b37deb9843dafe22@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-10T14:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "0ebb0141b37deb9843dafe22@unirsr-calendar"
+    },
+    "103959a9cadb32dd3c631fd7@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-19T14:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "103959a9cadb32dd3c631fd7@unirsr-calendar"
+    },
+    "13bea805727c50f12d683161@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-10T16:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "13bea805727c50f12d683161@unirsr-calendar"
+    },
+    "165808b392b784fbffd0d6df@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-02T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "165808b392b784fbffd0d6df@unirsr-calendar"
+    },
+    "182019734bc6e3dcc25a1a81@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-05T09:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "182019734bc6e3dcc25a1a81@unirsr-calendar"
+    },
+    "1ba698d57e3731ba9cc01c53@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-29T16:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "1ba698d57e3731ba9cc01c53@unirsr-calendar"
+    },
+    "2028d3000ccb669a9884f147@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-17T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "2028d3000ccb669a9884f147@unirsr-calendar"
+    },
+    "20dc7c5bd3d62c5ebcecb393@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T13:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "11:00-13:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-04T11:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "20dc7c5bd3d62c5ebcecb393@unirsr-calendar"
+    },
+    "2110a0d15ced5e22a4aab40e@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-19T09:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "2110a0d15ced5e22a4aab40e@unirsr-calendar"
+    },
+    "21dffcf941d03df598dae387@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-03T16:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "21dffcf941d03df598dae387@unirsr-calendar"
+    },
+    "21e169bcd8f897c295e74f41@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-28T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "21e169bcd8f897c295e74f41@unirsr-calendar"
+    },
+    "26280d2326e933af5ad77d37@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-18T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "26280d2326e933af5ad77d37@unirsr-calendar"
+    },
+    "2bff561e6627ca13052c09d1@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-26T16:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "2bff561e6627ca13052c09d1@unirsr-calendar"
+    },
+    "2fa2ab4f8bbeb0923677c1e5@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-16T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "2fa2ab4f8bbeb0923677c1e5@unirsr-calendar"
+    },
+    "30b9636a961d01da00a3a5c9@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-02T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "30b9636a961d01da00a3a5c9@unirsr-calendar"
+    },
+    "316a2699f53298c644e60ed0@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-10T11:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "316a2699f53298c644e60ed0@unirsr-calendar"
+    },
+    "37614d6e4b1080fa7f6af67a@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-01T16:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "37614d6e4b1080fa7f6af67a@unirsr-calendar"
+    },
+    "38dd795a25e45dcfdcbe5e45@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-28T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "38dd795a25e45dcfdcbe5e45@unirsr-calendar"
+    },
+    "38e46fbfc524d531b5c18734@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T16:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-04T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "38e46fbfc524d531b5c18734@unirsr-calendar"
+    },
+    "3c22536d5001d0c1d317f87f@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-17T14:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "3c22536d5001d0c1d317f87f@unirsr-calendar"
+    },
+    "4308b162fc7662d4b482d90d@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-03T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "4308b162fc7662d4b482d90d@unirsr-calendar"
+    },
+    "449ca94c556955f65c7c7527@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-01T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "449ca94c556955f65c7c7527@unirsr-calendar"
+    },
+    "46468789c77d91de2d15fdd6@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T18:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-04T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "46468789c77d91de2d15fdd6@unirsr-calendar"
+    },
+    "4649c8f01c2784c63ec3c40b@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-16T11:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "4649c8f01c2784c63ec3c40b@unirsr-calendar"
+    },
+    "48379555636af7f40d903e5d@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-25T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "48379555636af7f40d903e5d@unirsr-calendar"
+    },
+    "48475b7fd923060f67b8c833@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-01T14:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "48475b7fd923060f67b8c833@unirsr-calendar"
+    },
+    "4a8c3002185f421d4a4e3389@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-28T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "4a8c3002185f421d4a4e3389@unirsr-calendar"
+    },
+    "4b444372f37d187444c494d2@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-17T16:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "4b444372f37d187444c494d2@unirsr-calendar"
+    },
+    "4df5e9b401516e66e2e2ce13@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-15T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "4df5e9b401516e66e2e2ce13@unirsr-calendar"
+    },
+    "4ff2aa38f3319802de603dba@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-27T16:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "4ff2aa38f3319802de603dba@unirsr-calendar"
+    },
+    "500ec8b8bac797b9a7454efc@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-10T09:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "500ec8b8bac797b9a7454efc@unirsr-calendar"
+    },
+    "514a03b80ae9769bd587967c@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-28T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "514a03b80ae9769bd587967c@unirsr-calendar"
+    },
+    "54f5bc02cbb9738e0f5635fa@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-03T14:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "54f5bc02cbb9738e0f5635fa@unirsr-calendar"
+    },
+    "5d97fa5cbdec95fd0df2626f@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-09T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "5d97fa5cbdec95fd0df2626f@unirsr-calendar"
+    },
+    "5f5defe767e1383bf6ed365f@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T16:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-30T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "5f5defe767e1383bf6ed365f@unirsr-calendar"
+    },
+    "6153b18ee9682a1661359c79@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-03T14:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "6153b18ee9682a1661359c79@unirsr-calendar"
+    },
+    "62e467f430b80f3735147777@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-12T16:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "62e467f430b80f3735147777@unirsr-calendar"
+    },
+    "653df4b8aa6a621516f55bfc@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-18T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "653df4b8aa6a621516f55bfc@unirsr-calendar"
+    },
+    "6612d61df85e6f9bc9a6ecdc@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T13:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "11:00-13:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-27T11:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "6612d61df85e6f9bc9a6ecdc@unirsr-calendar"
+    },
+    "665a8d900797611d7d0faf56@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-27T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "665a8d900797611d7d0faf56@unirsr-calendar"
+    },
+    "69c42c3b440f99b008a6b73d@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-15T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "69c42c3b440f99b008a6b73d@unirsr-calendar"
+    },
+    "6ad98baf2d038e8bd6c2d56e@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T11:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "09:00-11:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-11T09:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "6ad98baf2d038e8bd6c2d56e@unirsr-calendar"
+    },
+    "6f689b49bc607fc42bbf8e09@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-23T14:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "6f689b49bc607fc42bbf8e09@unirsr-calendar"
+    },
+    "709b81281618e6a428680e9e@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-18T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "709b81281618e6a428680e9e@unirsr-calendar"
+    },
+    "74bf62521f3104393be87b94@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-25T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "74bf62521f3104393be87b94@unirsr-calendar"
+    },
+    "758c4f40d64609a8874b1208@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-27T14:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "758c4f40d64609a8874b1208@unirsr-calendar"
+    },
+    "77cf6e147564d29496ed8185@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-25T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "77cf6e147564d29496ed8185@unirsr-calendar"
+    },
+    "781f231b6ce7f80aab7e06ab@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-02T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "781f231b6ce7f80aab7e06ab@unirsr-calendar"
+    },
+    "7a6e989579d9ed8079a62fd1@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T16:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-11T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "7a6e989579d9ed8079a62fd1@unirsr-calendar"
+    },
+    "7b0d8f9b7472d9b5c008dc8c@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T11:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "09:00-11:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-30T09:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "7b0d8f9b7472d9b5c008dc8c@unirsr-calendar"
+    },
+    "7d0df50d55404cd2d2924e91@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T16:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-27T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "7d0df50d55404cd2d2924e91@unirsr-calendar"
+    },
+    "81532ea7df32e7d1e036841f@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-05T14:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "81532ea7df32e7d1e036841f@unirsr-calendar"
+    },
+    "86d04c46f73452cb61d565ab@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-16T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "86d04c46f73452cb61d565ab@unirsr-calendar"
+    },
+    "87c19269edd6eb9c33615f3d@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-03T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "87c19269edd6eb9c33615f3d@unirsr-calendar"
+    },
+    "8be6f9ca2566d903a744c9db@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T11:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "09:00-11:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-04T09:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "8be6f9ca2566d903a744c9db@unirsr-calendar"
+    },
+    "9047afc37067955c0d5939ba@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T13:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "11:00-13:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-30T11:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "9047afc37067955c0d5939ba@unirsr-calendar"
+    },
+    "93bc8bdca25cbac0854a08d1@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-11T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "93bc8bdca25cbac0854a08d1@unirsr-calendar"
+    },
+    "9b004e11958ea1fa6307512c@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-29T11:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "9b004e11958ea1fa6307512c@unirsr-calendar"
+    },
+    "9dd93b90eac62e3dfba86727@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-10T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "9dd93b90eac62e3dfba86727@unirsr-calendar"
+    },
+    "a1116ce58044f6c232e0367d@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-10T14:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "a1116ce58044f6c232e0367d@unirsr-calendar"
+    },
+    "a20653e806d9f98e6e10cad2@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-11T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "a20653e806d9f98e6e10cad2@unirsr-calendar"
+    },
+    "a3b377dd69d55f4485ac7894@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-04T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "a3b377dd69d55f4485ac7894@unirsr-calendar"
+    },
+    "a6a63bb00a8b80dde414ea70@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-10-29T14:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "a6a63bb00a8b80dde414ea70@unirsr-calendar"
+    },
+    "a92f447d27b31464566a709d@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-04T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "a92f447d27b31464566a709d@unirsr-calendar"
+    },
+    "ab13eba98f1fe1efc1323d96@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T11:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "09:00-11:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-27T09:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "ab13eba98f1fe1efc1323d96@unirsr-calendar"
+    },
+    "abc74f8f3a78896433ead42a@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-12T09:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "abc74f8f3a78896433ead42a@unirsr-calendar"
+    },
+    "b44ac016083fa6846332c357@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-24T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "b44ac016083fa6846332c357@unirsr-calendar"
+    },
+    "b5eac150e478937cfca8d898@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-17T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "b5eac150e478937cfca8d898@unirsr-calendar"
+    },
+    "b7b7c5da57087c9e431cc630@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-19T11:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "b7b7c5da57087c9e431cc630@unirsr-calendar"
+    },
+    "b8aa11dc0b76ab69f586c5ea@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-11T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "b8aa11dc0b76ab69f586c5ea@unirsr-calendar"
+    },
+    "b93a97bafeaec63423f11994@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-04T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "b93a97bafeaec63423f11994@unirsr-calendar"
+    },
+    "bb2341b1eebdf2154703e670@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T18:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-11T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "bb2341b1eebdf2154703e670@unirsr-calendar"
+    },
+    "c1a29c8af27680eac4c61cf4@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-03T16:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "c1a29c8af27680eac4c61cf4@unirsr-calendar"
+    },
+    "c3c975e969ba436c12ab1120@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-01T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "c3c975e969ba436c12ab1120@unirsr-calendar"
+    },
+    "c42e4ee65947667036af528f@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-05T11:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "c42e4ee65947667036af528f@unirsr-calendar"
+    },
+    "c82a606c52f5c27a88154519@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-19T16:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "c82a606c52f5c27a88154519@unirsr-calendar"
+    },
+    "c85eab8a88324d1282956562@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T18:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-27T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "c85eab8a88324d1282956562@unirsr-calendar"
+    },
+    "ca23c65bfee74da3dda8d6f9@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-10T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: FOSSATI ANDREA)",
+      "uid": "ca23c65bfee74da3dda8d6f9@unirsr-calendar"
+    },
+    "ce4415de5d0df21207a59c7a@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-05T16:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "ce4415de5d0df21207a59c7a@unirsr-calendar"
+    },
+    "d24844595e71f53894c2f8da@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T18:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-30T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "d24844595e71f53894c2f8da@unirsr-calendar"
+    },
+    "d4f2b1f605f0a04fc52c914b@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Filosofia della scienza (docente: MARTINI CARLO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-12T14:00",
+      "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
+      "uid": "d4f2b1f605f0a04fc52c914b@unirsr-calendar"
+    },
+    "ded1ebcab70a890b114df824@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T11:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-11T09:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "ded1ebcab70a890b114df824@unirsr-calendar"
+    },
+    "e2ff346dfb6dcca40f589b16@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-04T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "e2ff346dfb6dcca40f589b16@unirsr-calendar"
+    },
+    "e6f22f4211a36ffbabf04bef@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-12T11:00",
+      "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
+      "uid": "e6f22f4211a36ffbabf04bef@unirsr-calendar"
+    },
+    "f1bb2e1a0bdc6abd1f2b8250@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-09T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "f1bb2e1a0bdc6abd1f2b8250@unirsr-calendar"
+    },
+    "f304d0c2e126709aeeac0707@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T13:00",
+      "location": "DIBIT1 Aula LAB. NEUROBIOL. COMP. (piano -1)",
+      "raw": "11:00-13:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-11T11:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
+      "uid": "f304d0c2e126709aeeac0707@unirsr-calendar"
+    },
+    "f6eebb425dcd3ca1320d6f76@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-02T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "f6eebb425dcd3ca1320d6f76@unirsr-calendar"
+    },
+    "fa19c1dc030bdd165d5678c5@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-09T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "fa19c1dc030bdd165d5678c5@unirsr-calendar"
+    },
+    "fed710d20f3957f0488c20db@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T13:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-11-25T11:00",
+      "subject": "Lezione: Metodologia della ricerca psicologica (docente: SOMMA ANTONELLA)",
+      "uid": "fed710d20f3957f0488c20db@unirsr-calendar"
+    }
+  }
+}

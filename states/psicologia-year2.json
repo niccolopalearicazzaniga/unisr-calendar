@@ -1,0 +1,850 @@
+{
+  "lessons": {
+    "0420228e4686209e329a6840@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-22T16:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "0420228e4686209e329a6840@unirsr-calendar"
+    },
+    "042cee85d405f364f4f06bac@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T11:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-03T09:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "042cee85d405f364f4f06bac@unirsr-calendar"
+    },
+    "055a081ec37277b781617a4c@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-27T14:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "055a081ec37277b781617a4c@unirsr-calendar"
+    },
+    "09fc774909b95c5c2a2b499e@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T11:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-26T09:00",
+      "subject": "Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA)",
+      "uid": "09fc774909b95c5c2a2b499e@unirsr-calendar"
+    },
+    "0b31611fe5208deecf2a9f69@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T11:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-25T09:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "0b31611fe5208deecf2a9f69@unirsr-calendar"
+    },
+    "11d9e5259a9700cdb1c030ee@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T13:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-02T11:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "11d9e5259a9700cdb1c030ee@unirsr-calendar"
+    },
+    "143a2596f5918e4e74599b62@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T13:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-29T11:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "143a2596f5918e4e74599b62@unirsr-calendar"
+    },
+    "1614642113ac6240e50fa65d@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-20T14:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "1614642113ac6240e50fa65d@unirsr-calendar"
+    },
+    "17eb7a8ad1650097d9fc3f34@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-04T14:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "17eb7a8ad1650097d9fc3f34@unirsr-calendar"
+    },
+    "1cd6c30e6dfb0b2e1a91740a@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-06T14:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "1cd6c30e6dfb0b2e1a91740a@unirsr-calendar"
+    },
+    "1f0de89c819ccf8ec82a92c5@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-14T16:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "1f0de89c819ccf8ec82a92c5@unirsr-calendar"
+    },
+    "2810e6bccf9bc483f0e4df18@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T11:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Gender studies: filosofia e metodologia (docente: DI MATTEI VALENTINA ELISABETTA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2027-01-13T09:00",
+      "subject": "Lezione: Gender studies: filosofia e metodologia (docente: DI MATTEI VALENTINA ELISABETTA)",
+      "uid": "2810e6bccf9bc483f0e4df18@unirsr-calendar"
+    },
+    "283c76f6a01d75bc290c4d1f@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-27T16:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "283c76f6a01d75bc290c4d1f@unirsr-calendar"
+    },
+    "2dda9b6918844e0635712587@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T13:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-04T11:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "2dda9b6918844e0635712587@unirsr-calendar"
+    },
+    "2e1ec3050072ddbfd3f8746e@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-14T14:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "2e1ec3050072ddbfd3f8746e@unirsr-calendar"
+    },
+    "436f0770a93b1c02081875b5@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T11:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-02T09:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "436f0770a93b1c02081875b5@unirsr-calendar"
+    },
+    "444ef6f5fe9feaab31d47f95@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T11:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-27T09:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "444ef6f5fe9feaab31d47f95@unirsr-calendar"
+    },
+    "45e5d03b8a31f8e777327e12@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-27T16:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "45e5d03b8a31f8e777327e12@unirsr-calendar"
+    },
+    "4af7ea1dbf76849ca8cca840@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T13:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-17T11:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "4af7ea1dbf76849ca8cca840@unirsr-calendar"
+    },
+    "4b74fb9571a7e792665c8e4c@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T11:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-11T09:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "4b74fb9571a7e792665c8e4c@unirsr-calendar"
+    },
+    "4f4e8e3ee2ca803ec03b8353@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T13:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-03T11:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "4f4e8e3ee2ca803ec03b8353@unirsr-calendar"
+    },
+    "4f51b24928d1f91637a07b2a@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T13:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-19T11:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "4f51b24928d1f91637a07b2a@unirsr-calendar"
+    },
+    "52e0fdf2f10e30fe60616077@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T13:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-18T11:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "52e0fdf2f10e30fe60616077@unirsr-calendar"
+    },
+    "568367224356005a5a263e43@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T11:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-09T09:00",
+      "subject": "Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA)",
+      "uid": "568367224356005a5a263e43@unirsr-calendar"
+    },
+    "5990d948a95f0d6a06fd8873@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T11:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-02T09:00",
+      "subject": "Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA)",
+      "uid": "5990d948a95f0d6a06fd8873@unirsr-calendar"
+    },
+    "5ac9efc05c38927508596627@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T13:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-09T11:00",
+      "subject": "Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA)",
+      "uid": "5ac9efc05c38927508596627@unirsr-calendar"
+    },
+    "5afac5567a3b8fe903249479@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T11:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-29T09:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "5afac5567a3b8fe903249479@unirsr-calendar"
+    },
+    "5c18bfa1a27140d93fea6d2f@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-21T14:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "5c18bfa1a27140d93fea6d2f@unirsr-calendar"
+    },
+    "5e515dfe4b39580b5d4576c1@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-03T14:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "5e515dfe4b39580b5d4576c1@unirsr-calendar"
+    },
+    "62241ac06c516ce940cb55c1@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-22T14:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "62241ac06c516ce940cb55c1@unirsr-calendar"
+    },
+    "65df2f4b0169f560b3b29cb3@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-10T14:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "65df2f4b0169f560b3b29cb3@unirsr-calendar"
+    },
+    "67b35243e5958c664cb3c1b2@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T11:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-28T09:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "67b35243e5958c664cb3c1b2@unirsr-calendar"
+    },
+    "68099f5e954d6db1d7b0cace@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T11:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-01T09:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "68099f5e954d6db1d7b0cace@unirsr-calendar"
+    },
+    "68be96a9c3d92002af61e45f@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T13:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-26T11:00",
+      "subject": "Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA)",
+      "uid": "68be96a9c3d92002af61e45f@unirsr-calendar"
+    },
+    "6e226a06a7ea9b52c4b77171@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T11:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-27T09:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "6e226a06a7ea9b52c4b77171@unirsr-calendar"
+    },
+    "6fefd532cb6346ef237bcf9c@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-01T16:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "6fefd532cb6346ef237bcf9c@unirsr-calendar"
+    },
+    "72f89f3ebd14e82b9264deac@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-25T16:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "72f89f3ebd14e82b9264deac@unirsr-calendar"
+    },
+    "745fc18efec497ac21c29fe8@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-13T14:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "745fc18efec497ac21c29fe8@unirsr-calendar"
+    },
+    "77133ac5121eeaf734d5bc2d@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-02T16:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "77133ac5121eeaf734d5bc2d@unirsr-calendar"
+    },
+    "7c59b08c09fef91a5d286ec5@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-03T16:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "7c59b08c09fef91a5d286ec5@unirsr-calendar"
+    },
+    "7f1aab918ec74e13b8068a8e@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T13:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-05T11:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "7f1aab918ec74e13b8068a8e@unirsr-calendar"
+    },
+    "7fc6433c6a71de7c253d582e@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-27T14:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "7fc6433c6a71de7c253d582e@unirsr-calendar"
+    },
+    "8003cf243999c069ab315cd6@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T13:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Gender studies: filosofia e metodologia (docente: DI MATTEI VALENTINA ELISABETTA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2027-01-13T11:00",
+      "subject": "Lezione: Gender studies: filosofia e metodologia (docente: DI MATTEI VALENTINA ELISABETTA)",
+      "uid": "8003cf243999c069ab315cd6@unirsr-calendar"
+    },
+    "80bd7a7f5e8ff2fe8b5c0956@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-11T16:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "80bd7a7f5e8ff2fe8b5c0956@unirsr-calendar"
+    },
+    "8195b0a0e0e744ad8213f3ff@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-29T14:00",
+      "subject": "Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA)",
+      "uid": "8195b0a0e0e744ad8213f3ff@unirsr-calendar"
+    },
+    "82692e853b142c59eec67629@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T13:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-23T11:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "82692e853b142c59eec67629@unirsr-calendar"
+    },
+    "83595f08fbd135d60c5f14bf@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-21T16:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "83595f08fbd135d60c5f14bf@unirsr-calendar"
+    },
+    "83723e3c9f48754b46ce6648@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-26T14:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "83723e3c9f48754b46ce6648@unirsr-calendar"
+    },
+    "872e3b8e9ab0c26b9f85f4c6@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-13T16:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "872e3b8e9ab0c26b9f85f4c6@unirsr-calendar"
+    },
+    "909224d4f73251871d397706@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T11:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-19T09:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "909224d4f73251871d397706@unirsr-calendar"
+    },
+    "92a22611a0bdbc3aa069afb3@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T11:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-17T09:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "92a22611a0bdbc3aa069afb3@unirsr-calendar"
+    },
+    "92e3b6305e3c3e93a6a5a66e@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T11:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-04T09:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "92e3b6305e3c3e93a6a5a66e@unirsr-calendar"
+    },
+    "942c0fa1ba33b5647c4bfd4f@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T11:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-10T09:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "942c0fa1ba33b5647c4bfd4f@unirsr-calendar"
+    },
+    "96cf0d8af5d7022e16bc4706@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-20T16:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "96cf0d8af5d7022e16bc4706@unirsr-calendar"
+    },
+    "96d5c5e66e645c5638cbb70b@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T13:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-11T11:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "96d5c5e66e645c5638cbb70b@unirsr-calendar"
+    },
+    "97b3e34ff13901367c433e2d@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T18:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-17T16:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "97b3e34ff13901367c433e2d@unirsr-calendar"
+    },
+    "986a4a6fe134b93ba4c714f9@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T13:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-27T11:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "986a4a6fe134b93ba4c714f9@unirsr-calendar"
+    },
+    "9badb656e71c430aa1cacb94@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-30T16:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "9badb656e71c430aa1cacb94@unirsr-calendar"
+    },
+    "9f8fc09234c778178be6e254@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-10T16:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "9f8fc09234c778178be6e254@unirsr-calendar"
+    },
+    "a5e2797ec441d78321a58a42@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T16:00",
+      "location": "DONATELLO Aula DO103 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-17T14:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "a5e2797ec441d78321a58a42@unirsr-calendar"
+    },
+    "a6e5437216445286962c2e97@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T11:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-18T09:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "a6e5437216445286962c2e97@unirsr-calendar"
+    },
+    "a707c55ae25c9ecd0ebf9e05@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T11:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-03T09:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "a707c55ae25c9ecd0ebf9e05@unirsr-calendar"
+    },
+    "a7c397241f8e79bdb6fd361d@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2027-01-07T14:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "a7c397241f8e79bdb6fd361d@unirsr-calendar"
+    },
+    "a86d8df3c944d54b53a6018b@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-04T16:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "a86d8df3c944d54b53a6018b@unirsr-calendar"
+    },
+    "af0791ff0d3912833d99754a@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-26T16:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "af0791ff0d3912833d99754a@unirsr-calendar"
+    },
+    "afcdc2dfc6e29c553a9109a8@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2027-01-08T16:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "afcdc2dfc6e29c553a9109a8@unirsr-calendar"
+    },
+    "afdf48efc0c46afdf4afd36d@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T11:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-12T09:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "afdf48efc0c46afdf4afd36d@unirsr-calendar"
+    },
+    "b2b0b2bc847a9dff344f83dc@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-29T16:00",
+      "subject": "Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA)",
+      "uid": "b2b0b2bc847a9dff344f83dc@unirsr-calendar"
+    },
+    "b3e866b487041c6a0229ecb8@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2027-01-08T14:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "b3e866b487041c6a0229ecb8@unirsr-calendar"
+    },
+    "b457c64220ddf220478d1724@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T13:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-28T11:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "b457c64220ddf220478d1724@unirsr-calendar"
+    },
+    "b51f0030f166c1a149be809b@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-11T14:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "b51f0030f166c1a149be809b@unirsr-calendar"
+    },
+    "b835dadc3058a6118a5fc5d3@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-01T14:00",
+      "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
+      "uid": "b835dadc3058a6118a5fc5d3@unirsr-calendar"
+    },
+    "baada4514622821c61b681d4@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T13:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-01T11:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "baada4514622821c61b681d4@unirsr-calendar"
+    },
+    "bb1a0d3ef919b6f4909ab0e6@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-04T14:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "bb1a0d3ef919b6f4909ab0e6@unirsr-calendar"
+    },
+    "c26eee2c13564c5648029f63@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T13:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-10T11:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "c26eee2c13564c5648029f63@unirsr-calendar"
+    },
+    "c3270feb3909f85671eb672b@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-28T16:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "c3270feb3909f85671eb672b@unirsr-calendar"
+    },
+    "c5c8a57ea9fce5ef1bb1338c@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T13:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-25T11:00",
+      "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
+      "uid": "c5c8a57ea9fce5ef1bb1338c@unirsr-calendar"
+    },
+    "cb5e65e0ed26d3d373a58fb3@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-28T14:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "cb5e65e0ed26d3d373a58fb3@unirsr-calendar"
+    },
+    "d181dcb8071ea93389e00ec9@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-06T16:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "d181dcb8071ea93389e00ec9@unirsr-calendar"
+    },
+    "d26ab64c3df15c173949959a@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-02T14:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "d26ab64c3df15c173949959a@unirsr-calendar"
+    },
+    "d5f8a66e7986eac93f76218a@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T13:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-03T11:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "d5f8a66e7986eac93f76218a@unirsr-calendar"
+    },
+    "deec009dd893152865ffba38@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2027-01-07T16:00",
+      "subject": "Lezione: Intelligenza artificiale e nuove forme di comunicazione: dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)",
+      "uid": "deec009dd893152865ffba38@unirsr-calendar"
+    },
+    "df454a361b1287838e8539e3@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T11:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-05T09:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "df454a361b1287838e8539e3@unirsr-calendar"
+    },
+    "dfe33f410273118ac110dd53@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T13:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-02T11:00",
+      "subject": "Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (docente: BURGONI SABRINA)",
+      "uid": "dfe33f410273118ac110dd53@unirsr-calendar"
+    },
+    "e0723c7e4b2c06fc810bed70@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T13:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-12T11:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "e0723c7e4b2c06fc810bed70@unirsr-calendar"
+    },
+    "e4e239649a66ddc61d28e99b@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-11T16:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "e4e239649a66ddc61d28e99b@unirsr-calendar"
+    },
+    "e4f0ea48e56371b879cc4710@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T18:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-12-04T16:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "e4f0ea48e56371b879cc4710@unirsr-calendar"
+    },
+    "e98925a1730409010dd4e150@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-18T16:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "e98925a1730409010dd4e150@unirsr-calendar"
+    },
+    "ebbad3db9156717da51a39ee@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-18T14:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "ebbad3db9156717da51a39ee@unirsr-calendar"
+    },
+    "ed56f305ef842d5589c63d1e@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T16:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-30T14:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "ed56f305ef842d5589c63d1e@unirsr-calendar"
+    },
+    "f14cc1da77470b5bdced1b5b@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-25T14:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "f14cc1da77470b5bdced1b5b@unirsr-calendar"
+    },
+    "f412201e5263e05f722c5240@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T11:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "09:00-11:00 | Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-23T09:00",
+      "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
+      "uid": "f412201e5263e05f722c5240@unirsr-calendar"
+    },
+    "f81ba7308989d4fe3248ee1d@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T13:00",
+      "location": "DONATELLO Aula DO102 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-10-27T11:00",
+      "subject": "Lezione: Teorie e tecniche dei test di personalità (docente: BORRONI SERENA)",
+      "uid": "f81ba7308989d4fe3248ee1d@unirsr-calendar"
+    },
+    "fe6d9412c981fd97f3d518fe@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-11T14:00",
+      "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
+      "uid": "fe6d9412c981fd97f3d518fe@unirsr-calendar"
+    }
+  }
+}

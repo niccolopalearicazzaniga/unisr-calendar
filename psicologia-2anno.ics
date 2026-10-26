@@ -1,0 +1,1317 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//twentysecondproject//UniSR Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UniSR Calendar
+X-WR-CALDESC:UniSR timetable for calendars created by Filippo Genoni
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:suspension-20261207-20261209@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261209
+SUMMARY:Sospensione didattica/Public Holiday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:suspension-20261223-20270107@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20270107
+SUMMARY:Sospensione didattica/Public Holiday
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:09fc774909b95c5c2a2b499e@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261026T090000
+DTEND;TZID=Europe/Rome:20261026T110000
+SUMMARY:Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (d
+ ocente: BURGONI SABRINA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=BURGONI SABRINA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68be96a9c3d92002af61e45f@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261026T110000
+DTEND;TZID=Europe/Rome:20261026T130000
+SUMMARY:Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (d
+ ocente: BURGONI SABRINA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=BURGONI SABRINA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:444ef6f5fe9feaab31d47f95@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261027T090000
+DTEND;TZID=Europe/Rome:20261027T110000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f81ba7308989d4fe3248ee1d@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261027T110000
+DTEND;TZID=Europe/Rome:20261027T130000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:055a081ec37277b781617a4c@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261027T140000
+DTEND;TZID=Europe/Rome:20261027T160000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:283c76f6a01d75bc290c4d1f@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261027T160000
+DTEND;TZID=Europe/Rome:20261027T180000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:67b35243e5958c664cb3c1b2@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261028T090000
+DTEND;TZID=Europe/Rome:20261028T110000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b457c64220ddf220478d1724@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261028T110000
+DTEND;TZID=Europe/Rome:20261028T130000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5e65e0ed26d3d373a58fb3@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261028T140000
+DTEND;TZID=Europe/Rome:20261028T160000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c3270feb3909f85671eb672b@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261028T160000
+DTEND;TZID=Europe/Rome:20261028T180000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5afac5567a3b8fe903249479@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261029T090000
+DTEND;TZID=Europe/Rome:20261029T110000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:143a2596f5918e4e74599b62@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261029T110000
+DTEND;TZID=Europe/Rome:20261029T130000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8195b0a0e0e744ad8213f3ff@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261029T140000
+DTEND;TZID=Europe/Rome:20261029T160000
+SUMMARY:Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (d
+ ocente: BURGONI SABRINA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BURGONI SABRINA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b0b2bc847a9dff344f83dc@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261029T160000
+DTEND;TZID=Europe/Rome:20261029T180000
+SUMMARY:Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (d
+ ocente: BURGONI SABRINA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BURGONI SABRINA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ed56f305ef842d5589c63d1e@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261030T140000
+DTEND;TZID=Europe/Rome:20261030T160000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9badb656e71c430aa1cacb94@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261030T160000
+DTEND;TZID=Europe/Rome:20261030T180000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5990d948a95f0d6a06fd8873@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261102T090000
+DTEND;TZID=Europe/Rome:20261102T110000
+SUMMARY:Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (d
+ ocente: BURGONI SABRINA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=BURGONI SABRINA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe33f410273118ac110dd53@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261102T110000
+DTEND;TZID=Europe/Rome:20261102T130000
+SUMMARY:Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (d
+ ocente: BURGONI SABRINA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=BURGONI SABRINA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a707c55ae25c9ecd0ebf9e05@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261103T090000
+DTEND;TZID=Europe/Rome:20261103T110000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f4e8e3ee2ca803ec03b8353@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261103T110000
+DTEND;TZID=Europe/Rome:20261103T130000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5e515dfe4b39580b5d4576c1@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261103T140000
+DTEND;TZID=Europe/Rome:20261103T160000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7c59b08c09fef91a5d286ec5@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261103T160000
+DTEND;TZID=Europe/Rome:20261103T180000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:92e3b6305e3c3e93a6a5a66e@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261104T090000
+DTEND;TZID=Europe/Rome:20261104T110000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2dda9b6918844e0635712587@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261104T110000
+DTEND;TZID=Europe/Rome:20261104T130000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1a0d3ef919b6f4909ab0e6@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261104T140000
+DTEND;TZID=Europe/Rome:20261104T160000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a86d8df3c944d54b53a6018b@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261104T160000
+DTEND;TZID=Europe/Rome:20261104T180000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:df454a361b1287838e8539e3@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261105T090000
+DTEND;TZID=Europe/Rome:20261105T110000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7f1aab918ec74e13b8068a8e@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261105T110000
+DTEND;TZID=Europe/Rome:20261105T130000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1cd6c30e6dfb0b2e1a91740a@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261106T140000
+DTEND;TZID=Europe/Rome:20261106T160000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d181dcb8071ea93389e00ec9@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261106T160000
+DTEND;TZID=Europe/Rome:20261106T180000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:568367224356005a5a263e43@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261109T090000
+DTEND;TZID=Europe/Rome:20261109T110000
+SUMMARY:Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (d
+ ocente: BURGONI SABRINA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=BURGONI SABRINA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac9efc05c38927508596627@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261109T110000
+DTEND;TZID=Europe/Rome:20261109T130000
+SUMMARY:Lezione: Psicologia Sociale delle Organizzazioni e dei Servizi (d
+ ocente: BURGONI SABRINA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=BURGONI SABRINA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:942c0fa1ba33b5647c4bfd4f@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261110T090000
+DTEND;TZID=Europe/Rome:20261110T110000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c26eee2c13564c5648029f63@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261110T110000
+DTEND;TZID=Europe/Rome:20261110T130000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:65df2f4b0169f560b3b29cb3@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261110T140000
+DTEND;TZID=Europe/Rome:20261110T160000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9f8fc09234c778178be6e254@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261110T160000
+DTEND;TZID=Europe/Rome:20261110T180000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4b74fb9571a7e792665c8e4c@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261111T090000
+DTEND;TZID=Europe/Rome:20261111T110000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:96d5c5e66e645c5638cbb70b@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261111T110000
+DTEND;TZID=Europe/Rome:20261111T130000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fe6d9412c981fd97f3d518fe@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261111T140000
+DTEND;TZID=Europe/Rome:20261111T160000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e239649a66ddc61d28e99b@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261111T160000
+DTEND;TZID=Europe/Rome:20261111T180000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:afdf48efc0c46afdf4afd36d@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261112T090000
+DTEND;TZID=Europe/Rome:20261112T110000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e0723c7e4b2c06fc810bed70@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261112T110000
+DTEND;TZID=Europe/Rome:20261112T130000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:745fc18efec497ac21c29fe8@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261113T140000
+DTEND;TZID=Europe/Rome:20261113T160000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:872e3b8e9ab0c26b9f85f4c6@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261113T160000
+DTEND;TZID=Europe/Rome:20261113T180000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:92a22611a0bdbc3aa069afb3@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261117T090000
+DTEND;TZID=Europe/Rome:20261117T110000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4af7ea1dbf76849ca8cca840@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261117T110000
+DTEND;TZID=Europe/Rome:20261117T130000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e2797ec441d78321a58a42@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261117T140000
+DTEND;TZID=Europe/Rome:20261117T160000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO103 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:97b3e34ff13901367c433e2d@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261117T160000
+DTEND;TZID=Europe/Rome:20261117T180000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO103 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a6e5437216445286962c2e97@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261118T090000
+DTEND;TZID=Europe/Rome:20261118T110000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:52e0fdf2f10e30fe60616077@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261118T110000
+DTEND;TZID=Europe/Rome:20261118T130000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ebbad3db9156717da51a39ee@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261118T140000
+DTEND;TZID=Europe/Rome:20261118T160000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e98925a1730409010dd4e150@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261118T160000
+DTEND;TZID=Europe/Rome:20261118T180000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:909224d4f73251871d397706@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261119T090000
+DTEND;TZID=Europe/Rome:20261119T110000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f51b24928d1f91637a07b2a@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261119T110000
+DTEND;TZID=Europe/Rome:20261119T130000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1614642113ac6240e50fa65d@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261120T140000
+DTEND;TZID=Europe/Rome:20261120T160000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:96cf0d8af5d7022e16bc4706@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261120T160000
+DTEND;TZID=Europe/Rome:20261120T180000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f412201e5263e05f722c5240@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261123T090000
+DTEND;TZID=Europe/Rome:20261123T110000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:82692e853b142c59eec67629@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261123T110000
+DTEND;TZID=Europe/Rome:20261123T130000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0b31611fe5208deecf2a9f69@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261125T090000
+DTEND;TZID=Europe/Rome:20261125T110000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c5c8a57ea9fce5ef1bb1338c@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261125T110000
+DTEND;TZID=Europe/Rome:20261125T130000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f14cc1da77470b5bdced1b5b@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261125T140000
+DTEND;TZID=Europe/Rome:20261125T160000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:72f89f3ebd14e82b9264deac@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261125T160000
+DTEND;TZID=Europe/Rome:20261125T180000
+SUMMARY:Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=PAOLINI MARCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:83723e3c9f48754b46ce6648@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261126T140000
+DTEND;TZID=Europe/Rome:20261126T160000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:af0791ff0d3912833d99754a@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261126T160000
+DTEND;TZID=Europe/Rome:20261126T180000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e226a06a7ea9b52c4b77171@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261127T090000
+DTEND;TZID=Europe/Rome:20261127T110000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:986a4a6fe134b93ba4c714f9@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261127T110000
+DTEND;TZID=Europe/Rome:20261127T130000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7fc6433c6a71de7c253d582e@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261127T140000
+DTEND;TZID=Europe/Rome:20261127T160000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:45e5d03b8a31f8e777327e12@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261127T160000
+DTEND;TZID=Europe/Rome:20261127T180000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:68099f5e954d6db1d7b0cace@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261201T090000
+DTEND;TZID=Europe/Rome:20261201T110000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:baada4514622821c61b681d4@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261201T110000
+DTEND;TZID=Europe/Rome:20261201T130000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b835dadc3058a6118a5fc5d3@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261201T140000
+DTEND;TZID=Europe/Rome:20261201T160000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6fefd532cb6346ef237bcf9c@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261201T160000
+DTEND;TZID=Europe/Rome:20261201T180000
+SUMMARY:Lezione: Psicologia sociale e metodologia della ricerca psicosoci
+ ale (docente: SCIARA SIMONA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=SCIARA SIMONA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:436f0770a93b1c02081875b5@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261202T090000
+DTEND;TZID=Europe/Rome:20261202T110000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:11d9e5259a9700cdb1c030ee@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261202T110000
+DTEND;TZID=Europe/Rome:20261202T130000
+SUMMARY:Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENED
+ ETTI FRANCESCO)
+LOCATION:DONATELLO Aula DO104 (1 piano)
+ORGANIZER;CN=BENEDETTI FRANCESCO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d26ab64c3df15c173949959a@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261202T140000
+DTEND;TZID=Europe/Rome:20261202T160000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:77133ac5121eeaf734d5bc2d@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261202T160000
+DTEND;TZID=Europe/Rome:20261202T180000
+SUMMARY:Lezione: Differenze individuali nello sviluppo (docente: OGLIARI 
+ ANNA LUCIA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=OGLIARI ANNA LUCIA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:042cee85d405f364f4f06bac@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261203T090000
+DTEND;TZID=Europe/Rome:20261203T110000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f8a66e7986eac93f76218a@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261203T110000
+DTEND;TZID=Europe/Rome:20261203T130000
+SUMMARY:Lezione: Teorie e tecniche dei test di personalità (docente: BORR
+ ONI SERENA)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=BORRONI SERENA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:17eb7a8ad1650097d9fc3f34@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261204T140000
+DTEND;TZID=Europe/Rome:20261204T160000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f0ea48e56371b879cc4710@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261204T160000
+DTEND;TZID=Europe/Rome:20261204T180000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b51f0030f166c1a149be809b@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261211T140000
+DTEND;TZID=Europe/Rome:20261211T160000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:80bd7a7f5e8ff2fe8b5c0956@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261211T160000
+DTEND;TZID=Europe/Rome:20261211T180000
+SUMMARY:Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)
+LOCATION:DONATELLO Aula DO102 (1 piano)
+ORGANIZER;CN=ABUTALEBI JUBIN:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1ec3050072ddbfd3f8746e@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261214T140000
+DTEND;TZID=Europe/Rome:20261214T160000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1f0de89c819ccf8ec82a92c5@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261214T160000
+DTEND;TZID=Europe/Rome:20261214T180000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5c18bfa1a27140d93fea6d2f@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261221T140000
+DTEND;TZID=Europe/Rome:20261221T160000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:83595f08fbd135d60c5f14bf@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261221T160000
+DTEND;TZID=Europe/Rome:20261221T180000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:62241ac06c516ce940cb55c1@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261222T140000
+DTEND;TZID=Europe/Rome:20261222T160000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0420228e4686209e329a6840@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20261222T160000
+DTEND;TZID=Europe/Rome:20261222T180000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a7c397241f8e79bdb6fd361d@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20270107T140000
+DTEND;TZID=Europe/Rome:20270107T160000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:deec009dd893152865ffba38@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20270107T160000
+DTEND;TZID=Europe/Rome:20270107T180000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e866b487041c6a0229ecb8@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20270108T140000
+DTEND;TZID=Europe/Rome:20270108T160000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:afcdc2dfc6e29c553a9109a8@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20270108T160000
+DTEND;TZID=Europe/Rome:20270108T180000
+SUMMARY:Lezione: Intelligenza artificiale e nuove forme di comunicazione:
+  dalla cultura digitale a ChatGPT. (docente: NIZZOLI ANTONIO)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=NIZZOLI ANTONIO:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2810e6bccf9bc483f0e4df18@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20270113T090000
+DTEND;TZID=Europe/Rome:20270113T110000
+SUMMARY:Lezione: Gender studies: filosofia e metodologia (docente: DI MAT
+ TEI VALENTINA ELISABETTA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=DI MATTEI VALENTINA ELISABETTA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8003cf243999c069ab315cd6@unirsr-calendar
+DTSTAMP:20261026T204723Z
+DTSTART;TZID=Europe/Rome:20270113T110000
+DTEND;TZID=Europe/Rome:20270113T130000
+SUMMARY:Lezione: Gender studies: filosofia e metodologia (docente: DI MAT
+ TEI VALENTINA ELISABETTA)
+LOCATION:DONATELLO Aula DO101 (1 piano)
+ORGANIZER;CN=DI MATTEI VALENTINA ELISABETTA:urn:unirsr:organizer
+URL:https://twentysecondproject.github.io/unisr-calendar/
+DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/
+ any issues? Scrivimi/Please contact me on Instagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
