@@ -117,6 +117,25 @@ OUTPUTS = {
         "line": "VIOLA",
         "filename": "italiano-sezione3-viola-2anno.ics",
     },
+
+    "psicologia-year1": {
+        "course_id": "10313",
+        "course_year": "1",
+        "line": None,
+        "filename": "psicologia-1anno.ics",
+    },
+    "psicologia-year2": {
+        "course_id": "10313",
+        "course_year": "2",
+        "line": None,
+        "filename": "psicologia-2anno.ics",
+    },
+    "psicologia-year3": {
+        "course_id": "10313",
+        "course_year": "3",
+        "line": None,
+        "filename": "psicologia-3anno.ics",
+    },
 }
 
 STATE_DIR = Path("states")
@@ -159,9 +178,9 @@ def extract_rows(html: str, day: date):
             row_text = clean_text(tr.get_text(" ", strip=True))
 
             location_match = re.search(
-                r"([A-ZÀ-ÖØ-Ý0-9 .'-]+?)\s*-\s*Aula\s+"
-                r"([A-ZÀ-ÖØ-Ý0-9][A-ZÀ-ÖØ-Ý0-9./'-]*"
-                r"(?:\s+[A-ZÀ-ÖØ-Ý0-9][A-ZÀ-ÖØ-Ý0-9./'-]*)*)"
+                r"([A-ZÃ-ÃÃ-Ã0-9 .'-]+?)\s*-\s*Aula\s+"
+                r"([A-ZÃ-ÃÃ-Ã0-9][A-ZÃ-ÃÃ-Ã0-9./'-]*"
+                r"(?:\s+[A-ZÃ-ÃÃ-Ã0-9][A-ZÃ-ÃÃ-Ã0-9./'-]*)*)"
                 r"(?:\s*\(([^)]*)\))?",
                 row_text,
                 flags=re.IGNORECASE,
@@ -191,7 +210,7 @@ def extract_rows(html: str, day: date):
                 continue
 
             time_match = re.search(
-                r"(\d{1,2}:\d{2})\s*[-–—]\s*(\d{1,2}:\d{2})",
+                r"(\d{1,2}:\d{2})\s*[-ââ]\s*(\d{1,2}:\d{2})",
                 combined,
             )
 
@@ -313,7 +332,7 @@ def parse_day(html: str, day: date):
 
 def extract_line(subject):
     match = re.search(
-        r"\(LINEA\s+([A-ZÀ-ÖØ-Ý]+)\)",
+        r"\(LINEA\s+([A-ZÃ-ÃÃ-Ã]+)\)",
         subject,
         flags=re.IGNORECASE,
     )
