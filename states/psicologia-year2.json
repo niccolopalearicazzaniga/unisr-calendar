@@ -180,6 +180,15 @@
       "subject": "Lezione: Psicopatologia e semeiotica psichiatrica (docente: BENEDETTI FRANCESCO)",
       "uid": "4b74fb9571a7e792665c8e4c@unirsr-calendar"
     },
+    "4f119ee45744bd21dcab8d7f@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T16:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-12T14:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "4f119ee45744bd21dcab8d7f@unirsr-calendar"
+    },
     "4f4e8e3ee2ca803ec03b8353@unirsr-calendar": {
       "date": "2026-11-03",
       "end": "2026-11-03T13:00",
@@ -197,6 +206,15 @@
       "start": "2026-11-19T11:00",
       "subject": "Lezione: Differenze individuali nello sviluppo (docente: OGLIARI ANNA LUCIA)",
       "uid": "4f51b24928d1f91637a07b2a@unirsr-calendar"
+    },
+    "509c0d26f58029f4f6b28bc5@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T18:00",
+      "location": "DONATELLO Aula DO101 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
+      "start": "2026-11-12T16:00",
+      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
+      "uid": "509c0d26f58029f4f6b28bc5@unirsr-calendar"
     },
     "52e0fdf2f10e30fe60616077@unirsr-calendar": {
       "date": "2026-11-18",
@@ -513,15 +531,6 @@
       "subject": "Lezione: Psicologia sociale e metodologia della ricerca psicosociale (docente: SCIARA SIMONA)",
       "uid": "986a4a6fe134b93ba4c714f9@unirsr-calendar"
     },
-    "9badb656e71c430aa1cacb94@unirsr-calendar": {
-      "date": "2026-10-30",
-      "end": "2026-10-30T18:00",
-      "location": "DONATELLO Aula DO102 (1 piano)",
-      "raw": "16:00-18:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
-      "start": "2026-10-30T16:00",
-      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
-      "uid": "9badb656e71c430aa1cacb94@unirsr-calendar"
-    },
     "9f8fc09234c778178be6e254@unirsr-calendar": {
       "date": "2026-11-10",
       "end": "2026-11-10T18:00",
@@ -800,15 +809,6 @@
       "start": "2026-11-18T14:00",
       "subject": "Lezione: Psicopatologia descrittiva (docente: PAOLINI MARCO)",
       "uid": "ebbad3db9156717da51a39ee@unirsr-calendar"
-    },
-    "ed56f305ef842d5589c63d1e@unirsr-calendar": {
-      "date": "2026-10-30",
-      "end": "2026-10-30T16:00",
-      "location": "DONATELLO Aula DO102 (1 piano)",
-      "raw": "14:00-16:00 | Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN) | Corso di Laurea in Scienze e Tecniche Psicologiche | 2",
-      "start": "2026-10-30T14:00",
-      "subject": "Lezione: Neuropsicologia cognitiva (docente: ABUTALEBI JUBIN)",
-      "uid": "ed56f305ef842d5589c63d1e@unirsr-calendar"
     },
     "f14cc1da77470b5bdced1b5b@unirsr-calendar": {
       "date": "2026-11-25",
