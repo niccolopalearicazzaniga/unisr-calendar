@@ -567,15 +567,6 @@
       "subject": "Lezione: Fisiologia (LINEA VIOLA) (docente: TAVERNA STEFANO)",
       "uid": "62ac9315179bc0dbba4fe306@unirsr-calendar"
     },
-    "62e637b3332ed69afecc622f@unirsr-calendar": {
-      "date": "2026-11-04",
-      "end": "2026-11-04T10:30",
-      "location": "VASARI Aula VA201 (2 piano)",
-      "raw": "08:30-10:30 | Lezione: Istologia (LINEA VIOLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
-      "start": "2026-11-04T08:30",
-      "subject": "Lezione: Istologia (LINEA VIOLA) (docente: OSTUNI RENATO)",
-      "uid": "62e637b3332ed69afecc622f@unirsr-calendar"
-    },
     "6a3e7bb41bf5462ad03c321e@unirsr-calendar": {
       "date": "2026-10-08",
       "end": "2026-10-08T17:30",
@@ -953,6 +944,15 @@
       "start": "2026-09-30T13:30",
       "subject": "Lezione: Semeiotica (LINEA VIOLA) (docente: GALLO GAETANO)",
       "uid": "a581bf2e16abd899e2937d2f@unirsr-calendar"
+    },
+    "a5b788f0c6aa4f4346d1ce88@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T15:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA VIOLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
+      "start": "2026-11-27T13:30",
+      "subject": "Lezione: Istologia (LINEA VIOLA) (docente: OSTUNI RENATO)",
+      "uid": "a5b788f0c6aa4f4346d1ce88@unirsr-calendar"
     },
     "a7c7431efc792c9a5996e09d@unirsr-calendar": {
       "date": "2026-09-24",

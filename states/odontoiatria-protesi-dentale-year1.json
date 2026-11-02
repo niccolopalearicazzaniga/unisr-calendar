@@ -344,10 +344,10 @@
     },
     "30e82534045c08c5e3ef0cc8@unirsr-calendar": {
       "date": "2026-11-02",
-      "end": "2026-11-02T11:30",
+      "end": "2026-11-02T13:30",
       "location": "DIBIT1 Aula AVICENNA (piano terra)",
-      "raw": "09:30-11:30 | Lezione: Fisica (docente: MAZZA DAVIDE) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
-      "start": "2026-11-02T09:30",
+      "raw": "11:30-13:30 | Lezione: Fisica (docente: MAZZA DAVIDE) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-11-02T11:30",
       "subject": "Lezione: Fisica (docente: MAZZA DAVIDE)",
       "uid": "30e82534045c08c5e3ef0cc8@unirsr-calendar"
     },

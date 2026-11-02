@@ -975,7 +975,7 @@
     "90174793b1c92463abdc6364@unirsr-calendar": {
       "date": "2026-11-10",
       "end": "2026-11-10T12:30",
-      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "location": "CANOVA Aula CA102 (1 piano)",
       "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-11-10T10:30",
       "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA)",
@@ -998,6 +998,15 @@
       "start": "2026-12-02T10:30",
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
       "uid": "95cd9c0b01be949adbed952a@unirsr-calendar"
+    },
+    "978af10a63619e06bd13e97b@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T12:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-27T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
+      "uid": "978af10a63619e06bd13e97b@unirsr-calendar"
     },
     "98be073cbaf949dfba51ac2c@unirsr-calendar": {
       "date": "2026-11-25",

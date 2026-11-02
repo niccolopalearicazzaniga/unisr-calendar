@@ -387,6 +387,15 @@
       "subject": "Lezione: Semeiotica (LINEA ROSSA) (docente: DE LUCA GIACOMO)",
       "uid": "4b8ba3af275f4f5a514e9bca@unirsr-calendar"
     },
+    "4c26ff0f72081959e973e49f@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T15:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA ROSSA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
+      "start": "2026-11-27T13:30",
+      "subject": "Lezione: Istologia (LINEA ROSSA) (docente: OSTUNI RENATO)",
+      "uid": "4c26ff0f72081959e973e49f@unirsr-calendar"
+    },
     "4cd336c2507dc6b539f0a43f@unirsr-calendar": {
       "date": "2026-12-02",
       "end": "2026-12-02T12:30",
@@ -746,15 +755,6 @@
       "start": "2026-10-19T13:30",
       "subject": "Lezione: Fisiologia (LINEA ROSSA) (docente: BETTEGAZZI BARBARA)",
       "uid": "815e9e53fa551411fba15f1a@unirsr-calendar"
-    },
-    "83bc3d414e7abae74ecadb25@unirsr-calendar": {
-      "date": "2026-11-04",
-      "end": "2026-11-04T10:30",
-      "location": "VASARI Aula VA201 (2 piano)",
-      "raw": "08:30-10:30 | Lezione: Istologia (LINEA ROSSA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
-      "start": "2026-11-04T08:30",
-      "subject": "Lezione: Istologia (LINEA ROSSA) (docente: OSTUNI RENATO)",
-      "uid": "83bc3d414e7abae74ecadb25@unirsr-calendar"
     },
     "88799481ef24436d5d37d600@unirsr-calendar": {
       "date": "2026-11-16",
