@@ -711,6 +711,15 @@
       "subject": "Lezione: Semeiotica (LINEA VIOLA) (docente: DE LUCA GIACOMO)",
       "uid": "7cb86e3536509414e405ea80@unirsr-calendar"
     },
+    "7cdd8a9c64b9d92195427716@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T17:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA VIOLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
+      "start": "2026-11-12T15:30",
+      "subject": "Lezione: Fisiologia (LINEA VIOLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "7cdd8a9c64b9d92195427716@unirsr-calendar"
+    },
     "7cf2e7bd24fcfa746317a0f9@unirsr-calendar": {
       "date": "2026-12-01",
       "end": "2026-12-01T12:30",
@@ -1340,15 +1349,6 @@
       "start": "2026-10-12T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA VIOLA) (docente: MASSELLI ELENA)",
       "uid": "e4cc6618954562a41fdbd0ea@unirsr-calendar"
-    },
-    "e97cbea8fe1b82fcb57aeede@unirsr-calendar": {
-      "date": "2026-11-06",
-      "end": "2026-11-06T12:30",
-      "location": "VASARI Aula VA201 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA VIOLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
-      "start": "2026-11-06T10:30",
-      "subject": "Lezione: Fisiologia (LINEA VIOLA) (docente: BETTEGAZZI BARBARA)",
-      "uid": "e97cbea8fe1b82fcb57aeede@unirsr-calendar"
     },
     "e9fe000cbca574b7881ab8df@unirsr-calendar": {
       "date": "2026-10-29",

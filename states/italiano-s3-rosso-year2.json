@@ -54,15 +54,6 @@
       "subject": "Lezione: Semeiotica (LINEA ROSSA) (docente: GALLO GAETANO)",
       "uid": "0aa7af625a5b32cf593b1d15@unirsr-calendar"
     },
-    "0ae4436f63dfb49870798b28@unirsr-calendar": {
-      "date": "2026-11-06",
-      "end": "2026-11-06T12:30",
-      "location": "VASARI Aula VA201 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA ROSSA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
-      "start": "2026-11-06T10:30",
-      "subject": "Lezione: Fisiologia (LINEA ROSSA) (docente: BETTEGAZZI BARBARA)",
-      "uid": "0ae4436f63dfb49870798b28@unirsr-calendar"
-    },
     "0e1da2c9416a5b28c89e3ad0@unirsr-calendar": {
       "date": "2026-10-06",
       "end": "2026-10-06T12:30",
@@ -926,6 +917,15 @@
       "start": "2026-12-18T08:30",
       "subject": "Lezione: Istologia (LINEA ROSSA) (docente: NALDINI LUIGI)",
       "uid": "a4f7ae6ddf3be9c920970a5a@unirsr-calendar"
+    },
+    "a5271b5a1ed2451c331d0e04@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T17:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA ROSSA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
+      "start": "2026-11-12T15:30",
+      "subject": "Lezione: Fisiologia (LINEA ROSSA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "a5271b5a1ed2451c331d0e04@unirsr-calendar"
     },
     "a68166eb8e750e2e06f466a9@unirsr-calendar": {
       "date": "2026-12-03",

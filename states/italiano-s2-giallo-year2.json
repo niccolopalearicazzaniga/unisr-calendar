@@ -911,10 +911,10 @@
     },
     "af6e3ba4d07943c9ca6ccdc3@unirsr-calendar": {
       "date": "2026-11-09",
-      "end": "2026-11-09T10:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-11-09T08:30",
+      "end": "2026-11-09T12:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-09T10:30",
       "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
       "uid": "af6e3ba4d07943c9ca6ccdc3@unirsr-calendar"
     },

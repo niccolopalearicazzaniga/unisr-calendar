@@ -180,6 +180,15 @@
       "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
       "uid": "22985efbc6c7a86c3d1574be@unirsr-calendar"
     },
+    "23ffb45bc6a4c40e1a5657ce@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-17T14:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "23ffb45bc6a4c40e1a5657ce@unirsr-calendar"
+    },
     "2a5d39ae56beb36cfc6d654b@unirsr-calendar": {
       "date": "2026-10-14",
       "end": "2026-10-14T16:30",
@@ -686,10 +695,10 @@
     },
     "85a07ba06f3bc052bae84af4@unirsr-calendar": {
       "date": "2026-11-27",
-      "end": "2026-11-27T16:30",
+      "end": "2026-11-27T17:30",
       "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-27T14:30",
+      "raw": "15:30-17:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-27T15:30",
       "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
       "uid": "85a07ba06f3bc052bae84af4@unirsr-calendar"
     },
@@ -1223,15 +1232,6 @@
       "start": "2026-10-16T14:30",
       "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO CLELIA)",
       "uid": "f287265b898635ce645674fa@unirsr-calendar"
-    },
-    "f4de58b555a414811c6c1a0c@unirsr-calendar": {
-      "date": "2026-11-10",
-      "end": "2026-11-10T11:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-10T09:30",
-      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
-      "uid": "f4de58b555a414811c6c1a0c@unirsr-calendar"
     },
     "f7352813b2ecac2e62484704@unirsr-calendar": {
       "date": "2026-11-03",

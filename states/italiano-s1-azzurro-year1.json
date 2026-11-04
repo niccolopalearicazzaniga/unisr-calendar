@@ -398,10 +398,10 @@
     },
     "5916118b032be05635163fb6@unirsr-calendar": {
       "date": "2026-11-27",
-      "end": "2026-11-27T16:30",
+      "end": "2026-11-27T17:30",
       "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-27T14:30",
+      "raw": "15:30-17:30 | Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-27T15:30",
       "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA)",
       "uid": "5916118b032be05635163fb6@unirsr-calendar"
     },
@@ -584,6 +584,15 @@
       "start": "2026-10-07T14:30",
       "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA AZZURRA) (docente: TEI LAURA)",
       "uid": "8793e5f05993ff64e87713e0@unirsr-calendar"
+    },
+    "89f96730c4f5d568c02029b3@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-17T14:30",
+      "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "89f96730c4f5d568c02029b3@unirsr-calendar"
     },
     "8a09a88bebc47c2d5899fba1@unirsr-calendar": {
       "date": "2027-01-15",
@@ -1223,15 +1232,6 @@
       "start": "2026-11-17T09:30",
       "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA AZZURRA) (docente: SCARFO' LYDIA)",
       "uid": "f4d1741f3f8067c18b8ba07b@unirsr-calendar"
-    },
-    "f7156b55fded2d70e88bc734@unirsr-calendar": {
-      "date": "2026-11-10",
-      "end": "2026-11-10T11:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "09:30-11:30 | Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-10T09:30",
-      "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA)",
-      "uid": "f7156b55fded2d70e88bc734@unirsr-calendar"
     },
     "fa5b42f28ae0000660e50b39@unirsr-calendar": {
       "date": "2026-11-03",
