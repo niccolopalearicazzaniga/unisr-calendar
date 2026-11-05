@@ -200,10 +200,10 @@
     },
     "39c6ea92a9a4dc5106a06f4c@unirsr-calendar": {
       "date": "2026-11-18",
-      "end": "2026-11-18T11:00",
+      "end": "2026-11-18T13:00",
       "location": "DIBIT2 Aula ERACLITO (1 piano)",
-      "raw": "09:00-11:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
-      "start": "2026-11-18T09:00",
+      "raw": "11:00-13:00 | Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-18T11:00",
       "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
       "uid": "39c6ea92a9a4dc5106a06f4c@unirsr-calendar"
     },
@@ -422,6 +422,15 @@
       "start": "2026-12-16T09:00",
       "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: PICCOLI MARCO)",
       "uid": "657bbcadb8bad43330bb50b9@unirsr-calendar"
+    },
+    "66a1d070ca255c037e4b80c6@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-09T09:00",
+      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
+      "uid": "66a1d070ca255c037e4b80c6@unirsr-calendar"
     },
     "66aeb8c81c5038bbdbe013ff@unirsr-calendar": {
       "date": "2026-11-17",
@@ -1025,15 +1034,6 @@
       "start": "2026-11-05T14:00",
       "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: BANDIERA ELENA)",
       "uid": "d3ce596b6fa16d24bef7da29@unirsr-calendar"
-    },
-    "ddd820da3cab0fc7c333c03d@unirsr-calendar": {
-      "date": "2026-11-18",
-      "end": "2026-11-18T13:00",
-      "location": "DIBIT2 Aula ERACLITO (1 piano)",
-      "raw": "11:00-13:00 | Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA) | Corso di Laurea in Infermieristica | 1",
-      "start": "2026-11-18T11:00",
-      "subject": "Lezione: 3 - Fondamenti morfologici e funzionali della vita (docente: RIPAMONTI MADDALENA)",
-      "uid": "ddd820da3cab0fc7c333c03d@unirsr-calendar"
     },
     "e2a1d0977b92155306fc31c5@unirsr-calendar": {
       "date": "2026-12-10",
