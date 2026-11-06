@@ -216,6 +216,15 @@
       "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)",
       "uid": "1a180ab103041fe862a182a4@unirsr-calendar"
     },
+    "1ca81a69e2a877f7fe1ea4bb@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-17T14:30",
+      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "1ca81a69e2a877f7fe1ea4bb@unirsr-calendar"
+    },
     "1f9edbbc163137882eb25d8f@unirsr-calendar": {
       "date": "2026-12-21",
       "end": "2026-12-21T18:30",
@@ -639,15 +648,6 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente: ANASTASIA LUIGI)",
       "uid": "73c823d1f7e225fed97def9d@unirsr-calendar"
     },
-    "759b643209e17ae9c9a0bb54@unirsr-calendar": {
-      "date": "2026-11-13",
-      "end": "2026-11-13T16:30",
-      "location": "VERROCCHIO Aula VE101 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-11-13T14:30",
-      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
-      "uid": "759b643209e17ae9c9a0bb54@unirsr-calendar"
-    },
     "763f34bf03dc508ffac91dd8@unirsr-calendar": {
       "date": "2026-11-30",
       "end": "2026-11-30T13:30",
@@ -701,6 +701,15 @@
       "start": "2026-10-21T14:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente: CIRILLO FEDERICA)",
       "uid": "79bfe9e4599736bd2b2758b1@unirsr-calendar"
+    },
+    "7c0b030e9252a6c74e860bb1@unirsr-calendar": {
+      "date": "2027-01-19",
+      "end": "2027-01-19T18:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-19T16:30",
+      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "7c0b030e9252a6c74e860bb1@unirsr-calendar"
     },
     "7ce4d95bbcdde4b6a75b7370@unirsr-calendar": {
       "date": "2026-12-10",
@@ -828,15 +837,6 @@
       "subject": "Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)",
       "uid": "91f11cfef9d4c96910f862d8@unirsr-calendar"
     },
-    "9335e429bfe63f7e6a1cc0a4@unirsr-calendar": {
-      "date": "2026-11-26",
-      "end": "2026-11-26T18:30",
-      "location": "VERROCCHIO Aula VE101 (1 piano)",
-      "raw": "16:30-18:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-11-26T16:30",
-      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
-      "uid": "9335e429bfe63f7e6a1cc0a4@unirsr-calendar"
-    },
     "938338194b365369f2515fad@unirsr-calendar": {
       "date": "2026-11-13",
       "end": "2026-11-13T11:30",
@@ -939,7 +939,7 @@
     "b4d1ca72aece25fed8372304@unirsr-calendar": {
       "date": "2026-12-02",
       "end": "2026-12-02T16:30",
-      "location": "BORROMINI Aula BO402 (4 piano)",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
       "raw": "14:30-16:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
       "start": "2026-12-02T14:30",
       "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
@@ -1080,15 +1080,6 @@
       "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA VIOLA) (docente: TEI LAURA)",
       "uid": "cce2f5214ade868c8878d46b@unirsr-calendar"
     },
-    "ce41988eeed83003a451441d@unirsr-calendar": {
-      "date": "2026-11-13",
-      "end": "2026-11-13T18:30",
-      "location": "VERROCCHIO Aula VE101 (1 piano)",
-      "raw": "16:30-18:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-11-13T16:30",
-      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
-      "uid": "ce41988eeed83003a451441d@unirsr-calendar"
-    },
     "d17c4f4535a7948d05238523@unirsr-calendar": {
       "date": "2026-11-10",
       "end": "2026-11-10T11:30",
@@ -1106,6 +1097,15 @@
       "start": "2026-11-26T11:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente: CIRILLO FEDERICA)",
       "uid": "d5367b3a7ea069670cfe0e84@unirsr-calendar"
+    },
+    "d58a32b8d3671dd65619e381@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-17T16:30",
+      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "d58a32b8d3671dd65619e381@unirsr-calendar"
     },
     "d59e9be232cea01784d9e231@unirsr-calendar": {
       "date": "2026-11-09",
@@ -1133,15 +1133,6 @@
       "start": "2026-11-05T11:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente: CIRILLO FEDERICA)",
       "uid": "dbc6bf16fabe24310010abee@unirsr-calendar"
-    },
-    "dc251d7f248f26c97507b2b4@unirsr-calendar": {
-      "date": "2027-01-07",
-      "end": "2027-01-07T18:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "16:30-18:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2027-01-07T16:30",
-      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
-      "uid": "dc251d7f248f26c97507b2b4@unirsr-calendar"
     },
     "dc6fb1b4d0d8a76cb01237f1@unirsr-calendar": {
       "date": "2026-11-25",
@@ -1205,6 +1196,15 @@
       "start": "2026-12-10T16:30",
       "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
       "uid": "eacbddcf1d0a0dfc91433f39@unirsr-calendar"
+    },
+    "ecef4a0776bab9bedfa041ba@unirsr-calendar": {
+      "date": "2027-01-14",
+      "end": "2027-01-14T18:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-14T16:30",
+      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "ecef4a0776bab9bedfa041ba@unirsr-calendar"
     },
     "efad8ba9ae6ea53ae408786f@unirsr-calendar": {
       "date": "2026-11-18",
