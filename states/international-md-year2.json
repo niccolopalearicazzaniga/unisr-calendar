@@ -153,6 +153,15 @@
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "18947b6273893d2033d1f018@unirsr-calendar"
     },
+    "189f259de2c02d1231f1d147@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T10:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Human Histology (docente: ANGELA GRITTI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-11T08:30",
+      "subject": "Lezione: Human Histology (docente: ANGELA GRITTI)",
+      "uid": "189f259de2c02d1231f1d147@unirsr-calendar"
+    },
     "199f9f912b5a6c75cc8eeae0@unirsr-calendar": {
       "date": "2026-11-02",
       "end": "2026-11-02T17:30",
@@ -225,15 +234,6 @@
       "subject": "Lezione: Physiology (docente: BOLAMPERTI SIMONA)",
       "uid": "1e75fe325104af9d6c31f883@unirsr-calendar"
     },
-    "1ec756a8773304425d202c2e@unirsr-calendar": {
-      "date": "2026-11-30",
-      "end": "2026-11-30T15:30",
-      "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "13:30-15:30 | Lezione: Human Histology (docente: GRITTI ANGELA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-30T13:30",
-      "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
-      "uid": "1ec756a8773304425d202c2e@unirsr-calendar"
-    },
     "1fd9dc38400ae9b412ec1109@unirsr-calendar": {
       "date": "2026-10-14",
       "end": "2026-10-14T12:30",
@@ -305,15 +305,6 @@
       "start": "2027-01-12T10:30",
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "2fdc5ed613874a05ecfd6f76@unirsr-calendar"
-    },
-    "30d1b46447f991761d8f915c@unirsr-calendar": {
-      "date": "2026-12-02",
-      "end": "2026-12-02T10:30",
-      "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "08:30-10:30 | Lezione: Human Histology (docente: GRITTI ANGELA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-02T08:30",
-      "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
-      "uid": "30d1b46447f991761d8f915c@unirsr-calendar"
     },
     "3108b13dc20bccafc0219e21@unirsr-calendar": {
       "date": "2026-11-13",
@@ -783,15 +774,6 @@
       "subject": "Lezione: Basic medical maneuvers (docente: TOMAJER VALENTINA)",
       "uid": "67106ccc891f998f526c97bc@unirsr-calendar"
     },
-    "67e64434c8a5bad375901de7@unirsr-calendar": {
-      "date": "2026-11-11",
-      "end": "2026-11-11T10:30",
-      "location": "BORROMINI Aula BO301 (3 piano)",
-      "raw": "08:30-10:30 | Lezione: Human Histology (docente: COLTELLA NADIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-11T08:30",
-      "subject": "Lezione: Human Histology (docente: COLTELLA NADIA)",
-      "uid": "67e64434c8a5bad375901de7@unirsr-calendar"
-    },
     "6804c7fca0893a3fb65c5af7@unirsr-calendar": {
       "date": "2026-10-13",
       "end": "2026-10-13T12:30",
@@ -1061,6 +1043,15 @@
       "start": "2026-12-15T15:30",
       "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
       "uid": "8f7c6d5f6a6b188271eb8337@unirsr-calendar"
+    },
+    "907ca6d740433795d5f75ae5@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T10:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "08:30-10:30 | Lezione: Human Histology (docente: VASCO MENEGHINI/NADIA COLTELLA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-02T08:30",
+      "subject": "Lezione: Human Histology (docente: VASCO MENEGHINI/NADIA COLTELLA)",
+      "uid": "907ca6d740433795d5f75ae5@unirsr-calendar"
     },
     "932e5b10436b86a6ef2b4f05@unirsr-calendar": {
       "date": "2026-09-29",
@@ -1394,6 +1385,15 @@
       "start": "2026-12-10T10:30",
       "subject": "Lezione: Human Anatomy (docente: CASONI FILIPPO)",
       "uid": "b74f63557ee6d4d4d75d808f@unirsr-calendar"
+    },
+    "b82c2a7c4b8bda04667464b3@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T15:30",
+      "location": "BORROMINI Aula BO401 (4 piano)",
+      "raw": "13:30-15:30 | Lezione: Human Histology (docente: GRITTI ANGELA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-10T13:30",
+      "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
+      "uid": "b82c2a7c4b8bda04667464b3@unirsr-calendar"
     },
     "b8645eb4744214baa8616356@unirsr-calendar": {
       "date": "2026-11-26",
