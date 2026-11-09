@@ -288,15 +288,6 @@
       "subject": "Lezione: Genetica Medica (LINEA AZZURRA) (docente: RAMPOLDI LUCA)",
       "uid": "2d67231c1d0e76baba92da2f@unirsr-calendar"
     },
-    "2d9f17a655ba2eea153e2900@unirsr-calendar": {
-      "date": "2026-12-01",
-      "end": "2026-12-01T17:30",
-      "location": "VASARI Aula VA302 (3 piano)",
-      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-01T15:30",
-      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: TACCHETTI CARLO)",
-      "uid": "2d9f17a655ba2eea153e2900@unirsr-calendar"
-    },
     "2dd4e4a582f04729b661a7b4@unirsr-calendar": {
       "date": "2026-12-15",
       "end": "2026-12-15T15:30",
@@ -317,10 +308,10 @@
     },
     "2eb1d3f215961fc434782788@unirsr-calendar": {
       "date": "2026-11-12",
-      "end": "2026-11-12T17:30",
-      "location": "CANOVA Aula CA302 (3 piano)",
-      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-12T15:30",
+      "end": "2026-11-12T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-12T08:30",
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: FALLETTA PAOLA)",
       "uid": "2eb1d3f215961fc434782788@unirsr-calendar"
     },
@@ -1044,6 +1035,15 @@
       "subject": "Lezione: Fisiologia (LINEA AZZURRA) (docente: BETTEGAZZI BARBARA)",
       "uid": "a944608000d7d7968c0469b3@unirsr-calendar"
     },
+    "a95f01b8928cc4bb6c801894@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T10:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-09T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: TACCHETTI CARLO)",
+      "uid": "a95f01b8928cc4bb6c801894@unirsr-calendar"
+    },
     "a98d7ba2480c04e272e1efa2@unirsr-calendar": {
       "date": "2026-10-01",
       "end": "2026-10-01T15:30",
@@ -1434,7 +1434,7 @@
     "e2575c45aa78183655ea4eef@unirsr-calendar": {
       "date": "2026-11-12",
       "end": "2026-11-12T12:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
+      "location": "CANOVA Aula CA202 (2 piano)",
       "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA AZZURRA) (docente: DE LUCA GIACOMO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-11-12T10:30",
       "subject": "Lezione: Semeiotica (LINEA AZZURRA) (docente: DE LUCA GIACOMO)",

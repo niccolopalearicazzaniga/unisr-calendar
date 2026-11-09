@@ -162,6 +162,15 @@
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
       "uid": "1c51e6a5d43602de895bf92a@unirsr-calendar"
     },
+    "1ce87fe57a823689b1f1ab8c@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T10:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-09T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "1ce87fe57a823689b1f1ab8c@unirsr-calendar"
+    },
     "1d15358c15955dafe22a3481@unirsr-calendar": {
       "date": "2026-10-16",
       "end": "2026-10-16T10:30",
@@ -777,7 +786,7 @@
     "7c3d7d0cafd57d2fdd4ed3ae@unirsr-calendar": {
       "date": "2026-11-12",
       "end": "2026-11-12T12:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
+      "location": "CANOVA Aula CA202 (2 piano)",
       "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DE LUCA GIACOMO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-11-12T10:30",
       "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DE LUCA GIACOMO)",
@@ -1010,10 +1019,10 @@
     },
     "99e97fb04f3529891732f52f@unirsr-calendar": {
       "date": "2026-11-12",
-      "end": "2026-11-12T17:30",
-      "location": "CANOVA Aula CA302 (3 piano)",
-      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-12T15:30",
+      "end": "2026-11-12T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-12T08:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
       "uid": "99e97fb04f3529891732f52f@unirsr-calendar"
     },
@@ -1610,15 +1619,6 @@
       "start": "2026-11-18T17:30",
       "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
       "uid": "f5b5c8e67bcfe844ad0782d0@unirsr-calendar"
-    },
-    "f99ba5d340df190a642074d9@unirsr-calendar": {
-      "date": "2026-12-01",
-      "end": "2026-12-01T17:30",
-      "location": "VASARI Aula VA302 (3 piano)",
-      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-01T15:30",
-      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
-      "uid": "f99ba5d340df190a642074d9@unirsr-calendar"
     },
     "faf7ac5713e39890a6906c1a@unirsr-calendar": {
       "date": "2026-12-15",
