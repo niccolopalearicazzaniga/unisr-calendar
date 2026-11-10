@@ -81,6 +81,15 @@
       "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: TRAVERSO ALBERTO)",
       "uid": "0d3490d2f1f21afb436ab51c@unirsr-calendar"
     },
+    "0d4cec0d63305a36a3304ec9@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-04T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "0d4cec0d63305a36a3304ec9@unirsr-calendar"
+    },
     "0e581959b9e6e5c21e514ea8@unirsr-calendar": {
       "date": "2026-10-21",
       "end": "2026-10-21T10:30",
@@ -323,6 +332,15 @@
       "start": "2026-11-30T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CORTESE KATIA)",
       "uid": "34863824b70ee02b42965f6f@unirsr-calendar"
+    },
+    "34f0ff5b75212757fc5057d9@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-27T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "34f0ff5b75212757fc5057d9@unirsr-calendar"
     },
     "352d75b65b6ba0a846f9a125@unirsr-calendar": {
       "date": "2026-11-18",
@@ -1097,15 +1115,6 @@
       "start": "2026-12-21T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: FALLETTA PAOLA)",
       "uid": "af2b5a2934e249d78f66567d@unirsr-calendar"
-    },
-    "afe4857c3140b076aac093a6@unirsr-calendar": {
-      "date": "2026-12-09",
-      "end": "2026-12-09T19:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
-      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-09T17:30",
-      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
-      "uid": "afe4857c3140b076aac093a6@unirsr-calendar"
     },
     "affe17884c869f8b2ffd88ff@unirsr-calendar": {
       "date": "2026-10-22",

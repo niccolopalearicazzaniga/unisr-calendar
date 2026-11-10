@@ -756,15 +756,6 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (docente: CORTI ANGELO)",
       "uid": "7c52ca71d304b9638de25b97@unirsr-calendar"
     },
-    "7e072507a9c53073972e45c1@unirsr-calendar": {
-      "date": "2026-11-10",
-      "end": "2026-11-10T16:30",
-      "location": "DIBIT1 Aula AVICENNA (piano terra)",
-      "raw": "14:30-16:30 | Lezione: Biologia (docente: PANINA PAOLA) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
-      "start": "2026-11-10T14:30",
-      "subject": "Lezione: Biologia (docente: PANINA PAOLA)",
-      "uid": "7e072507a9c53073972e45c1@unirsr-calendar"
-    },
     "81c1f0439b42c736b715a361@unirsr-calendar": {
       "date": "2026-11-19",
       "end": "2026-11-19T13:30",
@@ -782,6 +773,15 @@
       "start": "2026-12-22T14:30",
       "subject": "Lezione: Biologia (docente: PANINA PAOLA)",
       "uid": "84b40c0c758ddf8dd397ab30@unirsr-calendar"
+    },
+    "857e1fec4eaee529a4d03241@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T16:30",
+      "location": "DIBIT1 Aula AVICENNA (piano terra)",
+      "raw": "14:30-16:30 | Lezione: Biologia (docente: LOCATELLI ANDREA) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-11-10T14:30",
+      "subject": "Lezione: Biologia (docente: LOCATELLI ANDREA)",
+      "uid": "857e1fec4eaee529a4d03241@unirsr-calendar"
     },
     "88425aded357f29734bdec39@unirsr-calendar": {
       "date": "2026-11-27",
@@ -827,15 +827,6 @@
       "start": "2026-11-30T16:30",
       "subject": "Lezione: Statistica medica ed epidemiologia (docente: AMBROSI ALESSANDRO)",
       "uid": "904f53c93bbe7aac2ff2230e@unirsr-calendar"
-    },
-    "91e340306cebd27e820b1b0a@unirsr-calendar": {
-      "date": "2026-11-11",
-      "end": "2026-11-11T16:30",
-      "location": "DIBIT1 Aula AVICENNA (piano terra)",
-      "raw": "14:30-16:30 | Lezione: Biologia (docente: PANINA PAOLA) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
-      "start": "2026-11-11T14:30",
-      "subject": "Lezione: Biologia (docente: PANINA PAOLA)",
-      "uid": "91e340306cebd27e820b1b0a@unirsr-calendar"
     },
     "93101d92ccc8a50d9587ec07@unirsr-calendar": {
       "date": "2026-12-01",
@@ -962,15 +953,6 @@
       "start": "2026-12-04T09:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (docente: CORTI ANGELO)",
       "uid": "9fb8eeb408b356015400166e@unirsr-calendar"
-    },
-    "a249fa1f7e4d05d4bf30fd8a@unirsr-calendar": {
-      "date": "2026-11-10",
-      "end": "2026-11-10T13:30",
-      "location": "DIBIT1 Aula AVICENNA (piano terra)",
-      "raw": "11:30-13:30 | Lezione: Biologia (docente: CIONI JEAN-MICHEL) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
-      "start": "2026-11-10T11:30",
-      "subject": "Lezione: Biologia (docente: CIONI JEAN-MICHEL)",
-      "uid": "a249fa1f7e4d05d4bf30fd8a@unirsr-calendar"
     },
     "a323042ad362e96f0649093f@unirsr-calendar": {
       "date": "2026-12-22",
@@ -1538,6 +1520,15 @@
       "start": "2026-11-10T16:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (docente: DEGANO MASSIMO)",
       "uid": "feb8f933b093b9928706a190@unirsr-calendar"
+    },
+    "fedc863850b9dc051f9101f6@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T16:30",
+      "location": "DIBIT1 Aula AVICENNA (piano terra)",
+      "raw": "14:30-16:30 | Lezione: Biologia (docente: LOCATELLI ANDREA) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-11-11T14:30",
+      "subject": "Lezione: Biologia (docente: LOCATELLI ANDREA)",
+      "uid": "fedc863850b9dc051f9101f6@unirsr-calendar"
     },
     "ff8b90fe5ebcf9c5e26f0042@unirsr-calendar": {
       "date": "2027-01-12",
