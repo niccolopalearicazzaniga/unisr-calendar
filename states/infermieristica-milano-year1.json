@@ -621,15 +621,6 @@
       "subject": "Lezione: 2 - Fondamenti biomolecolari della vita (docente: VAGO RICCARDO)",
       "uid": "8638228050ade203c849b402@unirsr-calendar"
     },
-    "884ec6f30fabf1c471df5bd5@unirsr-calendar": {
-      "date": "2026-11-12",
-      "end": "2026-11-12T13:00",
-      "location": "DIBIT2 Aula ERACLITO (1 piano)",
-      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE) | Corso di Laurea in Infermieristica | 1",
-      "start": "2026-11-12T11:00",
-      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: GALLI EMANUELE)",
-      "uid": "884ec6f30fabf1c471df5bd5@unirsr-calendar"
-    },
     "8c2ad6097caa5809d8e8350f@unirsr-calendar": {
       "date": "2026-12-16",
       "end": "2026-12-16T18:00",
@@ -899,6 +890,15 @@
       "start": "2026-12-01T11:00",
       "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
       "uid": "b5c993bf31eab0c4db976977@unirsr-calendar"
+    },
+    "b607090e29eb96d39f8182d6@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-12T11:00",
+      "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: GIROTTO ALESSANDRO)",
+      "uid": "b607090e29eb96d39f8182d6@unirsr-calendar"
     },
     "ba485195d171e5a6e6343f1e@unirsr-calendar": {
       "date": "2026-11-11",
