@@ -882,6 +882,15 @@
       "subject": "Lezione: Genetica Medica (LINEA AZZURRA) (docente: DE RITIS DANIELE)",
       "uid": "89763198f219dd790917f2a5@unirsr-calendar"
     },
+    "89c766dccdd49980b230d6d7@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T15:30",
+      "location": "BORROMINI Aula BO401 (4 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-11T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: TACCHETTI CARLO)",
+      "uid": "89c766dccdd49980b230d6d7@unirsr-calendar"
+    },
     "8db0bb8b33028245d72d61a6@unirsr-calendar": {
       "date": "2026-09-22",
       "end": "2026-09-22T12:30",
@@ -1646,15 +1655,6 @@
       "start": "2027-01-11T08:30",
       "subject": "Lezione: Fisiologia (LINEA AZZURRA) (docente: PIEMONTI LORENZO)",
       "uid": "fc4277e75d00fe7fca75cad1@unirsr-calendar"
-    },
-    "fc591d3dd804c17bd9d0ccb4@unirsr-calendar": {
-      "date": "2026-12-22",
-      "end": "2026-12-22T12:30",
-      "location": "VASARI Aula VA401 (4 piano)",
-      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-22T10:30",
-      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: TACCHETTI CARLO)",
-      "uid": "fc591d3dd804c17bd9d0ccb4@unirsr-calendar"
     },
     "fc9c77f9fcd4d5841d6ed74a@unirsr-calendar": {
       "date": "2026-10-16",

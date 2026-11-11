@@ -117,6 +117,15 @@
       "subject": "Lezione: Medical Physics (docente: PALMISANO ANNA)",
       "uid": "0b6207d25607de16a2493bcd@unirsr-calendar"
     },
+    "0ca780643727843bd2ac4447@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T11:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-17T09:30",
+      "subject": "Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)",
+      "uid": "0ca780643727843bd2ac4447@unirsr-calendar"
+    },
     "0cf7256b0f3d1ccbcd0c1b23@unirsr-calendar": {
       "date": "2026-11-26",
       "end": "2026-11-26T16:30",
@@ -423,15 +432,6 @@
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANGELO)",
       "uid": "35fb4861f7208f9b634104df@unirsr-calendar"
     },
-    "383827094604e215bb7d6f61@unirsr-calendar": {
-      "date": "2026-11-20",
-      "end": "2026-11-20T11:30",
-      "location": "VASARI Aula VA402 (4 piano)",
-      "raw": "09:30-11:30 | Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-20T09:30",
-      "subject": "Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)",
-      "uid": "383827094604e215bb7d6f61@unirsr-calendar"
-    },
     "3858f8edcccb856846d524d9@unirsr-calendar": {
       "date": "2026-10-08",
       "end": "2026-10-08T16:30",
@@ -440,15 +440,6 @@
       "start": "2026-10-08T14:30",
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
       "uid": "3858f8edcccb856846d524d9@unirsr-calendar"
-    },
-    "3af0c19ee1e6bf147235bfc1@unirsr-calendar": {
-      "date": "2026-11-17",
-      "end": "2026-11-17T11:30",
-      "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "09:30-11:30 | Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-17T09:30",
-      "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
-      "uid": "3af0c19ee1e6bf147235bfc1@unirsr-calendar"
     },
     "3cbd31db76b520df75a9c5f5@unirsr-calendar": {
       "date": "2026-11-02",
@@ -873,15 +864,6 @@
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FLAVIO )",
       "uid": "9827da7f23af6540dcdcd9cd@unirsr-calendar"
     },
-    "98ad825442d610fb72344630@unirsr-calendar": {
-      "date": "2026-11-30",
-      "end": "2026-11-30T16:30",
-      "location": "VASARI Aula VA402 (4 piano)",
-      "raw": "14:30-16:30 | Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-30T14:30",
-      "subject": "Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)",
-      "uid": "98ad825442d610fb72344630@unirsr-calendar"
-    },
     "9986cae46124fa99c8fb3fe6@unirsr-calendar": {
       "date": "2026-10-14",
       "end": "2026-10-14T13:30",
@@ -935,6 +917,24 @@
       "start": "2026-10-20T14:30",
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
       "uid": "a4a7e7c88a2c5dc35da694fc@unirsr-calendar"
+    },
+    "a5f0235bec44702785855cf9@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T11:30",
+      "location": "VASARI Aula VA402 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-20T09:30",
+      "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "a5f0235bec44702785855cf9@unirsr-calendar"
+    },
+    "a8079bbd4a6a9a3946963ea1@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T10:00",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "09:00-10:00 | Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-01T09:00",
+      "subject": "Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)",
+      "uid": "a8079bbd4a6a9a3946963ea1@unirsr-calendar"
     },
     "aa441e4d8e5119fd3e1f9abb@unirsr-calendar": {
       "date": "2026-11-10",

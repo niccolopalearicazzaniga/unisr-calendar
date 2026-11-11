@@ -99,15 +99,6 @@
       "subject": "Lezione: Genetica Medica (LINEA VERDE) (docente: PIPITONE GIOVANNI BATTISTA)",
       "uid": "0ae8c4b20a9045d31cc95f6d@unirsr-calendar"
     },
-    "0cce740859a8844124ba26a2@unirsr-calendar": {
-      "date": "2026-11-24",
-      "end": "2026-11-24T12:30",
-      "location": "VASARI Aula VA301 (3 piano)",
-      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-11-24T10:30",
-      "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: TACCHETTI CARLO)",
-      "uid": "0cce740859a8844124ba26a2@unirsr-calendar"
-    },
     "0dabd8124cc362ca5401a1b4@unirsr-calendar": {
       "date": "2026-12-17",
       "end": "2026-12-17T12:30",
@@ -666,6 +657,15 @@
       "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: BUCCINO GIOVANNI)",
       "uid": "68d454dbe8b91c6c6f88a8c2@unirsr-calendar"
     },
+    "69a6c1f26ee134c1e5bbe844@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-04T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: TACCHETTI CARLO)",
+      "uid": "69a6c1f26ee134c1e5bbe844@unirsr-calendar"
+    },
     "6a842529668aa4682b5f6e9e@unirsr-calendar": {
       "date": "2026-11-02",
       "end": "2026-11-02T10:30",
@@ -818,6 +818,15 @@
       "start": "2026-11-17T13:30",
       "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: BUCCINO GIOVANNI)",
       "uid": "818e74fa004182ce925a79b7@unirsr-calendar"
+    },
+    "81b98cae704053419d376abc@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-12T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: TACCHETTI CARLO)",
+      "uid": "81b98cae704053419d376abc@unirsr-calendar"
     },
     "865c9d7b8268c07626a9af3b@unirsr-calendar": {
       "date": "2026-12-17",
@@ -1358,15 +1367,6 @@
       "start": "2026-11-11T10:30",
       "subject": "Lezione: Semeiotica (LINEA VERDE) (docente: DE LUCA GIACOMO)",
       "uid": "efe1caaa57de9bd7b5225167@unirsr-calendar"
-    },
-    "f3106020fe2cd0a13c9d05b7@unirsr-calendar": {
-      "date": "2026-12-21",
-      "end": "2026-12-21T10:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-12-21T08:30",
-      "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: TACCHETTI CARLO)",
-      "uid": "f3106020fe2cd0a13c9d05b7@unirsr-calendar"
     },
     "f34226a964f77ba5519c1eb8@unirsr-calendar": {
       "date": "2026-10-21",
