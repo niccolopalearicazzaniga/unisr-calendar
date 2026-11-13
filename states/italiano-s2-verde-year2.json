@@ -360,15 +360,6 @@
       "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO)",
       "uid": "35468975e1acb99c9563e5b4@unirsr-calendar"
     },
-    "36ec5fc20ae420ae49642c60@unirsr-calendar": {
-      "date": "2026-11-16",
-      "end": "2026-11-16T12:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA VERDE) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-11-16T10:30",
-      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: BUCCINO GIOVANNI)",
-      "uid": "36ec5fc20ae420ae49642c60@unirsr-calendar"
-    },
     "36f8b1e2b3a99add05c200ed@unirsr-calendar": {
       "date": "2026-11-19",
       "end": "2026-11-19T15:30",
@@ -836,6 +827,15 @@
       "start": "2026-12-17T15:30",
       "subject": "Lezione: Genetica Medica (LINEA VERDE) (docente: GIGLIO SABRINA RITA)",
       "uid": "865c9d7b8268c07626a9af3b@unirsr-calendar"
+    },
+    "8993002500ee997bf57ea641@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T17:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA VERDE) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-17T15:30",
+      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: BUCCINO GIOVANNI)",
+      "uid": "8993002500ee997bf57ea641@unirsr-calendar"
     },
     "8b231f1d4f0bdd5293640f8c@unirsr-calendar": {
       "date": "2027-01-07",
