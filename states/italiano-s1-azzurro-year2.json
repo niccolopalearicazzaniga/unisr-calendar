@@ -630,15 +630,6 @@
       "subject": "Lezione: Istologia (LINEA AZZURRA) (docente: LOMBARDO ANGELO LEONE)",
       "uid": "577b60d7cb1b7c335946b7ec@unirsr-calendar"
     },
-    "594d29dd62af0ca616c4c368@unirsr-calendar": {
-      "date": "2026-11-18",
-      "end": "2026-11-18T17:30",
-      "location": "VASARI Aula VA201 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA AZZURRA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-18T15:30",
-      "subject": "Lezione: Genetica Medica (LINEA AZZURRA) (docente: MALTECCA FRANCESCA)",
-      "uid": "594d29dd62af0ca616c4c368@unirsr-calendar"
-    },
     "59bac4c7e208252c50697a10@unirsr-calendar": {
       "date": "2026-12-04",
       "end": "2026-12-04T12:30",
@@ -746,6 +737,15 @@
       "start": "2027-01-11T10:30",
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: PALUMBO DIEGO)",
       "uid": "6e9e7659d10aeb02899d2b83@unirsr-calendar"
+    },
+    "6f2e15d32dbd38652ca9cacc@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T17:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA AZZURRA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-18T15:30",
+      "subject": "Lezione: Genetica Medica (LINEA AZZURRA) (docente: RAMPOLDI LUCA)",
+      "uid": "6f2e15d32dbd38652ca9cacc@unirsr-calendar"
     },
     "71da55697598432ef74eb6ba@unirsr-calendar": {
       "date": "2026-10-13",

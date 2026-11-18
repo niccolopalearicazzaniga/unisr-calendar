@@ -297,6 +297,15 @@
       "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
       "uid": "2d9e675187c24288e9cd87d1@unirsr-calendar"
     },
+    "2ddc94b38a9d43ca0a12cbd6@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T17:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-18T15:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA)",
+      "uid": "2ddc94b38a9d43ca0a12cbd6@unirsr-calendar"
+    },
     "3194282e732bf68c15783376@unirsr-calendar": {
       "date": "2026-10-01",
       "end": "2026-10-01T15:30",
@@ -431,15 +440,6 @@
       "start": "2026-10-01T10:30",
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
       "uid": "3d9e9c11c5008e03e9812689@unirsr-calendar"
-    },
-    "3e5e263fdee00b25262babd5@unirsr-calendar": {
-      "date": "2026-11-18",
-      "end": "2026-11-18T17:30",
-      "location": "VASARI Aula VA201 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-18T15:30",
-      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
-      "uid": "3e5e263fdee00b25262babd5@unirsr-calendar"
     },
     "3ed234c6b8b1c152425b7b07@unirsr-calendar": {
       "date": "2026-12-10",

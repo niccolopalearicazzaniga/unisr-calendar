@@ -621,15 +621,6 @@
       "subject": "Lezione: Biochimica (LINEA AZZURRA) (docente: DE CURTIS IVANMATTEO)",
       "uid": "8bd7b45e7ae07fb09ed66115@unirsr-calendar"
     },
-    "8fd36d042546458da959d41f@unirsr-calendar": {
-      "date": "2026-11-18",
-      "end": "2026-11-18T16:30",
-      "location": "CANOVA Aula CA301 (3 piano)",
-      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-18T14:30",
-      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: PICCOLI MARCO)",
-      "uid": "8fd36d042546458da959d41f@unirsr-calendar"
-    },
     "90ea1f103cdec26333a0f3e2@unirsr-calendar": {
       "date": "2027-01-11",
       "end": "2027-01-11T16:30",
@@ -657,6 +648,15 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: ANASTASIA LUIGI)",
       "uid": "920f19fb05727295b89efd66@unirsr-calendar"
     },
+    "94518fd202412e7fdb90539f@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-01T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: PICCOLI MARCO)",
+      "uid": "94518fd202412e7fdb90539f@unirsr-calendar"
+    },
     "98bb5dfee1c07912dafe069c@unirsr-calendar": {
       "date": "2026-11-30",
       "end": "2026-11-30T16:30",
@@ -674,6 +674,15 @@
       "start": "2026-11-12T11:30",
       "subject": "Lezione: Biologia (LINEA AZZURRA) (docente: PANINA PAOLA)",
       "uid": "98d41acef9e317be4bc7471d@unirsr-calendar"
+    },
+    "9a2ad59ffab548774c1e898a@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T16:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-18T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: CIRILLO FEDERICA)",
+      "uid": "9a2ad59ffab548774c1e898a@unirsr-calendar"
     },
     "9aea7a6c415003309fdbbd88@unirsr-calendar": {
       "date": "2026-10-28",
@@ -737,15 +746,6 @@
       "start": "2026-10-09T09:30",
       "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA)",
       "uid": "a5f23de51a0d942f9e9ea127@unirsr-calendar"
-    },
-    "a61821f4bf4090e482e3e8cd@unirsr-calendar": {
-      "date": "2026-11-18",
-      "end": "2026-11-18T11:30",
-      "location": "VERROCCHIO Aula VE201 (2 piano)",
-      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-18T09:30",
-      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: ANASTASIA LUIGI)",
-      "uid": "a61821f4bf4090e482e3e8cd@unirsr-calendar"
     },
     "a632036150671458b55598f7@unirsr-calendar": {
       "date": "2026-11-05",
@@ -863,15 +863,6 @@
       "start": "2026-11-20T11:30",
       "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA AZZURRA) (docente: FAVA FRANCESCA)",
       "uid": "b2167f2207cdf95bab0ab406@unirsr-calendar"
-    },
-    "b87d00e878bca1af50a53d06@unirsr-calendar": {
-      "date": "2026-11-27",
-      "end": "2026-11-27T11:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-27T09:30",
-      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: CIRILLO FEDERICA)",
-      "uid": "b87d00e878bca1af50a53d06@unirsr-calendar"
     },
     "b886712c34b81d2ecaea0dc9@unirsr-calendar": {
       "date": "2027-01-08",
