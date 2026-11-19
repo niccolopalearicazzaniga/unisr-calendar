@@ -135,6 +135,15 @@
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
       "uid": "0cf7256b0f3d1ccbcd0c1b23@unirsr-calendar"
     },
+    "0f2da6e64b167308a955ac41@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T18:30",
+      "location": "VASARI Aula VA402 (4 piano)",
+      "raw": "14:30-18:30 | Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO ) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-09T14:30",
+      "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO )",
+      "uid": "0f2da6e64b167308a955ac41@unirsr-calendar"
+    },
     "1078f43cd6470c54c8cf6bba@unirsr-calendar": {
       "date": "2026-11-13",
       "end": "2026-11-13T16:30",
@@ -918,15 +927,6 @@
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
       "uid": "a4a7e7c88a2c5dc35da694fc@unirsr-calendar"
     },
-    "a5f0235bec44702785855cf9@unirsr-calendar": {
-      "date": "2026-11-20",
-      "end": "2026-11-20T11:30",
-      "location": "VASARI Aula VA402 (4 piano)",
-      "raw": "09:30-11:30 | Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-20T09:30",
-      "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
-      "uid": "a5f0235bec44702785855cf9@unirsr-calendar"
-    },
     "a8079bbd4a6a9a3946963ea1@unirsr-calendar": {
       "date": "2026-12-01",
       "end": "2026-12-01T10:00",
@@ -980,6 +980,15 @@
       "start": "2026-10-15T14:30",
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
       "uid": "b332968b78a71743840e3248@unirsr-calendar"
+    },
+    "b38b1af8cf25146dfe29d743@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T13:30",
+      "location": "VASARI Aula VA402 (4 piano)",
+      "raw": "11:30-13:30 | Lezione: Basic medical statistics (docente: RANCOITA PAOLA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-20T11:30",
+      "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA)",
+      "uid": "b38b1af8cf25146dfe29d743@unirsr-calendar"
     },
     "b396965bed8e98bcb957e63f@unirsr-calendar": {
       "date": "2026-10-13",
@@ -1262,10 +1271,10 @@
     },
     "e95f87e34d5a991bc2ff03f7@unirsr-calendar": {
       "date": "2026-11-20",
-      "end": "2026-11-20T13:30",
+      "end": "2026-11-20T11:30",
       "location": "VASARI Aula VA402 (4 piano)",
-      "raw": "11:30-13:30 | Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-20T11:30",
+      "raw": "09:30-11:30 | Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-20T09:30",
       "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
       "uid": "e95f87e34d5a991bc2ff03f7@unirsr-calendar"
     },
@@ -1340,6 +1349,15 @@
       "start": "2026-10-23T11:30",
       "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
       "uid": "f84697af286295f5bf8c76ec@unirsr-calendar"
+    },
+    "fa29937e405a0550b4892b2c@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T18:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "16:30-18:30 | Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO ) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-23T16:30",
+      "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO )",
+      "uid": "fa29937e405a0550b4892b2c@unirsr-calendar"
     },
     "fb76930a626712b360edfcf8@unirsr-calendar": {
       "date": "2026-10-21",

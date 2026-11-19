@@ -360,15 +360,6 @@
       "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
       "uid": "49ae23de82f91506cb23f7a4@unirsr-calendar"
     },
-    "4aae2f8af6add67136b23454@unirsr-calendar": {
-      "date": "2026-12-18",
-      "end": "2026-12-18T11:30",
-      "location": "VERROCCHIO Aula VE201 (2 piano)",
-      "raw": "09:30-11:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-12-18T09:30",
-      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
-      "uid": "4aae2f8af6add67136b23454@unirsr-calendar"
-    },
     "4b741d3101c535c03b3e4e79@unirsr-calendar": {
       "date": "2026-10-16",
       "end": "2026-10-16T13:30",
@@ -620,6 +611,15 @@
       "start": "2027-01-12T11:30",
       "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
       "uid": "744207a9d760ead00370b609@unirsr-calendar"
+    },
+    "746ba1610bd1cdda2bf034c0@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-17T14:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "746ba1610bd1cdda2bf034c0@unirsr-calendar"
     },
     "74b2c77bfcaeb0deeac7ba11@unirsr-calendar": {
       "date": "2026-11-05",
