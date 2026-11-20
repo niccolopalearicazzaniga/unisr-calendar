@@ -47,10 +47,10 @@
     },
     "09ff9acd840f9d283c83bb7a@unirsr-calendar": {
       "date": "2026-12-02",
-      "end": "2026-12-02T15:30",
-      "location": "CANOVA Aula CA202 (2 piano)",
-      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA VIOLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
-      "start": "2026-12-02T13:30",
+      "end": "2026-12-02T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA VIOLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
+      "start": "2026-12-02T15:30",
       "subject": "Lezione: Genetica Medica (LINEA VIOLA) (docente: RAMPOLDI LUCA)",
       "uid": "09ff9acd840f9d283c83bb7a@unirsr-calendar"
     },

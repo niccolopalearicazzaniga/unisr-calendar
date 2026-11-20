@@ -810,15 +810,6 @@
       "subject": "Lezione: Istologia (LINEA AZZURRA) (docente: CANTORE ALESSIO)",
       "uid": "7bd0e97df13286173e8e1935@unirsr-calendar"
     },
-    "7fb1e86446d872f8d575f201@unirsr-calendar": {
-      "date": "2026-12-11",
-      "end": "2026-12-11T17:30",
-      "location": "CANOVA Aula CA201 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-11T15:30",
-      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CASONI FILIPPO)",
-      "uid": "7fb1e86446d872f8d575f201@unirsr-calendar"
-    },
     "80ce462d3728b35a05529b38@unirsr-calendar": {
       "date": "2026-10-15",
       "end": "2026-10-15T15:30",
@@ -1196,6 +1187,15 @@
       "start": "2026-12-14T10:30",
       "subject": "Lezione: Genetica Medica (LINEA AZZURRA) (docente: GIGLIO SABRINA RITA)",
       "uid": "b6c8281a112990667b395788@unirsr-calendar"
+    },
+    "b7737358e43084eb484630db@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T15:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-04T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CASONI FILIPPO)",
+      "uid": "b7737358e43084eb484630db@unirsr-calendar"
     },
     "b8b529cd4ffa611caa743260@unirsr-calendar": {
       "date": "2026-10-01",
