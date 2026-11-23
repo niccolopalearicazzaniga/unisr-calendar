@@ -648,6 +648,15 @@
       "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CELADA DANIELE)",
       "uid": "5e616f4d729f88c52da49d22@unirsr-calendar"
     },
+    "648b7c956ef1205bba296a4d@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T17:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-18T15:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "648b7c956ef1205bba296a4d@unirsr-calendar"
+    },
     "64b3641a015a5d8c723b8b87@unirsr-calendar": {
       "date": "2026-12-09",
       "end": "2026-12-09T15:30",
@@ -926,15 +935,6 @@
       "start": "2026-11-19T13:30",
       "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
       "uid": "8a797d6aa2d573cea2c1d549@unirsr-calendar"
-    },
-    "8a942b24e6230befe5dc2406@unirsr-calendar": {
-      "date": "2026-12-22",
-      "end": "2026-12-22T10:30",
-      "location": "CANOVA Aula CA202 (2 piano)",
-      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-22T08:30",
-      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
-      "uid": "8a942b24e6230befe5dc2406@unirsr-calendar"
     },
     "8bfd9592bf44dc8b8864b8e2@unirsr-calendar": {
       "date": "2026-11-20",
