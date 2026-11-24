@@ -200,10 +200,10 @@
     },
     "1b0d514d05a976bea5809f0f@unirsr-calendar": {
       "date": "2026-11-26",
-      "end": "2026-11-26T12:30",
+      "end": "2026-11-26T10:30",
       "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "10:30-12:30 | Lezione: Human Anatomy (docente: VITALE MARCO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-26T10:30",
+      "raw": "08:30-10:30 | Lezione: Human Anatomy (docente: VITALE MARCO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-26T08:30",
       "subject": "Lezione: Human Anatomy (docente: VITALE MARCO)",
       "uid": "1b0d514d05a976bea5809f0f@unirsr-calendar"
     },
@@ -314,6 +314,15 @@
       "start": "2026-11-16T15:30",
       "subject": "Lezione: Gerontology and Geriatrics: the bases of aging and age-related diseases. (docente: LOCATELLI ANDREA GIACOMO)",
       "uid": "257260a14cbea45d08ea0812@unirsr-calendar"
+    },
+    "2a7e0647abffbfc8582f5f54@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T12:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Human Anatomy (docente: VITALE MARCO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-26T10:30",
+      "subject": "Lezione: Human Anatomy (docente: VITALE MARCO)",
+      "uid": "2a7e0647abffbfc8582f5f54@unirsr-calendar"
     },
     "2fdc5ed613874a05ecfd6f76@unirsr-calendar": {
       "date": "2027-01-12",
@@ -1188,15 +1197,6 @@
       "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
       "uid": "a1bdbc24fee7d8c5931b34ab@unirsr-calendar"
     },
-    "a337a5355e9c3ac8846b51ca@unirsr-calendar": {
-      "date": "2026-11-25",
-      "end": "2026-11-25T17:30",
-      "location": "BORROMINI Aula BO401 (4 piano)",
-      "raw": "15:30-17:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-25T15:30",
-      "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO)",
-      "uid": "a337a5355e9c3ac8846b51ca@unirsr-calendar"
-    },
     "a3687c6d972da49e4763314d@unirsr-calendar": {
       "date": "2026-11-18",
       "end": "2026-11-18T15:30",
@@ -1871,6 +1871,15 @@
       "start": "2026-11-19T15:30",
       "subject": "Lezione: Stem Cells, Organoids and Tissue engineering: the foundations of regenerative medicine (docente: SORDI VALERIA DANIELA)",
       "uid": "ff22e912e9469771d61faade@unirsr-calendar"
+    },
+    "ff4e27734d3fc19ca94690a3@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T17:30",
+      "location": "BORROMINI Aula BO401 (4 piano)",
+      "raw": "15:30-17:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-14T15:30",
+      "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO)",
+      "uid": "ff4e27734d3fc19ca94690a3@unirsr-calendar"
     }
   }
 }
