@@ -36,15 +36,6 @@
       "subject": "Lezione: Genetica Medica (LINEA AZZURRA) (docente: GIGLIO SABRINA RITA)",
       "uid": "04ec5e58270e943195349cd0@unirsr-calendar"
     },
-    "0891b0bf8b1b3656e5c3157d@unirsr-calendar": {
-      "date": "2026-11-27",
-      "end": "2026-11-27T15:30",
-      "location": "CANOVA Aula CA202 (2 piano)",
-      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA AZZURRA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-27T13:30",
-      "subject": "Lezione: Fisiologia (LINEA AZZURRA) (docente: CODAZZI FRANCA)",
-      "uid": "0891b0bf8b1b3656e5c3157d@unirsr-calendar"
-    },
     "0c3e86a5795c503c1282f09b@unirsr-calendar": {
       "date": "2026-11-16",
       "end": "2026-11-16T19:30",
@@ -594,6 +585,15 @@
       "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: LARCHER ALESSANDRO)",
       "uid": "527dde6573c6af39f6d410d0@unirsr-calendar"
     },
+    "529f6d36c4ea17c49cc003e5@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T17:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-14T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CASONI FILIPPO)",
+      "uid": "529f6d36c4ea17c49cc003e5@unirsr-calendar"
+    },
     "53cffc6f8ed98d2638a0493f@unirsr-calendar": {
       "date": "2026-11-19",
       "end": "2026-11-19T15:30",
@@ -840,7 +840,7 @@
     "83e8f484e5c0a97fab9df479@unirsr-calendar": {
       "date": "2026-12-14",
       "end": "2026-12-14T15:30",
-      "location": "BORROMINI Aula BO202 (2 piano)",
+      "location": "BORROMINI Aula BO302 (3 piano)",
       "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-12-14T13:30",
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: FALLETTA PAOLA)",
@@ -1313,15 +1313,6 @@
       "start": "2026-12-10T10:30",
       "subject": "Lezione: Genetica Medica (LINEA AZZURRA) (docente: GIGLIO SABRINA RITA)",
       "uid": "cb991be2e44d25dc61b0b060@unirsr-calendar"
-    },
-    "cbcbe0cefdb2bb1d751aefb5@unirsr-calendar": {
-      "date": "2026-12-17",
-      "end": "2026-12-17T15:30",
-      "location": "BORROMINI Aula BO201 (2 piano)",
-      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-17T13:30",
-      "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: CASONI FILIPPO)",
-      "uid": "cbcbe0cefdb2bb1d751aefb5@unirsr-calendar"
     },
     "cd9a9bd745f3e04028d81d07@unirsr-calendar": {
       "date": "2026-11-05",
