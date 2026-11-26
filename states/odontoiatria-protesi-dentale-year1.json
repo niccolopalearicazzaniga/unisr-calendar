@@ -281,10 +281,10 @@
     },
     "224fec07001060078367610b@unirsr-calendar": {
       "date": "2026-12-04",
-      "end": "2026-12-04T16:30",
+      "end": "2026-12-04T13:30",
       "location": "DIBIT1 Aula AVICENNA (piano terra)",
-      "raw": "14:30-16:30 | Lezione: Fisica (docente: ALOI ERIKA) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
-      "start": "2026-12-04T14:30",
+      "raw": "11:30-13:30 | Lezione: Fisica (docente: ALOI ERIKA) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-12-04T11:30",
       "subject": "Lezione: Fisica (docente: ALOI ERIKA)",
       "uid": "224fec07001060078367610b@unirsr-calendar"
     },

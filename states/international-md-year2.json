@@ -351,6 +351,15 @@
       "subject": "Lezione: Flow cytometry in translational and clinical science (docente: ANSELMO ACHILLE)",
       "uid": "31c8351ba81fbb4e5ad6e5c0@unirsr-calendar"
     },
+    "327738a864846871107ef52d@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T17:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: PECORELLI NICOLO') | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-03T15:30",
+      "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: PECORELLI NICOLO')",
+      "uid": "327738a864846871107ef52d@unirsr-calendar"
+    },
     "328232b08386c8ff82f984f3@unirsr-calendar": {
       "date": "2026-10-12",
       "end": "2026-10-12T10:30",
@@ -1350,15 +1359,6 @@
       "subject": "Lezione: Human Anatomy (docente: CASONI FILIPPO)",
       "uid": "b4879be086439f2481309e4c@unirsr-calendar"
     },
-    "b5e333924cd5a540ce2ee2b9@unirsr-calendar": {
-      "date": "2026-12-04",
-      "end": "2026-12-04T17:30",
-      "location": "CANOVA Aula CA201 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Health Communication and Misinformation (docente: FLORIS MARA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-04T15:30",
-      "subject": "Lezione: Health Communication and Misinformation (docente: FLORIS MARA)",
-      "uid": "b5e333924cd5a540ce2ee2b9@unirsr-calendar"
-    },
     "b6f63afb0ee44b1628cc488a@unirsr-calendar": {
       "date": "2026-10-22",
       "end": "2026-10-22T15:30",
@@ -1584,15 +1584,6 @@
       "subject": "Lezione: Flow cytometry in translational and clinical science (docente: ANSELMO ACHILLE)",
       "uid": "d3f58dae93b049b0e15f94c4@unirsr-calendar"
     },
-    "d57405e70e2327497512df52@unirsr-calendar": {
-      "date": "2026-11-27",
-      "end": "2026-11-27T17:30",
-      "location": "BORROMINI Aula BO302 (3 piano)",
-      "raw": "15:30-17:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: PECORELLI NICOLO') | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-27T15:30",
-      "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: PECORELLI NICOLO')",
-      "uid": "d57405e70e2327497512df52@unirsr-calendar"
-    },
     "d8903b4b0e579ddc00f57af6@unirsr-calendar": {
       "date": "2027-01-11",
       "end": "2027-01-11T12:30",
@@ -1737,15 +1728,6 @@
       "subject": "Lezione: Physiology (docente: BUCCINO GIOVANNI)",
       "uid": "ebf02450c109b5ea6b345257@unirsr-calendar"
     },
-    "ec2fa390ce5f9f475841c96b@unirsr-calendar": {
-      "date": "2026-11-27",
-      "end": "2026-11-27T17:30",
-      "location": "BORROMINI Aula BO401 (4 piano)",
-      "raw": "15:30-17:30 | Lezione: Health Communication and Misinformation (docente: FLORIS MARA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-27T15:30",
-      "subject": "Lezione: Health Communication and Misinformation (docente: FLORIS MARA)",
-      "uid": "ec2fa390ce5f9f475841c96b@unirsr-calendar"
-    },
     "f023299e30af8211869a0684@unirsr-calendar": {
       "date": "2026-11-06",
       "end": "2026-11-06T12:30",
@@ -1763,6 +1745,15 @@
       "start": "2026-10-02T10:30",
       "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
       "uid": "f0685d233292c22b13ce6984@unirsr-calendar"
+    },
+    "f2e8f424d94d16676d6f8b5a@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T12:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Health Communication and Misinformation (docente: FLORIS MARA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-13T10:30",
+      "subject": "Lezione: Health Communication and Misinformation (docente: FLORIS MARA)",
+      "uid": "f2e8f424d94d16676d6f8b5a@unirsr-calendar"
     },
     "f4225776cb819fb8e6a4d687@unirsr-calendar": {
       "date": "2026-10-09",
@@ -1853,6 +1844,15 @@
       "start": "2026-10-28T08:30",
       "subject": "Lezione: Human Histology (docente: OSTUNI RENATO)",
       "uid": "fd2a82c644956d8869101cf3@unirsr-calendar"
+    },
+    "fda72a98fbbcea86171beb4a@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Health Communication and Misinformation (docente: FLORIS MARA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-12T15:30",
+      "subject": "Lezione: Health Communication and Misinformation (docente: FLORIS MARA)",
+      "uid": "fda72a98fbbcea86171beb4a@unirsr-calendar"
     },
     "fef31a01aeaaebd30e913dae@unirsr-calendar": {
       "date": "2026-12-02",

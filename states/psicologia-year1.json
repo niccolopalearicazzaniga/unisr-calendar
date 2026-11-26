@@ -108,6 +108,15 @@
       "subject": "Lezione: Fondamenti di psicologia generale I (docente: GALBIATI ANDREA)",
       "uid": "182019734bc6e3dcc25a1a81@unirsr-calendar"
     },
+    "19dd32cb1b4b561766a02c10@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T18:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-18T16:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "19dd32cb1b4b561766a02c10@unirsr-calendar"
+    },
     "1ba698d57e3731ba9cc01c53@unirsr-calendar": {
       "date": "2026-10-29",
       "end": "2026-10-29T18:00",
@@ -170,15 +179,6 @@
       "start": "2026-11-26T16:00",
       "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
       "uid": "2bff561e6627ca13052c09d1@unirsr-calendar"
-    },
-    "2fa2ab4f8bbeb0923677c1e5@unirsr-calendar": {
-      "date": "2026-12-16",
-      "end": "2026-12-16T18:00",
-      "location": "DONATELLO Aula DO103 (1 piano)",
-      "raw": "16:00-18:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
-      "start": "2026-12-16T16:00",
-      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
-      "uid": "2fa2ab4f8bbeb0923677c1e5@unirsr-calendar"
     },
     "30b9636a961d01da00a3a5c9@unirsr-calendar": {
       "date": "2026-12-02",
@@ -260,15 +260,6 @@
       "start": "2026-12-04T16:00",
       "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO, RACCHETTI GABRIELLA, MALGAROLI ANTONIO)",
       "uid": "46468789c77d91de2d15fdd6@unirsr-calendar"
-    },
-    "4649c8f01c2784c63ec3c40b@unirsr-calendar": {
-      "date": "2026-12-16",
-      "end": "2026-12-16T13:00",
-      "location": "DONATELLO Aula DO103 (1 piano)",
-      "raw": "11:00-13:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
-      "start": "2026-12-16T11:00",
-      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
-      "uid": "4649c8f01c2784c63ec3c40b@unirsr-calendar"
     },
     "48379555636af7f40d903e5d@unirsr-calendar": {
       "date": "2026-11-25",
@@ -377,6 +368,15 @@
       "start": "2026-12-03T14:00",
       "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
       "uid": "6153b18ee9682a1661359c79@unirsr-calendar"
+    },
+    "61791b79a2903df1e7f8b129@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T13:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "11:00-13:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-18T11:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "61791b79a2903df1e7f8b129@unirsr-calendar"
     },
     "62e467f430b80f3735147777@unirsr-calendar": {
       "date": "2026-11-12",
@@ -530,15 +530,6 @@
       "start": "2026-11-05T14:00",
       "subject": "Lezione: Filosofia della scienza (docente: MARTINI CARLO)",
       "uid": "81532ea7df32e7d1e036841f@unirsr-calendar"
-    },
-    "86d04c46f73452cb61d565ab@unirsr-calendar": {
-      "date": "2026-12-16",
-      "end": "2026-12-16T16:00",
-      "location": "DONATELLO Aula DO103 (1 piano)",
-      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
-      "start": "2026-12-16T14:00",
-      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
-      "uid": "86d04c46f73452cb61d565ab@unirsr-calendar"
     },
     "87c19269edd6eb9c33615f3d@unirsr-calendar": {
       "date": "2026-11-03",
@@ -863,6 +854,15 @@
       "start": "2026-12-09T16:00",
       "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
       "uid": "fa19c1dc030bdd165d5678c5@unirsr-calendar"
+    },
+    "fb88b58b76c36f4147eb37fb@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T16:00",
+      "location": "DONATELLO Aula DO104 (1 piano)",
+      "raw": "14:00-16:00 | Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO) | Corso di Laurea in Scienze e Tecniche Psicologiche | 1",
+      "start": "2026-12-18T14:00",
+      "subject": "Lezione: Elementi di anatomia e fisiologia del sistema nervoso (docente: LAMANNA JACOPO)",
+      "uid": "fb88b58b76c36f4147eb37fb@unirsr-calendar"
     },
     "fed710d20f3957f0488c20db@unirsr-calendar": {
       "date": "2026-11-25",

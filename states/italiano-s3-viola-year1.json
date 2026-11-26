@@ -234,6 +234,15 @@
       "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
       "uid": "1ca81a69e2a877f7fe1ea4bb@unirsr-calendar"
     },
+    "1f95a1f8554bfa0c1a37656c@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T16:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-11T14:30",
+      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "1f95a1f8554bfa0c1a37656c@unirsr-calendar"
+    },
     "1f9edbbc163137882eb25d8f@unirsr-calendar": {
       "date": "2026-12-21",
       "end": "2026-12-21T18:30",
@@ -876,7 +885,7 @@
     "9c568fd4d54c9fbe113bfb83@unirsr-calendar": {
       "date": "2027-01-11",
       "end": "2027-01-11T18:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
+      "location": "CANOVA Aula CA201 (2 piano)",
       "raw": "16:30-18:30 | Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
       "start": "2027-01-11T16:30",
       "subject": "Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)",
@@ -962,15 +971,6 @@
       "start": "2026-10-27T09:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente: ANASTASIA LUIGI)",
       "uid": "b749eae4a08ec4085eee29e1@unirsr-calendar"
-    },
-    "b89e1dfe0f76b70ca194cbc8@unirsr-calendar": {
-      "date": "2026-12-15",
-      "end": "2026-12-15T16:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-12-15T14:30",
-      "subject": "Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)",
-      "uid": "b89e1dfe0f76b70ca194cbc8@unirsr-calendar"
     },
     "bb2d8cc476d48cf97f6e3485@unirsr-calendar": {
       "date": "2026-11-23",

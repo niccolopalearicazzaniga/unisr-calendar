@@ -747,15 +747,6 @@
       "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
       "uid": "8a56ab9bb5e3a86b449b7ea9@unirsr-calendar"
     },
-    "8bfe2c13a398bcc3e4019f37@unirsr-calendar": {
-      "date": "2026-12-15",
-      "end": "2026-12-15T18:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
-      "raw": "16:30-18:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-12-15T16:30",
-      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
-      "uid": "8bfe2c13a398bcc3e4019f37@unirsr-calendar"
-    },
     "90c0e4313c2fbe5726f4b359@unirsr-calendar": {
       "date": "2027-01-08",
       "end": "2027-01-08T16:30",
@@ -1187,6 +1178,15 @@
       "start": "2026-11-06T09:30",
       "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
       "uid": "ef8a9905afb20b1f434c49d0@unirsr-calendar"
+    },
+    "f2d3fcd5d9e191f1667b8b95@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T18:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-11T16:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "f2d3fcd5d9e191f1667b8b95@unirsr-calendar"
     },
     "f3fd4d28570e23557e14e8d9@unirsr-calendar": {
       "date": "2027-01-14",
